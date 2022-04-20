@@ -1,0 +1,624 @@
+
+
+
+###############################################################################
+###############################################################################
+MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+===============================================================================
+* Entrevista: 07/04/2022 - 10:00 a 11:00
+			  ()
+			  José Felipe Mateos Díaz (Coordinador de Área de Sistemas, Comunicaciones, Seguridad y CAU)
+			  Cristina Hernández Ferreiro (Coordinadora de Área de Desarrollos)
+			  Ricardo Burgos (Jefe de Área de comunicaciones)
+
+* Lugar: Sede Central en Plaza San Juan de la Cruz, 10 (Nuevos Ministerios zona Sur del complejo),
+		 Sedes centrales también en Paseo de la Castellana con Plaza de Cuzco (Complejo Cuzco),
+		 Pequeña Sede en José Abascal.
+		 (),
+		 NO HAY PREVISIÓN DE CAMBIO DE SEDE
+
+Ministerio de creación reciente y no es un ministerio pequeño, porque contiene 3 Secretarías
+y 1 Subsecretaría:
+
+- Secretaría de Estado de energía (MUY IMPORTANTE).
+	+ Dirección General de Política Energética y Minas
+	+ Instituto para la Transición Justa
+	+ Instituto para la Diversificación y Ahorro de la Energía (IDAE).
+
+- Secretaría de Estado de medioambiente (en su día fue un ministerio).
+	+ Agencia Estatal de Meteorología (AEMET).
+	+ Dirección General del Agua.
+		# Mancomunidad de Canales de Taibilla.
+		# Confederaciones Hidrográficas.
+	+ Oficina Española del Cambio Climático.
+	+ Dirección General de Calidad y Evaluación Ambiental.
+	+ Dirección General de la Costa y el Mar.
+	+ Dirección General de la Biodiversidad, Bosques y Desertificación.
+
+- Secretaría General para el reto demográfico.
+	+ Dirección General de Políticas contra la Despoblación.
+
+- Subsecretaría para la Transición Ecológica y el Reto Demográfico.
+	+ Secretaría General Técnica.
+	+ Dirección General de Servicios.
+
+
+
+TODA LA GENTE DE INFORMÁTICA ESTÁ EN SAN JUAN DE LA CRUZ.
+
+Esta Subdivisión/División de Informática y Comunicaciones da servicio a los
+servicios centrales del ministerio y a las demarcaciones de costas.
+
+
+-------------------------------------------------------------------------------
+* Movilidad a Provincias (S/N/¿?): NO
+			Hay 30 y pico desmarcaciones de costas en las que no hay servicios
+			de informática, por lo que... ESTE MINISTERIO NO ES EL INDICADO PARA
+			EL QUE QUIERA TRABAJAR EN PROVINCIAS.
+
+			Se trabaja en Servicios Centrales. No hay traslados a costas porque
+			no hay posiciones de informática y comunicaciones en costas.
+
+			De este ministerio dependen también Organismos autónomos que tienen
+			su propio servicio de informática:
+
+				- Confederaciones Hidrográficas.
+					+ Cantábrico.
+					+ Duero.
+					+ Ebro.
+					+ Guadalquivir.
+					+ Guadiana.
+					+ Júcar.
+					+ Miño-Sil.
+					+ Segura.
+					+ Tajo.
+
+			CONSEJO: REVISAR EN LA OFERTA DE DESTINOS LAS PLAZAS DE LAS
+					 CONFEDERACIONES HIDROGRÁFICAS.
+
+			Para poder ir a provincias se puede ir a las plazas que convocan las
+			propias Confederaciones Hidrográficas. Las mismas ofertan plazas
+			para su propia zona (podrían ser provinciales).
+
+			José Felipe Mateos Díaz ha dicho que le consta que alguno de estos
+			organismos (confederaciones hidrográfica) han pedido plazas para
+			ellos y suelen ser en provincias (OLE!!).
+-------------------------------------------------------------------------------
+
+* PLAZAS: - 8 plazas (Nivel 15), pero es una información no contrastada.
+
+		  - 4 plazas en organismos autónomos:
+		  		+ Instituto para la transición justa
+		  		+ Confederaciones hidrográficas (2-3), pero éstas de
+		  		  confederaciones no dependen de este ministerio.
+
+		  Respecto a las plazas, hasta ahora se han ido concediendo el puesto
+		  en base a lo que deseaban hacer, bien desarrollo o bien sistemas.
+
+		  Además... 
+
+		  	- Dentro de Sistemas hay, por ejemplo:
+		  		+ Seguridad.
+		  		+ Comunicaciones.
+
+		  	- Dentro de desarrollo hay:
+		  		+ Desarrollo SAP.
+		  		+ Desarrollo web.
+		  		+ También hay dearrollo .NET, pero no hay .NET para c1.
+
+		  	Mientras haya trabajo suficiente se intetará acoplar a la gente en
+		  	los puestos que mejor se les dé. Lo que nunca va a ocurrir es que
+		  	vayan todos a sistemas y ninguno a desarrollo o a la inversa.
+
+		  ¿Los puestos se van asignando conforme al orden de llegada o respecto
+		  al orden de la posición en el listado de plazas? 
+
+		  	- Si te incorporas tarde pero se habla antes no hay problemas por
+		  	  dejarte esa plaza. No hay problema en que se venga tarde, siempre
+		  	  que se hable previamente se gestiona para que hablando con todos
+		  	  se pueda organizar de manera que se respete esa preferencia y
+		  	  prioridad a pesar de que te vayas a incorporar tarde dentro del
+		  	  mes obligatorio.
+
+		  	- Otra cosa es que no des señales de vida hasta el día de incorporarte
+		  	  y cuando ya se han ido incorporando todos quieras un puesto sin
+		  	  haber dado señales de vida. En tal caso, uno se aguantará con lo
+		  	  que le quede si no se le puede dar lo que quiere.
+
+		    Aun así, esto no es una garantía. Pero es de lógica que se intentará.
+		    Si todos fueran para un lado no podría darse el caso.
+
+		    Se puede hablar o mirar el cv previamente para ver dónde encajarlos.
+
+		    Fecha de incorporación: en función de cuando se publiquen ya los
+		    destinos.
+
+
+* HORARIO:  Habitual 37,5H -> 
+				Obligatorio 9:00-14:30
+				Se puede entrar antes, salir después pero cumplir ese horario
+				obligatorio y al final de la semana hacer 37,5 H
+
+			Productividad 40H -> hacer 2 tardes hasta las 18:00.
+
+			Los moscosos y vacaciones los que dice Función Pública (al año).
+
+			Flexibilidad: en cuanto a urgencias o necesidades se ha sido muy
+						  flexibles, sobre todo con gente de fuera con
+						  problemas familiares.
+
+						  Al jeta se le da un toque de atención.
+
+						  Flexibilidad mucha pero con responsabilidad.
+
+
+			¿Hay guardias en Sistemas o findes de trabajo? De momento no.
+
+			Se está un poco enfocando más a la parte de asistencias técnicas.
+			En momentos puntuales, al ser un ministerio en embrión, quizás en
+			algún momento haya que hacer alguna guardia en fin de semana, pero
+			de momento no, ni planificado que se vaya a incluir.
+
+
+
+* TAREAS: En términos de informática y de comunicaciones, es un ministerio
+		  relativamente reciente y resultado de la unión de 2 Secretarías de
+		  Estado importantes. A pesar de ello, en su momento se decidió que
+		  dicho Ministerio no iba a tener una Dirección de Informática que
+		  llevara las competencias de los servicios de informática y de
+		  comunicaciones, sino que se haría desde los ministerios originales
+		  Ministerio de Agricultura y Ministerio de Comercio y Turismo hasta
+		  que se creara una División de Informática propia en este ministerio,
+		  división que ha sido creada hace un par de años, cuando entró José
+		  Felipe y cuando entraron las equivalentes a la subdirectora general
+		  y su adjunta.
+
+		  Se está en pleno proceso de crear todos los elementos de
+		  infraestructura y de aplicaciones que necesita un ministerio y traerse
+		  las aplicaciones de:
+
+		  		+ Ministerio de Agricultura, Pesca y Alimentación (MAPA).
+
+		  		+ Ministerio de Industria, Comercio y Turismo (MINCOTUR).
+		  		  	que antes tenía también la parte de energía, que la posee
+		  		  	ahora éste ministerio (Ministerio de Transición)
+
+		  - De MAPA se están tomando las infraestructuras existentes y las
+		  aplicaciones.
+
+		  - A lo largo de este año se irán haciendo también de MINCOTUR.
+
+		  El trabajo es mucho y no solamente de mantener aplicaciones o
+		  sistemas, sino también de crearlos.
+
+		  A pesar de ser pocos funcionarios, se está creciendo mucho y muy
+		  rápido. Cuando entró José Felipe hace 2 años, había 15 funcionarios y
+		  ahora ya son 43, con bastantes servicios subcontratados a empresas
+		  del sector público (medios propios del sector público):
+
+		  		+ TRAGSATEC.
+		  		+ ISDEFE.
+
+		  Con servicios como la Atención a Usuarios (CAU), Oficina de Seguridad
+		  Informática u otras cuestiones relativas al equipo de desarrollo que
+		  comentará luego la compañera Cristina Hernández.
+
+		  Este podría ser un buen sitio para alguien que le gustara hacer
+		  muchas cosas, trabajar bastante y que piense en quedarse un tiempo,
+		  como MÍNIMO UN PAR DE AÑOS ANTES DE IRSE A OTRO SITIO. No se necesitan
+		  lumbreras sino alguien que tenga ganas de trabajar y a quien le guste
+		  lo que está haciendo.
+
+		  En la parte de desarrollo también se va a tocar mucho análisis de
+		  datos.
+
+
+
+
+
+* COSAS IMPORTANTES (en la vida):
+
+	- Transportes: + Autobuses.
+				   + Cercanías.
+				   + Líneas metro (6,7 y 10).
+				   + Si se viene en coche hay parking interior dentro de los
+					 jardines del ministerio de interior, con barreras, y
+					 si se necesita aparcar se puede solicitar previamente una
+					 autorización al estar trabajando en un ministerio de los
+					 que están ubicados en Nuevos Ministerios.
+
+	- Cafetería: con menú del día y cafés de la mañana:
+				   + 5 euros y pico menú del día.
+				   + Menos de 1 euro el café.
+				   + 1,30 café y bollo.
+
+				 La calidad de la comida es de rancho, pero no está mal para
+				 ser de rancho. No es mala para ser de rancho. Y al que no le
+				 guste la comida de la cafetería, se puede ir a las de otros
+				 ministerios, como el de fomento o al de trabajo (empleo y
+				 economía social) y también hay restaurantes que por 10-12-15
+				 euros tienen menú del día, muchos de ellos italianos, porque
+				 por lo visto está cerca el liceo italiano y es la
+				 "little Italy" de Madrid (chascarrillo o chiste).
+
+	- Guardería: SI, compartida con los otros ministerios de la ubicación.
+					 No le consta que haya problemas de admisión pero sí le
+					 consta que la admisión se hace 1 vez al año, con lo cual,
+					 habría que tramitarse cuando se entrara pero no se iba a
+					 conceder al instante, dado que habría que esperar para que
+					 se concedieran en las fechas en las que se aceptan las
+					 admisiones.
+
+	- Ayudas sociales: gastos extras no cubiertos por la seguridad social.
+					   José Felipe, por ejemplo, tiene una hija celíaca y le
+					   corresponde una cierta ayuda social (el año pasado).
+
+
+
+* VENTAJAS RELATIVAS AL TRABAJO:
+
+	- Productividad: 1) No se tiene la productividad nada más entrar.
+					 2) Se le ofrece a los funcionarios que la quieren.
+					 3) Se les da a aquellos que la quieren y que la merecen.
+
+					 Resumiendo: que de entrada no se da la productividad, pero
+								 si de entrada se quisieran trabajar las 40H en
+								 lugar de las 37,5H que establece el EBEP, se
+								 pagaría por ese incremento de horario y se 
+								 deberían hacer 2 tardes al menos y esas tardes
+								 se podrían tener en unos meses. No debéría
+								 haber problema en esos.
+
+					 Desde que José Felipe está en el Ministerio (los 2 últimos
+					 años), se ha realizado también alguna paga de productividad
+					 en julio y diciembre, pero esto es como las inversiones,
+					 resultados pasados no garantizan resultados futuros
+					 (otro chascarrillo/chiste), es decir, puede haberlas o
+					 puede no haberlas.
+
+					 En cuanto a cantidades, pongamos que pueden ser unos
+					 cientos de euros, pero cambian de unos años a otros, pero
+					 cambian en función de los remanentes que existen. Si bien
+					 es cierto que, en los 2 últimos años, se han tenido en
+					 julio y diciembre, como se ha comentado.
+
+
+	- Teletrabajo: Ahora mismo se cumple con la instrucción que dio la
+				   Función pública y que hizo suya el subsecretario, que es
+				   que para todo el mundo puede darse un 20% de teletrabajo de
+				   la jornada semanal, que puede ser una de estas opciones:
+
+						- 1 día a la semana de teletrabajo.
+						- Hacer sólo jornada de mañana y teletrabajar de tarde.
+
+					Se le darían los medios adecuados, un portátil, para poder
+					teletrabajar, entendiendo que en casa se tendría conexión
+					a internet que permitiría conectarse a internet y,
+					eventualmente, conectarse a los sistemas del ministerio si
+					fuera necesario.
+
+					La previsión es que se cumpla escrupulosamente el RD del
+					teletrabajo. Se ajustarán a los que se diga en el RD. No se
+					cree que se vaya más allá de lo que dice el RD ni tampoco
+					que se conceda menos de lo que dice.
+
+
+* SUBIR DE NIVEL: Para subir de nivel hacen falta 2 cosas:
+
+					- Que tengamos plaza.
+					- Que el funcionario tenga méritos como para subir de nivel.
+
+				  Hasta ahora todos los que han entrado han tenido promociones
+				  porque había plazas para promocionar, incluso los del año
+				  pasado, aunque es cierto que algunos compañeros del año pasado,
+				  unos se han podido subir a nivel 20 y otros a nivel 18 porque
+				  no todas las plazas eran nivel 20. Se supone que en esos casos,
+				  se pondrá en niveles superiores a personas que tengan más
+				  méritos y experiencia.
+
+				  No se sube inmediatamente, pero se sube si hay disponible
+				  plazas.
+
+				  Lo que ha hecho DSTIC ha sido que cuando hay plaza disponible
+				  hay 2 posibles opciones:
+
+				  	- Se trae alguien de fuera.
+				  		 (Ventaja -> se tiene 1 plaza más).
+				  	- Promocionar alguien de dentro.
+				  		 (Problema -> No genera nueva vacante).
+
+				  De todos modos, lo que se ha hecho en general (casi todos los
+				  casos) ha sido promocionar a gente, para promocionar el valor
+				  interno y para fidelizar a la gente, pero esto no es automático
+				  y se ha hecho con la gente que lo ha merecido.
+
+				  A medida que vaya creciendo el ministerio igual hay promoción,
+				  y hasta el momento no ha habido problemas, pero siempre puede
+				  darse el caso de que Función pública acabe por parar las
+				  subidas de niveles.
+
+
+* PROMOCIÓN INTERNA: Asceso a A2 ¿Se recalifica la plaza?
+					 No se conoce un caso de ese estilo, por lo que se desconoce
+					 si se recalificaría la plaza, aunque supone que se intentaría
+					 facilitar la plaza dentro de la normativa aplicable.
+
+
+* TECNOLOGÍAS: - Desarrollo: Hay muchos trabajos de nuevos desarrollos por lo de
+							 los fondos de recuperación, transformación y 
+							 resiliencia.
+
+							 En este ministerio son las unidades las que se
+							 encargan de redactar sus propios pliegos de
+							 desarrollo y desde la DSTIC se les da soporte
+							 tecnológico.
+
+							 De momento se están desplegando en MAPA y luego
+							 se desplegarán aquí.
+
+							 Hay mucho trabajo de asesoría, tanto para ayudarles
+							 a la redaccíón del desarrollo como para luego
+							 traerse las aplicaciones y soporte en los
+							 despliegues.
+
+							 Principalmente Java y .NET.
+
+							 No hay desarrollo propio. Hay poco, como por
+							 ejemplo el límite de calidad del aire sí se está
+							 desarrollando internamente desde aquí. Y pequeñas
+							 adaptaciones de SharePoint.
+
+							 Hay grupo interministerial de gestión de datos.
+
+							 Se ha sacado recientemente un contrato para cambiar
+							 la web del ministerio.
+
+							 También hay SAP.
+
+							 
+
+			   - Redes: Actualmente todas la red es de Cisco. Ahora se están
+			   			segregando tanto del Ministerio de Agricultura como del
+			   			Ministerio de Industria en esas 2 secretarías de Estado.
+
+			   			La parte de MAPA que se está intentando segregar es
+			   			todo de CISCO, pero de momento la gestión no es de ellos.
+
+			   			La parte del firewall hay 2 niveles:
+			   				+ Externo (checkpoint).
+			   				+ Interno (fortinet).
+
+			   			Se ha puesto un cluster nuevo para montar la VPN, que es
+			   			de checkpoint, otro cluster aparte.
+
+			   			Telefonía: El contrato Unificado de comunicaciones lo da
+			   			la secretaría general de administración digital y 
+			   			actualmente se está adscrito a los 3 primeros lotes:
+
+			   				+ Lote 1 de red corporativa. 
+			   					# VoIP con telefonía cisco sobre call Manager.
+			   				+ Lote 2 de telefonía móvil.
+			   					# Vodafone provee líneas y teléfonos móviles.
+			   				+ Lote 3 de internet.
+			   					# 4 router juniper que los gestiona telefónica
+			   					  que dan la salida a internet.
+
+			   			A nivel de redes, se usa más windows que linux y termimal
+			   			de comandos del mismo. Los sistemas básicos son casi
+			   			todos windows y los que vayan sobre apliacaciones habrá
+			   			seguramente de todo, pero no los gestionaremos nosotros,
+			   			sino los que gestionen la nube privada.
+
+
+
+* CURSOS DE FORMACIÓN O PARA CONCURSO DE TRASLADOS: SI
+				Hay formación, pero no hay una formación reglada que todos
+				tengan que pasar por todos los cursos.
+
+				Hay, aparte de los cursos de INAP, cursos internos, pero no se
+				dan según entres o te inscribas.
+
+				Salen los cursos de formación y, según a lo que se vaya a
+				dedicar cada uno, se asignan esos cursos.
+
+				Hay cursos que da el propio ministerio de Seguridad de la
+				Información.
+
+				Todos los que puedan asistir asistirán, pero sí cuando estén
+				activos esos cursos.
+
+				A los funcionarios de nuevo ingreso se les están dando charlas
+				pequeñas sobre cosas básicas e importantes del funcionariado,
+				que son muy recientes, porque sólo se llevan dando durante
+				los últimos 3 ciclos de charlas. Entre ellos, están:
+
+						- Estructura del ministerio.
+						- Normas de RRHH.
+						- Cuestiones de prevención de riesgos laborales.
+						- Cuestiones de protección de datos.
+						- Cuestiones de seguridad de la información.
+						- Cuestiones de qué significa ser funcionario y la
+						  función pública.
+
+				No son reglados, sino charlas para saber cómo movernos, porque
+				los cursos de formación reglada, como se ha dicho, irán en
+				función de las necesidades de los puestos que se vayan a ocupar,
+				la formación que se necesite.
+
+
+* PERFIL SISTEMAS: Bien acogidos porque hacen falta muchos en sistemas.
+
+* PERFIL DE REDES: Bien acogidos también. En redes también hay necesidad de
+				   gente.
+
+
+* GESTION DE GRUPOS EXTERNOS: ¿Trabajo técnico cacharreando o mixto? En
+							  principio va a ser un trabajo mixto. Siempre va
+							  a haber una empresa detrás, pero no va a impedir
+							  que se pueda cacharrear. Como hay huecos se puede
+							  hacer lo que uno quiera, pero la norma general es
+							  que se va a hacer de todo.
+
+							  Gestión: No hay puestos de gestión puros. Hay de
+							  todo. Hay mixtos y de tocar 100% también.
+
+							  Los TAIS de ahora de sistemas lo mismo están
+							  probando el SCFM de windows (¿Qué es?), que están
+							  viendo con el personal externo del CAU un problema
+							  con el interfaz de outlook, que lo mismo trabajan
+							  con externos que trabajando por su cuenta, o
+							  probando en impresoras un nuevo software de
+							  gestión de colas de impresión y a su vez con los
+							  externos del CAU proveyendo impresoras al resto
+							  del ministerio.
+
+							  Como es un ministerio de creación nueva, y como
+							  no se tiene hardware, salvo un CPD con los sistemas
+							  más básicos:
+
+							  		- Directio Activo.
+							  		- Gestores de licencias.
+							  		- Gestores de antivirus.
+							  		- Firewalls.
+							  		- Routers.
+
+							  Pero las aplicaciones, se ha lanzado una licitación
+							  de mucho dinero para que nos den servicio de
+							  alojamiento en la nube. Es decir, que las
+							  aplicaciones heredadas de MAPA y MINCOTUR y las
+							  nuevas que se están generando (relacionado con
+							  Cristina), van a ir sobre una nube privada, que
+							  es algo muy nueva, que hasta donde sabe el jefe
+							  no existen en el resto de ministerios, salvo en el
+							  de Cultura, y eso significa que quien se dedicara
+							  a eso no cacharrearía, pero estaría pidiendo o
+							  ayudando a pedir al proveedor de la licitación
+							  que envíen x máquinas ¿¿¿vultuadas??? para una
+							  verificación con una serie de parámetros de
+							  configuración.
+
+							  Los sistemas básicos se llevan internamente y las
+							  aplicaciones y sistemas necesarios estarán en
+							  nuestra nube privada.
+
+
+
+
+* MINISTERIO DE RETO DEMOGRÁFICO: si es el de reto demográfico ¿no sería lo
+								  lógico que se usara más teletrabajo y se
+								  deslocalizaran más plazas?
+
+								  Al hacer esa pregunta tiene toda la razón
+								  sobre la lógica (según Cristina), pero, de
+								  momento, se están siguiendo las pautas que
+								  está indicando el Ministerio de la Función
+								  Pública.
+
+								  No se sabe si las cosas cambiarán, pero ya
+								  se verá lo que dice el RD de teletrabajo.
+
+								  (Felipe) Desde la parte de reto demográfico se
+								  está fomentando el teletrabajo, pero al final,
+								  hay que acogerse a lo que dice la ley (RD).
+
+								  Del mismo modo, hay algo incongruente además
+								  del reto demográfico, y es el tema de
+								  transición ecológica y que se tengan miles de
+								  impresoras y centenares de decenas y miles de
+								  copias impresas, pero no puedes evitar que la
+								  gente imprima. Aunque sean de transición
+								  ecológica, es un ministerio. Y se debería de
+								  dar ejemplo imprimiendo menos y teletrabajando
+								  más. 
+
+								  Al final el ministerio cumple lo que dice las
+								  instrucciones de Función Pública y al final,
+								  aunque la lógica dice que se debería ser
+								  congruentes, pero no se pueden hacer todas
+								  las cosas porque hay cosas que no se pueden
+								  cambiar.
+
+								  Hay cosas que se hacen, como por ejemplo,
+								  cambiar las bombillas por luces led, regulando
+								  el sistema de calefacción, etc, pero las cosas
+								  que más interesan están regidas por la ley y
+								  no se pueden cambiar.
+
+								  Se ha comprado una máquina de reciclaje, se
+								  van a poner más jardines por la zona, también
+								  promoviendo una colonia de bencejos que hay
+								  por el patio, pero siempre se debe a la ley,
+								  no puede pasarse por encima de la ley (RD de
+								  teletrabajo).
+
+
+* CUPO DE DISCAPACITADOS: ¿Hay ruido? ¿Se permite usar cascos?
+						  En principio hay despachos compartidos por 3-4
+						  personas, y no hay praderas de momento. 
+
+						  La gente no se suele quejar de ruido y hay gente
+						  maja con buen ambiente. Hay muy buena comunicación
+						  y se comparte mucho y se comunica entre la gente,
+						  muy buen trabajo en equipo.
+
+						  En la STIC hay una funcionaria invidente y se le han
+						  proporcionado los medios adecuados para su trabajo,
+						  tanto software como elementos, en coordinación también
+						  con la ONCE.
+
+
+* PATINETES: ¿Se puede llegar con patinetes? ¿Hay sitios donde dejarlos?
+
+						  Respeto a patinetes no cree que impidan subirlo, pero
+						  siendo despachos hay espacio y es posible que se pueda
+						  subir los patinetes, y siendo el ministerio de
+						  transición ecológica tiene sentido permitir traerse
+						  el patinete.
+
+						  Hay un parking para bicicletas en el recinto interior
+						  y a lo mejor ahí se puede ubicar patinetes y si no
+						  igual permiten subirlos.
+
+						  En el parking también hay enchufes para vehículos
+						  eléctricos. Hay varios puntos para recarga.
+
+
+* COMPLEMENTO POR LAS TARDES: C1 puede ser unos 200-300 euros, pero varía en
+							  función del nivel. Entrando será una cuantía y
+							  cuando se suba se supone que aumentará. Intentará
+							  mirarlo. Posteriormente ha dicho que 200 para todos.
+
+
+* SUELDO (De cara a gente con cargas económicas familiares):
+				¿Hay posibilidades para aquellos que demuestren una especial
+				dedicación que se asignen más tareas para cubrir más de 40
+				horas a nivel de productividad?
+
+				No consta que sea posible ni que lo diga el EBEP, pero habría
+				que estudiárselo y no cree que el EBEP diga eso.
+
+				Más de 40 horas quien quiera las puede hacer, pero no se pagan
+				horas extras.
+
+
+* USUARIOS DESTINO FINALES: - Desarrollo: más enfocada a las unidades de negocio
+							  y a los ciudadanos.
+
+							- Sistemas, comunicaciones, CAU y seguridad: está un
+							  poco más enfocada a la gestión interna, a los
+							  funcionarios. Funcionarios hay en ese ministerio
+							  unos 1800. 
+
+
+							Al hilo de lo de los 1800 funcionarios, esta candidad
+							hace ver que, a pesar de lo que se pueda creer sobre
+							la importancia o el tamaño de este ministerio, que
+							se pueda creer que es un ministerio pequeño, la
+							realidad es que es un ministerio grande, porque 1800
+							funcionarios son muchos para un ministerio.
+							
+							Además de eso, hay que contar con todas las asistencias
+							técnicas, que son los externos, a los que hay que
+							dar servicios, poner ordenadores, dar comunicaciones,
+							etc.
+

@@ -1,0 +1,327 @@
+
+
+###############################################################################
+###############################################################################
+MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+Secretaría General de Financiación Autonómica y Local
+===============================================================================
+* Entrevista: 07/04/2022 - 12:00 a 13:00
+			  (Pablo Jesús Escudero Enero - Responsable de la Unidad TIC o UTIC)
+			  (Andrés - adjunto) - No está en la reunión.
+
+* Lugar: Calle Alberto Bosch, 16, 
+			(pegados al parque del retiro, detrás del Museo del Prado),
+		 (SGFAL),
+
+		SEDE ÚNICA, edificio moderno, que tiene 10 años.
+		Tiene parte de despachos y parte de praderas (diáfanas).
+
+		En los despachos solamente hay personal de nivel 30, 29 y algún 28.
+		El resto de personal está en espacios diáfanos.
+
+		No hay más sedes.
+
+		Es un ministerio con 150 funcionarios.
+
+		La SGFAL se dedica principalmente a la financiación autonómica y la
+		financiación local, es decir, en pagar a estas administraciones las
+		nóminas de dineros que deben recibir. Aparte de eso, deben seguir un
+		cumplimiento de las reglas fiscales, controlar su nivel de deuda, etc.
+
+		El edificio está preparado para personas con discapacidad:
+			- Tiene ascensores accesibles.
+			- No hay escalones.
+			- En las plantas todo está al mismo nivel.
+			- Los aseos también son accesibles porque hay sitio para
+			  movilidad reducida.
+			etc.
+
+
+* Transporte: metro, retiro y Estación de Atocha.
+
+
+-------------------------------------------------------------------------------
+* Movilidad a Provincias (S/N/¿?): NO - No hay red periférica, ni provincial,
+								   		ni autonómica ni nada.
+-------------------------------------------------------------------------------
+
+* PLAZAS: solicitadas 2 (parece ser que las van a conceder), pero no se sabe
+		  si condecerán más. A veces se le manda por parte de los que entran
+		  los listados porque ellos no lo saben hasta que no se publican.
+
+		  Puestos que ofertará serán de la UTIC, gabinete técnico de la SGFAL,
+		  lo normal es que en el listado ponga "SGFAL - Gabinete técnico", que
+		  son los puestos para TAI.
+
+		  Se empieza en el nivel más bajo (Nivel 15) se supone, pero a priori
+		  no se sabe seguro.
+
+		  En la UTIC (que está adscrita al gabinete técnico) hay 2 partes:
+		  	- Sistemas.
+		  	- Desarrollo.
+
+		  Esquema: Responsable y Adjunto - Jefaturas de área - Personal
+
+		  En sistemas está casi todo cubierto, porque se incorporan justo 2
+		  personas a la vuelta de semana santa.
+
+		  El área de Sistemas se refiere a:
+		  	- Sistemas y Soporte a usuarios (o microinformática). 
+
+		  Hay:
+
+		  	- Administración de servidores (NAS, control de dominios, etc).
+
+		  	- CPD propio en la planta baja.
+
+		  	- Entorno de hiperconvergencia con virtualización con VMWare.
+
+		  	- Casi todos sistemas Windows Server.
+
+		  	- Soporte de usuario (CAU), que tiene incidencias típicas.
+
+
+		  Los puestos solicitados serán preferentemente de desarrollo.
+
+		  En desarrollo se usa:
+		  	- .NET
+
+		  	- BD SQL Server.
+
+		  	- Visual Studio (IDE)
+
+		  	- Web con ASP.NET con VC y C#.
+
+		  	- Algunos sistemas Legacy que se realizan mantenimientos evolutivos
+		  	  con empresas para que los mantengan al día.
+
+		  	- Aplicaciones web muy orientadas a la captura y tratamiento de
+		  	  información financiera de entidades locales y comunidades autónomas.
+
+		  	- Un sistema de single sign on con las CCAA y las entidades locales,
+		  	  que acceden a través del sistema y que contienen una relación
+		  	  de aplicaciones y de formulario que las desarrollan aquí, y los
+		  	  mantenimientos que hay son:
+
+		  	  		+ Bien nuevos desarrollos (nuevas normas que exigen nueva
+		  	  		  información). 
+		  			+ También mantenimientos evolutivos de estos sistemas que
+		  			  ya existen para ampliar funcionalidad.
+		  			+ Mantenimientos correctivos para lo referente a cambios
+		  			  tecnológicos o cosas que haya que corregir.
+
+		  	  Estos sistemas están integrados, además, con la mayoría de los
+		  	  servicios comunes de la AGE:
+
+		  	  		+ @firma para la validación de certificados.
+		  	  		+ Registro Geiser (Gestión Integrada de Servicios de registro)
+		  	  		  para asuntos registrables.
+		  	  		+ Notifica para sistemas de notificaciones (telemáticas).
+		  	  		+ Otros sistemas del catastro y organismos de hacienda o
+		  	  		  fuera de hacienda.
+
+		  No hay problemas si nadie conoce .NET o java o lo que sea. Desde el
+		  primer día ni desde el primer mes que sepa programar en ello.
+		  Lógicamente se le pide voluntad para aprender.
+
+		  Esto es un aprendizaje del negocio, de todo en general. Es necesaria
+		  una curva de aprendizaje.
+
+		  En este caso, los 2 puestos son de desarrollo, pero si alguien
+		  viene con un perfil de sistemas se acabará seguramente mandando a
+		  sistemas, pero se prefiere alguien con perfil de desarrollo.
+
+
+* PARKING: No hay parking, sólo hay 10 plazas para los altos cargos. Hay gente
+		   que se alquila plaza en parking privado cercano, pero no es barato.
+
+
+* HORARIO: 40H semanales ---> TODO EL MUNDO TIENE PRODUCTIVIDAD (2 tardes).
+		   La productividad no es obligatoria pero casi. Se podría intentar
+		   pedir no tenerla.
+
+		   Obligatorio 9:00-14:30 (no se puede salir antes de las 14:30)
+		   7:30-14:30
+		   Tardes hora de salida 18:00 ó 18:30
+
+		   Es posible que el primer mes no se cobre la productividad.
+		   Las nóminas se cierran a principios del mes anterior, es decir,
+		   la de mayo se cierra en el mes de abril.
+
+		   Jornada de Verano, se quitan 2,5H y sólo hay que hacer 1 tarde.
+
+		   ¿Guardias de fin de semana? NO, habitualmente no las hay.
+
+		   ¿En Sistemas en algún caso ha habido que hacerla fuera de horario? SI
+		   En 9 años 2 ocasiones y rara vez suele ocurrir:
+
+		   		- Pasó una vez en desarrollo por un RD urgente que hubo que
+		   		  hacer un trabajo para solucionar un problema y trabajar
+		   		  durante 1 fin de semana.
+
+		   		- En otra ocasión por un incidente no hubo que hacer fin de
+		   	 	  semana, pero sí horas fuera del horario.
+
+
+* TELETRABAJO: 20% semanal (1 día) o las 2 tardes. Cuando salga el RD de
+			   teletrabajo se seguirá el RD. Por el jefe no habrá problema
+			   por la flexibilidad cuando salga el RD, pero salvo que el
+			   reglamento no diga lo contrario.
+
+			   El teletrabajo es fijo, no se puede ir rotando. En el documento
+			   que hay que firmar se establece si es 1 día ó 2 tardes.
+
+
+* PROMOCIONES: Condiciones:
+					- Rendimiento sea bueno, con buena voluntad y disposición.
+					- Haya puestos vacantes en la RPT.
+
+			   Se intentan reponer las plazas de las personas jubiladas lo antes
+			   posible.
+
+			   El año pasado entró alguno a nivel 15 y que se le promocionó a
+			   nivel 17.
+
+			   Hay unas normas de función pública que no están escritas en
+			   ningún sitio pero que suele ponerse como excusas y es no permitir
+			   subidas de nivel muy excesivas. Hay gente que consigue tardar
+			   más, pero por norma general no suele saltar muchos niveles.
+
+			   Los saltos de nivel suelen ser no muy grandes, poco a poco más
+			   bien.
+
+
+* SALARIO BRUTO (al entrar): SB_C1 + CD + CE + Productividad
+							 Antiguamente CE eran 3000 y picos.
+
+							 Nivel 15, productividad = 230€ mensuales (2 tardes)
+
+							 Cada 3 años trienios.
+
+							 Productividad trimestral (meses 03, 06, 09, 12),
+							 160 euros trimestrales.
+
+							 Bufandas, que en los últimos años se están dando,
+							 y consisten en remanentes que se reparten a final
+							 de año. Son muy variables, puede no haber, haber
+							 poco o haber mucho.
+
+
+* COMEDOR/CAFETERÍA: NO - No hay comedor como tal, sino una sala con mesas, 
+						  con microondas, frigoríficos para guardar comida,
+						  calentarla y comérsela.
+
+						  Hay muchas máquinas de vending.
+
+
+* GUARDERÍA: NO - Aunque hay alguna guardería de ministerios en Cuzco y en
+				  Guzmán el Bueno, pero por algún compañero que lo ha pedido,
+				  cree que sólo hay 2 plazas para todo el ministerio.
+
+
+* VACACIONES: Se pide siempre que el servicio quede cubierto. Si hay un servicio
+			  con 5-6 personas, se pide que se quede siempre alguien para poder
+			  atenderlo. Si es un día no pasa nada, pero una semana completa no.
+
+			  En semana santa, por ejemplo, se pide antes la planificación y ya
+			  lo hablan internamente. Y si hay algún tema se hacen turnos el 
+			  uno con el otro.
+
+			  En agosto, en algún momento ha habido algún problema, aunque no
+			  suele es 1 ó 2 semanas en agosto. Si uno se coge quincena primera
+			  y otra persona se coge la segunda no hay problema.
+
+			  Como normal general, sí que suele pedirse que la gente se coja
+			  preferentemente 15 días en verano en agosto, porque en ese mes
+			  baja muchísimo la intensidad del trabajo y si no se hace que luego
+			  haya mucha gente en agosto (que no hay apenas actividad) y luego
+			  en septiembre, que se comienza ya la carga de trabajo, apenas haya
+			  nadie.
+
+			  No hay normas rígidas, y si hay que hacer excepciones se pueden
+			  hacer en un momento puntual, pero hay que intentar pactar con el
+			  jefe de Área que el servicio quede cubierto.
+
+			  LIMITACIONES DE VACACIONES + MOSCOSOS, SI, porque los propios
+			  sistemas informáticos están diseñados para que no se puedan juntar
+			  y, aparte es una norma que viene de arriba.
+
+
+* FORMACIÓN PARA LOS INCORPORADOS: Formación específica para los que entran
+								   nuevos NO, pero con los compañeros se irá
+								   aprendiendo, una forma autodidacta de aprender.
+
+								   Sí que hay un plan específico de formación:
+
+								   - SGFAL: para situarnos en el trabajo y saber
+								     dónde estamos y conocer sobre el ministerio.
+
+								   - Aparte los cursos de formación del
+								     ministerio.
+
+								   - Cursos de formación del INAP.
+
+								   Con un calendario ya aprobado previamente, no
+								   específicamente para nosotros.
+
+
+* CONSURSOS: Los cursos que se hagan servirán para concursos.
+
+			 Aparte de eso, 2 veces al año se convocan concursos para comisión
+			 de servicio, pero nada más entrar no va a afectar a nuestras
+			 circunstancias.
+
+
+* INTERACCIÓN PERSONAL TÉCNICO/NOSOTROS: Con las empresas lo gestionan los jefes
+										 de área (nivel 28), directores de
+										 proyecto y si acaso niveles 26.
+
+										 Las personas que vengan vienen para
+										 programar, y no para tener relación
+										 con respecto a empresas.
+
+										 Nosotros dependeremos de un jefe/a de
+										 área y nuestra relación será con ellos.
+
+										 Si en un momento un personal de la
+										 empresa toque código y nosotros tocamos
+										 otra parte del código y entonces el
+										 repositorio de código fuente habría
+										 una coordinación con el jefe de Área,
+										 pero es algo anecdótico.
+
+
+* RUIDO/USO DE CASCOS: ¿Es imprescindible? A nadie se le obliga, pero es un
+					   poco de normas de convivencia. Al estar en espacios
+					   abiertos, praderas o pool diáfanos se pretende no
+					   molestar a los compañeros. 
+
+					   En las videollamadas, cada vez más recurrentes, se pide
+					   que las hagamos con auriculares, porque una cosa es el
+					   sonido que emitamos nosotros al hablar y otra es el
+					   sonido que emite la otra parte de la videollamada, que
+					   nadie que esté alrededor tuya tiene por qué escuchar.
+
+					   Se han repartido auriculares y webcam a todos los
+					   trabajadores para el puesto de trabajo.
+
+					   El nivel de ruido es bajo, no hay mucho ruido. Quizás
+					   puntualmente puede haber más, pero no suele ser un lugar
+					   ruidoso.
+
+
+* PRETENSIONES FUTURO TAIS: A día de hoy hay 13 funcionarios TAI, y a medio plazo
+							se pretende llegar a la cantidad de 20.
+
+
+* ADVERTENCIA: Si por casualidad alguien no tiene posición para optar a una de
+			   las 2 plazas pero está interesado, que mande un correo a Pablo
+			   por ver si en un plazo de tiempo hay opciones de cambiar a SGFAL.
+			   De todos modos, hasta los 2 años de la posesión no se puede
+			   cambiar y vía concurso y comisión de servicios es complicado.
+			   De todos modos, a veces, a pesar de estar interesado, el lugar
+			   en el que está no le permiten salir, pero que si hay alguien
+			   interesado, pero que las puertas están abiertas y que les
+			   escriban al buzón de la UTIC.
+
+(29:00)

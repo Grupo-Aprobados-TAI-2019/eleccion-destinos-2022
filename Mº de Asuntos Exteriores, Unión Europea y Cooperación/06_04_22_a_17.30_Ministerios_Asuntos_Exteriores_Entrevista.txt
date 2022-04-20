@@ -1,0 +1,224 @@
+###############################################################################
+###############################################################################
+MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+Dirección General del Servicio Exterior
+===============================================================================
+* Entrevista: 06/04/2022 - 17:30 a 18:30
+			  (servicio.exterior@maec.es - informatica@maec.es)
+
+* Lugar: Secretaría General de Informática, Comunicaciones y Redes,
+		 (SGTIC),
+		 Calle de Serrano Galvache, 26, 28.033 (Madrid) - Era alquilada (YA NO desde 22/11/21)
+		 Plaza del Marqués de Salamanca, 8 - Barrio de Salamanca - Sede 1
+		 Palacio de Santa Cruz, en el Palacio de las provincias, (Centro de Madrid) - Sede 2
+
+* Contacto: Adrián - Subdirección General de Informática, Comunicaciones y Redes
+			Pedro Hernández - Subdirector adjunto de Sistemas, Redes y Seguridad.
+			José Campos - Subdirector adjunto de Desarrollo Informático (AUSENTE)
+
+
+Se lleva todo lo relacionado con las tecnologías del ministerio:
+(Redes, Sistemas, virtualización, VMWare, Seguridad, firewall, desarrollo informático, BD, programación)
+
+Subdirección de 70-73 funcionarios
+Presupuesto anual de 20M de euros (contratos de externalización).
+Este año se dispone de la gestión de 60M adicionales con los fondos de recuperación y el año que viene idem.
+
+Es un ministerio particular porque tiene muchas representaciones en el extranjero y por tanto, las
+comunicaciones y la seguridad son una parte bastante importante y siempre está al primer nivel, que
+tiene medidas de seguridad de primer nivel que no tienen otros ministerios, conexión segura, doble factor
+de autentificación, etc.
+
+A nivel de desarrollo informático:
+- CAU
+- Area de secretos oficiales.
+- Sistemas paralelos con defensa (muy seguros no mezclados con los sistemas ordinarios).
+
+Cualquier perfil encontrará seguramente un lugar en el que se encuentre cómodo, al ser un ministerio muy
+grande.
+
+
+* Horario: Habitual -> 8:00-15:00 L-V
+		   Presencial -> 9:00-14:00
+		   Fuera del presencial --> Flexibilidad horaria.
+		   Verano -> 8:00-14:30 L-V
+
+* Tardes y productividad: (Hay un documento) la productividad se da por defecto a no ser que no
+                          la quiera (2 tardes). En otros ministerios no es así.
+
+* Teletrabajo: Sí, en el mismo sentido que hay en la Administración del trabajo y han aportado ideas
+				para el nuevo RD de teletrabajo.
+				Se está proponiendo un piloto de teletrabajo con otras características.
+
+* Nivel de entrada: nivel 15, complemento específico es de 3.771,74 euros.
+
+* Salario bruto nada más entrar: Parte público tabla C1 = Salario Base + CD + CE + Productividad.
+
+* Aparte de las pagas extras se da productividad adicional en fin de año con respecto al dinero que quede
+  y suele ser bastante decente, al margen de gratificaciones por trabajo excepcional.
+
+* Porcentajes de plazas desarrollo y sistemas: 30-35 en desarrollo y 30-35 en sistemas. Pero se pueden
+  cambiar a funcionarios de un departamento a otro.
+
+* Reparto de plazas: Al entrar se pregunta qué preferencia hay además de las necesidades qeu hay en
+  la subdirección. Puede ocurrir que por necesidades se le pida a alguien que entre en el sitio que
+  no pidió, pero se le intenta pasar al sitio que pidió al cabo del año, porque lo importante es que
+  esté contenta.
+
+* Tareas en cuanto a desarrollo: 196 aplicaciones.
+	- visados.
+	- aplicaciones para ciudadanos españoles en exterior (pasaportes, etc).
+	- interrelación con la UE.
+	- Aplicaciones de información clasificada.
+	etc etc (de todo, tareas de programación, diseño, gestión, desarrollo).
+
+* Tareas en cuanto a sistemas, comunicaciones y protección de información:
+	- Explotación.
+	- Operación del hardware.
+	- CPD.
+	- Sistemas windows, linux.
+	- BD
+	- Entornos de desarrollo de producción y ajustes y despliegues necesarios.
+	- Comunicaciones y videoconferencia.
+	- Comunicaciones en el interior (telefonía hacia el interior) y móviles.
+	- Teléfonos satelitales (normalmente para el exterior).
+	- En cuanto a comunicaciones con el exterior, también son Clientes al 90% del lote
+	  4 del contrato unificado de comunicaciones de la Admin del Estado. Lote de R
+	  internacional, dado que se tiene 226 representaciones en el exterior entre
+	  embajadas, consulados y otro tipo de sedes como representaciones permanentes.
+
+* Parking: NO - pero al estar en el centro de Madrid hay mucho transporte público y todo
+				está bien comunicado. Autobuses, metro, tren (estación de Sol), etc.
+
+				Realmente hay parking pero con plazas muy limitadas, y si acaso, los que
+				tienen plaza serán las personas como problemas de discapacidad.
+				Se plantea alquilar un parking cercano, pero por el momento no hay nada.
+
+				Por el momento no dan prioridad a vehículos eléctricos, aunque hay 4
+				cargadores para coches. Se preguntará por si es posible.
+
+				Los patinetes está por preguntar si los permiten meter.
+				Las bicis se pueden meter en un parking específico para bicis.
+
+* Guardería: SI
+
+* Comedor/Cafetería: - Existe espacio y está en proceso de ser empleada. La mudanza estaba
+                       en diciembre del año pasado. Se está mudando a Salamanca.
+                       Se están contratando los camareros y demás personal de servicio.
+                     - Se dispone de office en las plantas (5 plantas), con máquinas de
+                       vending, café, etc
+
+
+(GEMIDOS/MICROS EN MUTE/PONERSE LA CAM QUE OS VEAMOS, JODER)
+
+
+* Vacaciones: Se gestiona de manera bastante abierta, en base a que los servicios queden
+			  cubiertos todo el año, de acuerdo entre los propios compañeros que pertenecen
+			  a un servicio.
+
+* Limitaciones de vacaciones: - Hasta ahora no hay una limitación específica establecida de que
+							    se gasten en un momento concreto.
+							  - ¿se pueden juntar con moscosos? No depende de ellos, sino de RRHH.
+							    No se pueden juntar directamente, adyacentes, como en cualquier
+							    ministerio. No entienden el motivo pero es en todos los ministerios.
+
+* Formación obligatoria: Al incorporarse en principio nada obligatorio, pero hay plan de formación
+						 de 2022 y otro de acción social (Se han mandado folletos).
+
+* Adaptado a movilidad reducida: SI, ascensores, rampas, todo adaptado. Es un edificio nuevo y el
+								 del Palacio de Santa Cruz se ha puesto ascensor para evitar
+								 escaleras.
+								 Aparte también se plantean espacios de entretenimiento, como
+								 ping pong o algo asi en la nueva sede.
+
+
+(LOS RUIDILLOS... LOS NIÑOS COÑOOO)
+
+
+* Nivel de ruido: Al estás estructurado en modo colaborativo (praderas), pero no hay excesivamente
+				  ruido. No hay mucho nivel de ruido. Las videoconferencias y llamadas normalmente
+				  hay salas para ello que no afectan al resto.
+
+* Previsiones de cambio de sede: NO, POR FAVOR. Acaban de cambiarse a la nueva sede. 
+
+* Movilidad: Los C1 y A2 tienen oportunidades para irse al exterior, a otras sedes en el extranjero,
+			 pero deben haber estado previamente en el ministerio 2 años (sede central), y del mismo
+			 modo, cuando finalicen su misión, deben estar 2 años de nuevo en los servicios centrales.
+			 El máximo periodo fuera de España son 5 años y se paga bastante bien cuando se está
+			 fuera de misión, por todo lo que conlleva que se pudiera llevar la familia fuera también.
+			 Se le da más puntos a los que trabajan en el ministerio.
+
+			 El tema del idioma depende de la sede. Si la sede es de dominio español no hay problema,
+			 pero si la sede tiene un idioma mayoritario que sea otro idioma, como el inglés, pues
+			 hay que tener formación. De todos modos, en el ministerio existe formación en idiomas.
+			 La Subdirección General de Personal es la que tendrá en cuenta el nivel que hace falta
+			 del idioma. A veces lo tiene en cuenta y a veces no lo tiene.
+
+			 El certificado de seguridad (habilitación personal de seguridad) es para información
+			 clasificada. Hay personas que no la tienen, pero cuando se vayan a esa sede que la
+			 necesite, entonces se le emitirá.
+
+* Movilidad a provincias: NO, todos los puestos son en Sede Madrid o los de misiones en extranjero.
+
+* Plazas solicitadas: en principio 7 son las que han asignado por el momento. Y los puestos nuevos
+					  entran en sede Central (Madrid).
+
+					  - Marqués de Salamanca ====> Desarrollo, Sistemas, Comunicaciones y seguridad.
+
+					  - Palacio de Santa Cruz ======> Comunicaciones y seguridad.
+
+* Asceso de niveles: Se está intentando mejorar los niveles que se tienen, pero no depende de ellos.
+					 En el RPT de ellos, en cuanto por alguna razón se desocupa un nivel superior,
+					 ya se busca a quien merezca subir a ese nivel de los que hay.
+					 Hace poco se han subido de nivel a 11 personas. No se sube en función del tiempo,
+					 sino por el desempeño de su actividad. Se mira mérito y capacidad y lo disponible.
+					 Había 2 de nivel 17 y a uno se le ha subido al 18 y a otro al 20.
+
+* Cupo de discapacidad: los méritos no van a discriminar a los de cupo si es factible.
+						Se puede conseguir material que haga falta también para el correcto ejercicio
+						de las personas con discapacidad en su puesto de trabajo.
+
+* Teletrabajo y RD: el RD del teletrabajo será la base, y luego ya los ministerios establecerán
+					ya por su cuenta un plan/normativa piloto que no irá en contra del RD pero 
+					establecerán sus propios criterios. El RD contempla hasta 3 días de Teletrabajo.
+
+					La idea es que en el trabajo al principio lo ideal es que vengan presencial,
+					pero luego se verá ya y que en principio por el teletrabajo no van a poner pegas.
+
+* Tecnologías de desarrollo: En el plan de digitalización consular se están aprovechando una
+							 inversión de 100M de euros para hacer una consolidación de la arquitectura.
+
+			  				 La arquitectura de referencia será java con cubernettes, SQL Server de BD,
+			  				 motor de dpm Appian. Una arquitectura de referencia sobre el CPD de la nube
+			  				 Sara y los desarrollos de ese plan de digitalización consular van a ir en
+			  				 ese framework y además, se va a aprovechar a migrar todo el legacy a esa
+			  				 arquitectura de referencia y así ahorrar costes de mantenimiento en el
+			  				 futuro, cuando no haya presupuesto como el de ahora.
+
+			  				 La arquitectura es Java, hay base de datos no relacional y otras cosas.
+			  				 los servidores
+
+* Cómo se trabaja: Hay una gran externalización y código picar directamente no, pero sí que se debe
+				   conocer el código. Seguramente se gestione equipo de externos.
+
+				   En Sistemas y comunicaciones es diferente, no se programa como tal, sino con
+				   línea de comandos. Hay externalización, pero los propios funcionarios se pueden
+				   meter.
+
+* Tienen en la sede: - Oficina de gestión de servicios.
+					 - Oficina de gestión de proyectos.
+					 - Plan de Digitalización consular tiene un lote específico bastante potente
+					   dedicado al control de la calidad.
+
+					 Se va a orientar a que esté todo controlado y con técnicas modernas de
+					 desarrollo ágil, como scrum y las correspondientes oficinas que apoyan
+					 al proyecto, a la calidad, la arquitectura, etc
+
+
+* ¿Se hacen guardias? NO ===> Pero quien esté de responsable de quien esté de servicio, quizás
+							  deba estar, aunque sea muy puntual, pero se retribuye con pago de
+							  horas extra y días adicionales de descanso, pero generalmente hay
+							  servicio de guardia externalizado.
+
+* Código de vestuario ====> Sentido común con la ropa
+							(ni bañador, ni chanclas ni camiseta de	tirantas)

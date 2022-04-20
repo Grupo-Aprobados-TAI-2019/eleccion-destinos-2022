@@ -1,0 +1,256 @@
+
+
+
+###############################################################################
+###############################################################################
+MINISTERIO DE DERECHOS SOCIALES Y AGENDA 2030
+IMSERSO
+===============================================================================
+* Entrevista: 07/04/2022 - 17:00 a 18:00
+			  (webex)
+			  Migue Ángel López Herrero
+
+* Lugar: Los Servicios Centrales están Cerca de la Vaguada (Madrid),
+		 (IMSERSO),
+
+
+* INTRODUCCIÓN AL IMSERSO: El IMSERSO es una entidad gestora de la Seguridad
+						   Social.
+
+						   Informática es una Unidad (Unidad de Informática)
+						   adscrita a una de las 4 subdirecciones de las que
+						   consta el IMSERSO, en particular la de Análisis
+						   presupuestario y de gestión financiera.
+
+						   Esta unidad es la que asume todas las funciones TIC y
+						   proporciona todos los servicios tanto al IMSERSO en
+						   los servicios centrales, como a los diversos centros
+						   periféricos distribuidos por España.
+
+						   El IMSERSO es muy conocido por los programas de
+						   turismo de personas mayores, de Termalismo (plazas en
+						   balnearios), pero también hay una red de centros
+						   distribuídos geográficamente en la que se prestan
+						   diferentes servicios o con diferentes topologías. A
+						   estos centros también se le dan servicios de tipo
+						   informático.
+
+						   Hay determinadas competencias que no se han
+						   transferido a las comunidades autónomas y, entonces,
+						   tanto en la Delegación Territorial de Ceuta como la
+						   de Melilla, se prestan algunas de esas competencias
+						   que están transferidas y también se les da servicio
+						   a algunas de estas delegaciones territoriales.
+
+						   En la Unidad TIC hay un alto espectro. Se cubren
+						   todas las funciones que puede necesitar un organismo.
+						   Son una entidad gestora muy particular, porque con el
+						   tiempo han ido cambiando de ministerio:
+						   		1) Sanidad.
+						   		2) Educación.
+						   		3) Derechos Sociales (ahora).
+
+						   Por tanto, ha sido un Organismo que ha tenido que ir
+						   organizándose (valga la redundancia) para poder
+						   dotarse de todos los servicios que ofrece de manera
+						   autónoma.
+
+						   Lo normal es que todos los organismos que se
+						   adscriben a ministerios sean tutelados por ellos,
+						   pero además, muchos de esos servicios se proporcionan
+						   desde los ministerios, cosa que no ocurre en el caso
+						   del IMSERSO, que ha tenido que dotarse de suficientes
+						   herramientas y servicios propios para poder ser
+						   autosuficientes.
+
+						   Un ejemplo de servicios propios es que, siendo un
+						   organismo, el correo es un servicio propio.
+
+
+
+* HERRAMIENTAS:	En un documento adjuntado previamente se detallan algunos de los
+			    proyectos que tienen en marcha.
+
+				Se hacen uso de herramientas de carácter horizontal, como por
+				ejemplo de las herramientas que provienen de la SGAD
+				(Secretaría General de la Administración Digital):
+
+					- Port@firmas.
+					- Notifica (gestión de notificaciones).
+					- Intermediación.
+					- Carpeta Ciudadana.
+
+				Hay un sistema muy importante, que es el Sistema de Información
+				del Sistema para la Autonomía y Atención a la Dependencia, que
+				es el que se utiliza para calcular las partidas presupuestarias
+				que hay que ir abonando a cada una de las comunidades autónomas
+				con motivo de la aplicación de la ley de dependencia. Es un
+				sistema que intercambia la información con las diferentes
+				comunidades autónomas.
+
+				En el documento se nombran cuestiones de índole práctico.
+
+
+* FUNCIONARIOS: En el Organismo unos 40, y externos unos 40 también.
+				Hay bastantes servicios externalizados. Salvo la parte del
+				CAU interno, el resto está todo externalizado:
+					- Sistemas.
+					- Servicios de desarrollo.
+					- El propio sistema sisaad (estadísticas de dependencia).
+					- Gestión del Portal web.
+
+				El problema que se tiene es que hay una falta de funcionarios,
+				porque es un modelo causa de la situación que se ha ido tomando
+				desde hace años.
+
+
+-------------------------------------------------------------------------------
+* Movilidad a Provincias (S/N/¿?): NO - Difícilmente, porque la Unidad de
+										Informática está en servicios centrales
+										y se presta servicio y lo que se tiene
+										es personal técnico externo y se tiene
+										1 técnico por centro externo y luego en
+										las Direcciones territoriales también.
+
+										Si se tuviera perfil administrativo,
+										alguno quizás tendría opciones de
+										acabar en algún centro.
+
+										Para moverse a provincia desde el
+										Organismo, la respuesta es NO.
+
+										La persona que expone pide que quien
+										pida plaza que no les luego colgados.
+-------------------------------------------------------------------------------
+
+* PLAZAS SOLICITADAS: Se va a contar con muy pocas plazas del IMSERSO.
+					  La anterior promoción se incorporó mucha más gente
+					  y a todo el mundo se le pudo mejorar el nivel de entrada.
+
+					  Al final los Ministerios tienen más poder para solicitar
+					  plazas que los Organismos.
+
+					  Se está carente de personal, así que se se pretende tener
+					  contenta a la gente para que no se vaya. Algunos
+					  compañeros que entraron el año pasado ya tienes niveles
+					  20. Va todo en función de la oportunidad y las ofertas que
+					  haya.
+
+					  Con carácter general se aprovecha el perfil con el que
+					  vienen las personas que acceden al Organismo. Se aceptan
+					  todos los perfiles.
+
+					  Aunque se acepta cualquier perfil sí que se necesitan
+					  más perfiles de telecomunicaciones y de Sistemas.
+
+					  El nivel de entrada, el año pasado fueron 1 nivel 16 y el
+					  resto nivel 15.
+
+
+
+* PRODUCTIVIDAD: Al ser una entidad gestora, a nivel económico se tiene una
+				 productividad semestral, que es una mejora que se puede
+				 ofrecer y que en otros destinos, salvo que sean gerencia o
+				 agencia tributaria difícilmente se puede ofrecer.
+				 Es una productividad por objetivos (un incremento adicional
+				 a lo que es la productividad). Es un concepto adicional que se
+				 maneja en las entidades gestoras de la Seguridad Social. 
+				 Dependiendo de los objetivos alcanzados y sujetos a la unidad
+				 a la que se esté adscrito.
+
+				 También se puede ofrecer productividad de tardes, que están
+				 en torno a unos 400 euros mensuales (jooder).
+
+				 Las plazas son para ocuparse en sentidos centrales, que se
+				 encuentran en la zona de la Vaguada.
+
+
+* PARKING: SI - Hay aparcamiento o servicio de parking subterráneo.
+
+
+* CAFETERÍA/COMEDOR: Por el tema de la pandemia y covid no hay. Está cerrada.
+
+
+* PRETENSIONES: Las personas que se pretendan acercar al IMSERSO, se pretende
+				aprovechar su conocimiento/background para poder sacarles el
+				mejor partido y entendiendo dónde se van a desenvolver de la
+				mejor manera.
+
+
+* HORARIO: SIN TARDES --> 35H SEMANALES (MUY BUENO ESTO)
+		   CON TARDES --> 37,5H SEMANALES (se pueden hacer en 1 tarde)
+		   LLEGAR A 40H --> NO TE VAN A PAGAR MÁS.
+
+		   HORARIO FIJO --> 9:00-14:30
+		   HORARIO FLEXIBLE --> ¿?
+
+		   Pero si se puede hacer en horario flexible y la tarde y cumplir la
+		   productividad
+
+
+* TELETRABAJO: Ahora mismo 20%, 1 día a la semana, y las tardes se están
+			   haciendo en teletrabajo, aunque está por aprobar el RD del
+			   teletrabajo.
+
+
+* TECNOLOGÍA: - PERFIL REDES: se tiene todo tipo de elementos, porque la red
+				está interconectada con todos los centros, firewall de primera y
+				segunda barrera, DMZ, aspectos de comunicaciones que se
+				facilitan y proporcionan a través del contrato de telefónica,
+				pero luego toda la infraestructura la despliegan ellos pero
+				con servicios externos.
+
+				El perfil de telecomunicaciones vendría bastante bien, porque
+				hay muy poca gente y se cubre un amplio espectro. Pero de todos
+				modos, cualquier perfil sería bienvenido.
+
+			  - DESARROLLO: Java fundamentalmente.
+
+
+* CÓDIGO DE VESTIMENTA: No hay ninguna norma al respecto. Lo normal.
+
+
+* FORMACIÓN: Se tiene un plan de formación interna, pero para lo que es
+			 formación propiamente TIC, es muy reducida.
+
+			 Eso no quita que, por ejemplo, si ahora están migrando la web a
+			 LifeRay, pues el que está dentro de ese proyecto se ve beneficiado
+			 de la formación que se imparta de LifeRay, o el que esté
+			 involucrado en un proyecto con 365.
+
+			 Aparte de eso, los cursos semestrales del INAP, que se pueden
+			 solicitar y hacer. SIEMPRE INTERESA HACER CURSOS para el CV
+			 respecto a los concursos y los méritos.
+
+			 No hay prioridad para proceder de un ministerio u organismo al
+			 IMSERSO en caso de que haya plazas, porque en los concursos lo que
+			 importa son los méritos.
+
+			 No obstante, lo que sí que se puede hacer es moverse entre las
+			 Secretarías de Estado sin necesidad de haber transcurrido los 2
+			 años.
+
+
+* ORGANIZACIÓN INTERNA: - 1 Jefe de Área (A1) que lleva:
+							+ Sistemas.
+							+ Explotación.
+							+ Comunicaciones.
+
+						- 1 Jefe de Área (A1) que lleva:
+							 + Desarrollo.
+
+						Por debajo de las Áreas hay Servicios:
+
+							+ 1 jefe de servicio (A2) de desarollo.
+							+ 1 jefe de servicio (A2) de sistemas.
+							+ 1 jefe de la parte (A2) de ofimática y redes.
+
+
+* PROMOCIÓN: Si uno está en el IMSERSO y saca el A2 ¿Puede ascender en el mismo?
+			 Para eso se tiene que dar la circunstancia de que:
+			 	- Se saquen plazas.
+			 	- Que pueda elegir el organismo.
+
+			 Es deseable, pero es complicado que puedan quedarse de nuevo.
+
+			 Formas de hacerlo: Promoción interna (2 años) o Libre.

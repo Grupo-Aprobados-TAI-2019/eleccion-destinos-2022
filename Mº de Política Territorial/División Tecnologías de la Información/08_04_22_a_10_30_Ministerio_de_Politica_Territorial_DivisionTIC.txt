@@ -1,0 +1,770 @@
+
+
+###############################################################################
+###############################################################################
+MINISTERIO DE POLÍTICA TERRITORIAL
+División de Tecnologías de la Información y Comunicaciones
+===============================================================================
+* Entrevista: 08/04/2022 - 10:30 a 11:30
+			  Narciso Cerezo Guzmán - Jefe de Área
+			  David Lleras Iglesias - Vocal asesor y adjunto a Dtora de división
+			  (Teams)
+
+* Lugar: Calle Santa Engracia, 7,
+		 Calle Claudio Coello, 31,
+		 Calle José Marañón, 12,
+		 Paseo de la Castellana, 3 (previsto cambio a Calle Miguel Ángel, 21),
+		 Calle Sor Ángela de la Cruz, 9.
+		 (DTIC) --> principalmente en José Marañón y Castellana la DTIC,
+
+
+		 El Ministerio de Política Territorial es el Departamento en el que se
+		 encuadra la División de Tecnologías de la Información, que tiene rango
+		 de Subdirección General, depende de la Secretaría de Política
+		 Territorial.
+
+		 En el RD 683/2021, de 3 de agosto, se describe la estructura del
+		 Ministerio.
+
+		 Tiene unos servicios centrales en Madrid y unas Delegaciones y
+		 Subdelegaciones de gobierno, que están en todas las provincias y las
+		 islas. En total 450 personas en servicios centrales y unas 6000 en
+		 las delegaciones y subdelegaciones.
+
+		 Las misiones de la División de Tecnologías de la Información son:
+
+		 	1) Planificar, dirigir y coordinar los desarrollos de los sistemas
+		 	   de información.
+
+		 	2) Prestar servicios en materias de Tecnologías de la Información.
+
+		 	3) Dirigir y coordinar el portal web (contenidos), sede electrónica
+		 	   e intranet (contenidos).
+
+		 	4) Implantar los planes de transformación digital de la AGE,
+		 	   respecto de los servicios centrales del Ministerio, porque los
+		 	   servicios periféricos, los Sistemas de Información son
+		 	   competencia de la Secretaría General de la Administración Digital
+		 	   (SGAD).
+
+		 Los principales proyectos que se están llevando a cabo, dentro del Plan
+		 (estratégico) de digitalización de las Administraciones Públicas (AAPP)
+		 2021-2025, también denominado como PDAAPP son:
+
+		 	- Plataforma Digital de Colaboración entre las AAPP.
+
+		 		Por ley ha salido publicado que debe servir de sustrato
+		 		para todas las actividades de cooperación, como por ejemplo:
+		 			+ Las conferencias sectoriales, de las cuales, una de las
+		 			  más famosas es la de sanidad, en la que participan todas
+		 			  las comunidades, pero hay más de 30 por ámbitos, y no sólo
+		 			  de colaboración con las comunidades autónomas, sino
+		 			  también de colaboración con entidades locales.
+
+		 	- Transformación DIgital de las Entidades Locales (EELL) del PRTR
+		 	  (Plan de Recuperación).
+
+		 	- Modernización de los puestos de trabajo de usuarios en los
+		 	  Servicios Centrales (SSCC).
+
+		 	    Esto tiene que ver con modernizar la ofimática e implantar
+		 	    trabajo colaborativo y modernizar los puestos en cuanto a
+		 	    infraestructura.
+
+		 	- Identificar y gestionar Espacios de datos.
+
+		 		Tiene que ver con las estrategias de datos abiertos y con la
+		 		compartición de datos entre las Administraciones y analíticas
+		 		y la gobernanza del dato. Un proyecto muy ambicioso del que
+		 		hablará Narciso.
+
+
+		 Otros proyectos que ya no son púramente de carácter tecnológico, sino
+		 que tienen que ver más con el apoyo a Organización y Gestión del
+		 departamento son:
+
+		 	- Creación de la (Comisión Ministerial de la Admin Digital) CMAD.
+
+		 		Se necesita crear una porque el Ministerio, a partir del RD
+		 		que se comentó antes, RD 683/2021, que define una nueva
+		 		estructura del Ministerio, distinta de la que tenía el
+		 		antiguo Ministerio del que provenía la División, por lo que
+		 		es necesario crearla para la nueva estructura.
+
+		 	- Gestión de aplicaciones existentes en el Ministerio de Política
+		 	  Territorial (MPT) y su modernización.
+
+		 	- Gestión de fondos, ayudas y subvenciones.
+
+		 		Ejemplo:
+		 			+ Aplicaciones que se encargan de gestionar los fondos que
+		 			  tienen que ver con las catástrofes.
+		 			+ Aplicaciones que se encargan de la canalización de los
+		 			  fondos europeos a ámbitos de la administración regional o
+		 		      local.
+		 		    + Aplicaciones que se encargan de la canalización de
+		 		      subvenciones.
+
+		 		Todas estas aplicaciones hay que ir modificándolas todos los
+		 		años, porque las condiciones van variando con respecto a las del
+		 		año previo, porque aparecen nuevas necesidades, aparecen nuevos
+		 		Planes Estratégicos del Estado y aparecen nuevas circunstancias
+		 		como Filomena, o el Plan de Recuperación de fondos europeos para
+		 		la recuperación de la crisis, etc.
+
+		 	- Gestión de portal web, intranet y sede electrónica.
+
+		 		+ Modernización de los Portales en internet.
+		 		+ Modernización de la propia intranet del Departamento.
+		 		+ Modernización de los Servicios que están en la sede electrónica
+		 		  del Ministerio.
+
+
+		 Uno de los proyectos más importantes y ambiciosos que se tienen, como
+		 se ha comentado antes, es la Plataforma de colaboración entre
+		 Administraciones Públicas, y ahora mismo se está diseñando, y se está
+		 planificando cuáles serán los objetivos y los requisitos.
+
+
+		 También se está participando, junto con otros Organismos de la Admin,
+		 en la implantación de soluciones para el MPT, pero sobre plataformas
+		 comúnes, con lo que se pretende que, los ministerios tengan una cierta
+		 coherencia con respecto a los sustratos tecnológicos que se emplean
+		 y basado, en la medida de lo posible, en los servicios comunes.
+
+
+		 Con respecto al proyecto de la Ofina del Dato, tiene una proyección
+		 importante en los próximos meses y se está participando en reuniones
+		 a nivel de toda la AGE y se está en la fase inicial de diseño de la
+		 solución para crear un DATA Lake o un sustrato donde se vuelquen todos
+		 los datos donde, a partir de ahí, se puedan realizar todos los
+		 proyectos de explotación, analítica y de gobierno de información.
+
+
+		 En la División de Tecnologías de la Información hay aproximadamente
+		 unos 24 funcionarios. Y está estructurado de la siguiente manera:
+
+		 	- Hay una Directora de División con cargo equivalente a Director
+		 	  General. Los 3 colaboradores de la Directora:
+		 			+ Narciso.
+					+ David Lleras.
+					+ Elsa (Jefa de Área).
+
+			  El resto son una estructura como en todas las subdirecciones, que
+			  son jefaturas de servicio y personal técnico.
+
+
+		 Las 2 sedes en las que está la División Principal es:
+
+		  - Castellana, 3.
+
+		  - Santa Engracia, 7 y José Marañón, 12, que están muy cerca la
+		    una a la otra y se va andando cuando hay reuniones.
+
+		 En Claudio Coello no se tiene personal de la División, salvo una
+		 persona destacada porque es de Atención a usuarios.
+
+		 Los de Castellana se irán bien a una de estas 2 zonas:
+		 	- Santa Engracia, 7.
+		 	- Miguel Ángel, 21 (donde la sede de la Caixa de la Castellana).
+
+-------------------------------------------------------------------------------
+* Movilidad a Provincias (S/N/¿?): N - El puesto que se ocupa es nuevo, a pesar
+									   de que hay tanto Delegaciones como
+									   Subdelegaciones. Al ser de nuevo ingreso
+									   debe ocuparse durante 2 años.
+
+									   A partir de ese segundo año, se puede
+									   optar a concursar a vacantes que pueden
+									   estar tanto en Delegaciones como en
+									   Subdelegaciones, que suele haberlas.
+
+									   Las Delegaciones y Subdelegaciones no
+									   dependen de la División TIC.
+
+									   El concurso lo gestiona Función Pública
+									   (MFP).
+
+									   Movilidad interna a Delegaciones o
+									   Subdelegaciones NO EXISTE.
+-------------------------------------------------------------------------------
+
+* PLAZAS SOLICITADAS: Solicitadas 3-4 (Nivel 16 de entrada es lo normal)
+
+					  Desconocen el número de plazas que se han adjudicado,
+					  pero las que se van a asignar son a sedes centrales de
+					  Madrid, por lo que no van a poder tener opciones de
+					  movilidad a provincias.
+
+					  Se hablaban de unas 4, pero no se puede confirmar.
+
+					  Respecto a las cuantías de las plazas de provincias, ellos
+					  no tienen información alguna al respecto porque no les
+					  corresponde.
+
+					  En cuanto al número de plazas de esas sedes provinciales,
+					  hay una subdirección de RRHH de la AGE, que está dedicada
+					  de manera específica a la plantilla y es quien tiene esta
+					  información y conoce los puestos vacantes.
+
+					  Para información sobre vacantes hay que recurrir a la
+					  Subdirección General de RRHH de la AGE en el Territorio.
+
+					  Se intentarán adecuar al perfil y deseo de la gente.
+
+
+* PROMOCION Y ASCENSO: La política de gestión de puestos de trabajo es la normal
+					   en todas las Subdirecciones, en las que suele buscarse
+					   que la gente tenga capacidad de progresar, que es utilizar
+					   los niveles disponibles para que la gente pueda obtener
+					   una progresión profesional.
+
+					   Las RPT suelen ir teniendo nuevas plazas con mayores
+					   niveles para poder subir. Comentan que ya no queda gente
+					   de nivel 16.
+
+
+* HORARIO: HABITUAL -----------------------------> 37,5H SEMANALES
+		   ESPECIAL DEDICACIÓN (PRODUCTIVIDAD) --> 40H SEMANALES
+		 	  Nota: La productividad suelen tenerla casi todos.
+
+		   OBLIGATORIO: 9:00-14:30
+		   FLEXIBILIDAD (hasta sumar 37,5H): Antes de las 9:00
+		 			   					     Después de las 14:30
+
+		   ESPECIAL DEDICACIÓN (Productividad) -> 2 Tardes
+		 										    (L-J - SI)
+		 										    (V - NO salvo excepciones)
+
+		   Este horario es COMPAGINABLE CON EL TELETRABAJO.
+
+		   La Subsecretaría siempre se adapta al cumplimiento de jornada que
+		   establece la AGE.
+
+
+* TELETRABAJO: Norma para todos los Ministerios adoptado rigurosamente.
+			   20% de jornada (1 día a la semana ó 2 tardes). El día debe ser
+			   siempre el mismo, pero se puede cambiar con otra solicitud
+			   pidiendo cambiar de día.
+
+			   Se pretende modular con las necesidades del servicio.
+
+			   No se hace un seguimiento exhaustivo por horas. Y sobre todo
+			   se suele hacer valoración de trabajo por objetivos.
+
+			   Se podría salir de la norma, siempre que sea un caso justificado
+			   y excepcional.
+
+
+* SUELDO:  El habitual para el nivel de entrada de C1 (depende del nivel).
+
+
+* PRODUCTIVIDAD: Para el nivel de entrada que va a ser el 16, se supone, la
+				 productividad ronda unos 250 euros mensuales pero NO ES
+				 INMEDIATO, porque tarda en disponerse de ello el tiempo que
+				 tarda por parte de la Subdirección General de RRHH en lograr
+				 que se disponga de financiación para las productividades de
+				 esas personas de nuevo ingreso. Normalmente no se tarda mucho,
+				 aproximadamente 2 meses.
+
+				 A partir de ahí la productividad sube. En el nivel 18 la
+				 productividad es del orden de 300 euros al mes. Y esa cantidad
+				 la modula la Directora de División en función del nivel de
+				 desempeño, por lo que también se reconoce en base a la
+				 productividad, desempeño y dedicación.
+
+				 Algunas veces hay una productividad extra (BUFANDAS), cuando
+				 las hay puede haber unas 2 al año, y excepcionalmente 3. No
+				 es algo que se tenga que cumplir con una periodicidad exacta,
+				 pero existen. No depende de los que exponen. A veces difiere
+				 también con los cambios de estructura (RD de estructura).
+				 Cada vez que se cambian las RPT y gente sale de un ministerio a
+				 otro las partidas de productividad deben ser negociadas entre
+				 las subsecretarías. Una gran parte de trabajo es periódico por
+				 el cambio de usuarios que cambian la denominación de su unidad.
+
+
+* TAREAS: - Desarrollo de Sistemas (Narciso): Hay un abanico muy amplio. A
+			grandes rasgos hay 3 líneas principales:
+
+				+ Servicios comunes y compartidos, con los que se hace:
+					# Gestionan nuevos procedimientos administrativos.
+					# La evolución de los servicios que hay.
+					# Incorporar nuevas funcionalidades.
+					# Implementar nuevas necesidades sobre esas herramientas.
+
+				  Este año se ha hecho un procedimiento de implantación de
+				  Transformación Digital para entidades locales, usando
+				  exclusivamente los servicios comunes. Que se ha hecho muy
+				  rápido, usando por ejemplo:
+				  	# JQUERY.
+				  	# SQL.
+				  	# Excel para subir o bajar información.
+
+				  Modificaciones básicas sobre los servicios comunes y
+				  compartidos. Sobre todo configuración y Diseño del
+				  procedimiento de acuerdo con las Unidades funcionales y el 
+				  resto del equipo decidir cómo se hace el procedimiento.
+
+
+				+ Aplicaciones que están implantadas en el Ministerio, que no
+				  se basan exclusivamente en servicios comunes, sino que son
+				  desarrollos más o menos a medida y que en parte sí que usan
+				  servicios comunes, pero no en su totalidad:
+				  	# Desarrollo con JAVA.
+				  	# Desarrollo con PHP.
+				  	# Oracle.
+				  	# MySQL.
+				  	# CMS:
+				  		~ LifeRay.
+				  		~ Magnolia.
+				  	# Procedimientos de DevOps.
+				  	# Procedimientos de Continuous Integration And Developement
+				  	  en conjunto con otras unidades.
+				  	# Pequeños procedimientos con RPA como Blue Prism.
+
+				  Hay un abanico amplio de desarrollos, en definitiva, porque
+				  hay mucha diversidad de procedimientos y de aplicaciones en
+				  la Administración.
+
+
+				+ Hay un proyecto muy importante, como es la plataforma de
+				  colaboración interadministrativa, que se está haciendo,
+				  en colaboración con otras unidades mucha variedad:
+				  	# Benchmarking.
+				  	# CMS.
+				  	# Sistemas de automatización.
+				  	# Sistemas de IBPMs.
+
+			En cuanto a desarrollo, no hay nadie que exclusivamente escriba
+			código, por si a la gente le preocupa o le interesa, pero sí que
+			hay compañeros que están más próximos al código y otros más próximos
+			a la configuración y gestión de los equipos de desarrollo, que
+			generalmente son equipos externos.
+
+
+
+		  - Soporte al puesto de trabajo y proyecto de modernización del Entorno
+		    de usuario (David):
+
+		    Se atiende a los puestos de trabajo en 2 niveles:
+
+		    		# Se presta en base a la contratación de servicios de
+		    		  soporte a usuarios, que supone la presencia de técnicos,
+		    		  de empresa, que no toman iniciativa, sino que se limitan
+		    		  a cumplir los procedimientos que la División establece.
+
+		    		  Ejemplo: llega un usuario y hay que realizar la provisión
+		    		  		   de puesto, pues entonces, todas las tareas que
+		    		  		   están automatizadas o procedimientadas las
+		    		  		   realiza personal de empresa:
+		    		  		   		1) formateo de equipo.
+		    		  		   		2) Crear una cuenta de usuario.
+		    		  		   		3) Asociar cuenta a la unidad organizativa.
+		    		  		   		4) Solicitar la creación de cuenta.
+		    		  		   		etc
+		    		  		   Es decir, todas las tareas que son de carácter
+		    		  		   mecánico, y para las que hay unas empresas
+		    		  		   contratadas para ello y cada grupo de técnicos
+		    		  		   de estas empresas está coordinado por personal de
+		    		  		   la División. 
+
+		    		  		   Hay una doble estructura por Unidades
+		    		  		   organizativas del Ministerio que están siendo
+		    		  		   atendidas por la División y por Sedes.
+
+		    		  		   Cada grupo de usuarios y cada sede recibe una
+		    		  		   atención por parte de uno de los compañeros de la
+		    		  		   División que hace la labor de entender la
+		    		  		   necesidad de los usuarios y trasladarla a esos
+		    		  		   procedimientos para la parte mecánica de
+		    		  		   cumplimiento de esa provisión o la realización
+		    		  		   de las tareas que tienen.
+
+		    Donde sí que se tiene margen de maniobra es en la parte más
+		    interesante (Según David), que es el diseño de todos los proyectos
+		    que supone la modernización o implantación de nuevos servicios.
+		    Esto lo planifica la División (TIC), lo coordina la División (TIC)
+		    y la parte tecnológica la realizan mediante solicitud de actuaciones
+		    por parte del Departamento Técnico (que se dedica a la Admin de
+		    Sistemas a instancias de lo que dice que se ejecute). Por así
+		    decirlo la materia gris está en la División (TIC) y las capacidades
+		    de planificación y coordinación también.
+
+		    Ejemplos: + Lo que actualmente se está desarrollando, que es la
+		    			implantación de servicios colaborativos basados en
+		    			microsoft 365 y despliegue de sitios colaborativos de
+		    			sharepoint y la habilitación de teams para todos los
+		    			equipos de trabajo como herramientas de colaboración.
+		    			Esto ha supuesto una tarea de migración ingente en todos
+		    			los puestos de usuario que se ha coordinado desde la
+		    			División.
+
+		    		  + Otro proyecto que se va a desarrollar desde la División
+		    		    una vez que se acabe el de la implantación del trabajo
+		    		    colaborativo va a ser el de la modernización del puesto,
+		    		    es decir, además de colocar y activar en cada puesto de
+		    		    trabajo licencias colaborativas microsoft 365, se van a
+		    		    renovar totalmente los equipos de usuario y se va a
+		    		    establecer una nueva tecnología basada en tunnelización
+		    		    a nivel de aplicación para que el puesto tenga carácter
+		    		    universal y pasen a ser básicamente ordenadores
+		    		    personales que pueden ser empleados en base a una
+		    		    dock station en el puesto de trabajo con el uso
+		    		    convencional de un puesto fijo, pero que el usuario se
+		    		    puede llevar ese ordenador y con tal de tener una
+		    		    conexión a internet, mediante un medio seguro de
+		    		    tunnelización a nivel de aplicación, esa persona puede
+		    		    trabajar de manera ubicua (en cualquier lugar), de modo
+		    		    que puede acceder a todos los recursos que necesite. 
+
+		    		    Este proyecto de transición del ordenador de sobremesa a
+		    		    ordenador portátil lo va a diseñar la División (TIC) con
+		    		    las herramientas tecnológicas que están a disposición de
+		    		    todos los Ministerios, en base a un proyecto común, para
+		    		    toda la Administración del Estado, financiado con fondos
+		    		    europeos del Plan de Recuperación.
+
+		    		    Es muy importante porque supone dar un salto cualitativo
+		    		    del antiguo modo de trabajo del puesto fijo al cual los
+		    		    usuarios se conectan mediante acceso remoto y emulación
+		    		    de terminal se va a pasar a un puesto ubicuo y con
+		    		    capacidades de trabajo colaborativo y compartición de
+		    		    información extrema.
+
+
+
+		  - Administración de Sistemas: NO HAY, porque el Ministerio ha pasado
+		    por varias etapas de reestructuración y la Unidad que tenía la
+		    competencia para administrar desde el punto de vista tecnológico los
+		    servicios comunes, dejó de pertenecer al Ministerio de Política
+		    Territorial y ahora está en la Dirección General del Ministerio de
+		    Economía y Transformación Digital.
+
+		    Los servicios de sustrato:
+		    	+ Admin. de sistemas
+		    	+ Admin. del directorio activo.
+		    	+ Admin. de BD.
+		    	+ Admin. de los servicios comunes.
+		    los proporciona esa Unidad de la D.G. del Ministerio de Economía y
+		    Transformación Digital.
+
+		    Respecto a un hipotético perfil de redes para puesto de trabajo,
+		    la División tiene todo el planteamiento tecnológico de cualquier
+		    tipo de servicio (desarrollo o sistemas). No asumen la parte de 
+		    sistemas pero sí que gestionan cómo quieren que esos sistemas, esas
+		    aplicaciones sobre sistemas, funcionen de una manera u otra. Así
+		    pues, con tema de balanceadores, routers, switches, firewalls, VoIP,
+		    etc no se van a administrar pero sí se va a decir cómo se quiere que
+		    funcionen dentro de las políticas de funcionamiento que tiene la AGE
+		    y, en este caso, quien les da ese servicio.
+
+		    En cuanto a la adecuación del tipo de perfil, si se espera hacer un
+		    trabajo de configurar iptables, etc, no se va a poder hacer, pero sí
+		    que la persona que entrara va a gestionar el que esa configuración
+		    te la hagan como necesita la División que la hagan. Esto va para
+		    software y para sistemas, VoIP y para cualquier tecnología.
+
+
+		  A los que dirigen la División les gusta pensar que este modo de
+		  trabajo es el que tiene que ocurrir en las unidades de sistemas de
+		  información de los departamentos, porque lo que se pretende es estar
+		  menos cerca de la tecnología cruda y más cerca de la necesidad del
+		  usuario, es decir, se trata de trasladar la necesidad a soluciones y
+		  las soluciones se tejen con los mimbres que les proporcionan los
+		  servicios comunes además de aquellos de los que se deban proveer
+		  ellos, y diseñan también aquellos que no están en el ámbito de los
+		  servicios comunes, desarrollando sus propios pliegos técnicos, sus
+		  propios contratos y que, evidentemente, tienen que cumplir con las
+		  estrategias de la AGE en cuanto a la provisión de servicios en todos
+		  los ministerios. 
+
+		  Resumiendo: no se puede ir por libre pero hay margen de maniobra, es
+		  decir, MÁS GESTIÓN Y COORDINACIÓN QUE TRABAJO TÉCNICO.
+
+		  Esto se cumple porque ni se está todo el día escribiendo código ni
+		  tampoco configurando routers (hablando de manera genérica), sino que
+		  se pide y se supervisa que se cumpla, pero tienes que saber qué pides,
+		  cómo lo pides y qué impacto tiene lo que estás pidiendo, TANTO A NIVEL
+		  DE DESARROLLO COMO A NIVEL DE SISTEMAS.
+
+		  Se lleva a cabo un término medio y lo que se pide es que el servicio
+		  sea transparente para sus unidades y que el trabajo último final lo
+		  está dando un proveedor.
+
+
+		  Respecto a Sistemas, las peticiones de los usuarios le pueden llegar
+		  a la División por 2 vías:
+
+ 				- Petición de 1 usuario con una necesidad concreta
+ 	 				Ejemplos:
+ 	 					+ Cambiar de ordenador.
+ 	 					+ Cambiar perfil de usuario.
+ 	 					+ Otorgar capacidades especiales que no entran dentro
+ 	 					  del Estándar.
+
+   				  Todo eso llega a la División, que en el primer nivel lo
+   				  traduce y lo escala como corresponda. Si la petición se tiene
+   				  que ramificar en 3 actividades, el responsable de la división
+   				  lo que hace es realizar las solicitudes, recibir las
+   				  respuestas y proporcionar al usuario lo que requería.
+
+
+ 				- Por la vía de comunicación entre unidades. Una subdirección le
+ 				  puede pedir a la División que le cree un sitio de colaboración
+ 				  para una tarea concreta en la que hay que relacionarse con
+ 				  personas de otros sitios/Ministerios o de empresas o hay que
+ 				  hacer determinadas actuaciones de particularización de los
+ 				  servicios que se prestan pero para fines concretos.
+
+   									Diseño
+   						   			  |
+   							Solicitud de los recursos
+   							en los servicios comunes
+   						   			  |
+   							Instrucciones técnicas que se
+   							trasladan a través del sistema
+   							de gestión de incidencias y de
+   							peticiones.
+
+
+   				  Puede darse el caso de que sea la División la que realice la
+   				  solicitud. Se puede necesitar desplegar una aplicación con
+   				  unas características determinadas, y ahí se diseña si se
+   				  quiere dockers o no, unos puertos y una tecnología, todo
+   				  dentro de una normativa específica.
+
+   				  Si no tienes un perfil muy desarrollado en ese nivel técnico
+   				  no vas tener la capacidad de realizar las solicitudes y
+   				  entenderte con la gente que lo va a realizar. Es evidente que
+   				  si no entiendes lo que se te está diciendo a nivel técnico, va
+   				  a ser imposible de que puedas aportar una solución.
+
+   				  Lo ideal es tener perfiles duales, pero evidentemente, te
+   				  acabas adaptando a todo en cuanto entras, porque además es una
+   				  buena forma de trabajar.
+
+				  Se puede ver con otro ejemplo más, muy aclaratorio:
+
+   						+ Si estamos desarrollando sitios de sharepoint
+   						  colaborativos, lo que ocurre normalmente es que la
+   						  parte laboriosa de:
+
+   		  					# Crear un sitio.
+   		  					# Darle usuarios.
+   		  					# Cambiar los permisos iniciales.
+   		  					# Colocar todas las licencias necesarias activas.
+   		  					etc.
+
+   						  Todo eso se diseña desde la División, se pide la
+   						  ejecución y luego se le proporciona a la petición un
+   						  usuario que pertenece a la División que será el
+   						  propietario del sitio de colaboración.
+
+   						  A partir de ahí, se adapta el sitio de colaboración a
+   						  la necesidad del usuario.
+
+   						  Las peticiones siempre se trasladan a personas de la
+   						  División (TIC), Sistemas no recibe nada que no haya
+   						  pasado por la División.
+
+   						  Hay un catálogo de servicios conocido y con lo que se
+   						  sale de ese catálogo de servicios les toca investigar
+   						  si lo que se pide es factible y si hay que crear
+   						  nuevos procedimientos o no, si en el alto nivel hay
+   						  que solicitar que se habiliten determinadas licencias
+   						  que antes no existían, o determinados productos que se
+   						  tienen que comprar porque no los tenían.
+
+   						  Resumiendo, hay una traducción inmediata en aquello
+   						  que forma parte de los procedimientos estándar y todo
+   						  lo que se sale de la norma no llega al técnico de
+   						  Sistemas hasta que la propia División realiza el
+   						  diseño y ve si hay recursos y las formas de
+   						  conseguirlos. Para todo eso sí que se necesita tener
+   						  un perfil técnico, porque si no no se puede diseñar
+   						  nada, pero todo siempre a través de los jefes de la
+   						  Divisón.
+
+   						  La Unidad le dirá al técnico qué necesidad tiene y ni
+   						  siquiera eso, sino que lo van a decidir los jefes de
+   						  la División.
+
+   						  A veces la petición va a ser transparente, donde el
+   						  encargado pide una máquina virtual con determinadas
+   						  características, por ejemplo, y ya es el proveedor el
+   						  que en función de lo que se le pide lo que cree que es
+   						  conveniente respecto a la petición, pero también con
+   						  la idea de que el encargado de solicitarlo de la
+   						  División tenga la potestad para decir si eso que le
+   						  propone el proveedor es lo que necesita o no y, en tal
+   						  caso, proponer otras opciones al proveedor que sean
+   						  mejores.
+
+   						  No hay que pensar únicamente en la parte técnica de
+   						  sistemas, sino que hay perfiles que saben bastante
+   						  menos de sistemas y que se asimilan más a la parte de
+   						  negocio que implementan los servicios comunes y son
+   						  igual de necesarios.
+
+   						  En esa parte de servicios comunes no se tienen que
+   						  preocupar de lo que se habla respecto a técnicos de
+   						  sistemas, sino por ejemplo, cómo funciona Geiser, cómo
+   						  funciona Ceda, qué se puede hacer con estos servicios
+   						  y, al final, está más ligado a la parte de
+   						  procedimiento electrónico que a sistemas puro y duro.
+
+   						  Hay un abanico de posibilidades muy amplio.
+
+
+
+* PARKING: Posibilidad de aparcamiento en Calle Manuel Cortina, 2. A 6-7 minutos
+		   andando desde las sedes de Santa Engracia y de José Marañón.
+
+		   Tiene varias plantas sótano de aparcamiento y donde las plazas de
+		   aparcamiento no están adjudicadas a personas, sino que las ocupan los
+		   primeros en llegar.
+
+		   Sí que es cierto que la primera planta del parking pertenece a
+		   empresas, pero el resto de niveles, del 2º al 5º, están disponibles
+		   para el aparcamiento de todos los funcionarios.
+
+		   El aparcamiento, evidentemente, es fácil tenerlo siempre que se
+		   llegue a una hora razonable 8:00-8:30-9:00 a más tardar (que si es
+		   más cerca de las 9:00 seguramente habrá que bajar hasta el sótano 3 ó
+		   4). Si uno llega a las 9:30 seguramente sea complejo encontrar
+		   aparcamiento.
+
+		   Respecto a las sedes, la Sede Principal está en Castellana 3, que
+		   está a 5 minutos de Alonso Martínez, que es donde está el Palacete de
+		   Santa Engracia.
+
+		   Las 2 sedes en las que está la División Principal es:
+
+		   	- Castellana, 3.
+
+		   	- Santa Engracia, 7 y José Marañón, 12, que están muy cerca la
+		   	  una a la otra y se va andando cuando hay reuniones.
+
+		   Desde Castellana a Claudio Coello son 15 minutos andando.
+		   De la Castellana a Manuel Cortina son 12 minutos andando.
+
+
+
+* VACACIONES: Normalmente se coordinan. La norma se tiene que cumplir, es decir,
+			  hay que cogerse:
+
+				- 15 días durante el verano.
+				- 15 días restantes el resto del año.
+
+			  Pero eso no es obligatorio, en el sentido en el que se pueden
+			  coger incluso 3 semanas en verano si el servicio lo permite.
+
+			  Lo que se hace es confeccionar entre todos (24 aprox) una tabla
+			  o calendario en el que se ve cuándo los servicios quedan cubiertos
+			  y cuándo hay que volver a ponerse de acuerdo para que queden
+			  cubiertos cuando hay menos gente disponible. En este sentido, son
+			  bastante responsables y el personal siempre cumple incluso cuando
+			  tiene que apoyar a sus compañeros con esas ausencias/presencias.
+
+			  En general hay un buen ambiente en ese sentido para que se
+			  faciliten entre todos las posibilidad de disfrutar de los periodos
+			  de vacaciones que precisa. Hasta ahora nadie ha tenido problema
+			  alguno para poder disfrutar de lo que ha necesitado.
+
+			  A nivel de MOSCOSOS tampoco hay ningún problema. Lo que sí que se
+			  hace es, mediante una coordinación, que es básicamente un
+			  autogobierno de los equipos de trabajo, que todo el mundo se las
+			  apaña para cuando tiene que estar ausente haya compañeros que le
+			  cubran. Así se gestiona estupendamente, aunque es evidente que es
+			  supervisado por la Directora de División.
+
+
+
+* INCORPORACIÓN: Lo que se hace normalmente es ver qué perfil tienen las
+				 personas que se incorporan y se les va rotando los primeros
+				 días por los distintos grupos de trabajo con 2 finalidades:
+
+				 	1) Que esa persona vea qué tareas realiza la División.
+
+				 	2) Atender también al perfil que trae y ver qué tareas
+				 	   le apetece más realizar teniendo en cuenta su perfil.
+
+				 Eso NO QUIERE DECIR QUE, con los cambios que se están haciendo
+				 ahora, no se le puedan dar otras alternativas, como son: 
+
+				 	- Se le permita cambiar a otro tipo de ámbito.
+
+				 	- Se le proponga cambiar porque haya una persona que se haya
+				 	  ido y se tenga que cubrir su hueco.
+
+				 En este sentido, suele haber posibilidad de cambio y de
+				 rotación.
+				 	   
+
+* DESPACHOS Y RUIDO: Lo normal es que sean despachos compartidos, por lo que lo
+					 normal es que haya que usar auriculares y micrófonos.
+
+			 		 El nivel de ruido es bajo, son despachos en los que no hay
+			 		 nada de ruido, y se está en una zona en la que no hay
+			 		 jaleos. No tienen nada que ver con las praderas grandes de
+			 		 otros sitios.
+
+
+
+* FORMACIÓN: La que ellos mismos ven que se va necesitando. Aparte de la
+			 formación de la que se provisiona desde el INAP, todos los años se
+			 imparten algunos cursos, porque se necesitan para los proyectos que
+			 se van a llevar a cabo.
+
+			 Ejemplos: - El año pasado se hizo uno de sharepoint bastante
+			 			 interesante.
+
+			 		   - Ahora hay cursos de Blue Prism, relacionados con RPAs
+			 		     y automatización.
+
+			 		   - Otro curso que hay ahora es uno de GEISER, pero
+			 		     orientado a la parte de red GECKO y web services y
+			 		     es una parte un poco más técnica.
+
+
+			 Son cursos que se imparten con la ambición de que la gente que los
+			 reciba entren a formar parte de la parte técnica y no sólo en la
+			 parte de uso de esas aplicaciones o sistemas, es decir, que
+			 también adquieran niveles de especialización adecuados a los
+			 proyectos que se llevan a cabo.
+
+			 ¿Formación Inicial? Hay una guía de bienvenida, unos manuales
+			 breves, pero lo normal es que todos estén en aprendizaje contínuo.
+
+
+
+* CAFETERIA/COMEDOR: Antes, en Castellana había cafetería y comedor, pero ya NO
+				     LOS HAY. Desde que empezó el covid se detuvo y ahora, como
+				     se ha empezado a remodelarse, no se ha vuelto a poner en
+				     marcha y además, se prevee que al menos durante 2 años no
+				     se va a tener ni cafetería ni comedor.
+
+				     Tampoco se sabe a ciencia cierta si cuando se rehabilite el
+				     edificio abrirán cafetería/comedor.
+
+				     Como curiosidad, las sedes están bien situadas cerca de
+				     pastelerías... y generalmente hay una especie de obligación
+				     no impuesta de que cuando sucede algo importante con algún
+				     compañero, ese compañero se hace con unos canapés y se
+				     celebra en una zona concreta destinada a ello, en la medida
+				     de lo posible (Están insinuando que cuando entremo tenemos
+				     que ir sin un euro y encima invitar a pasteles para
+				     celebrar con ellos que tenemos plaza????)
+
+
+
+* AYUDAS: Existe el plan de acción social del Ministerio, que incluye:
+
+			- Ayudas al estudio.
+			- Ayudas de temas médicos.
+			etc
+
+		  La cuantía depende cada año del número de solicitudes y de la
+		  situación personal de cada uno. Esto lo barema todo el Departamento de
+		  RRHH y así lo valora.

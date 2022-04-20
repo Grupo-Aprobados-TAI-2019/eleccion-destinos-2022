@@ -1,0 +1,193 @@
+Guillermo Areán es el nuevo Gerente de la DGT, lleva mes y medio.
+
+La DGT es un organismo autónomo que depende del Ministerio del Interior.
+Un mini-Ministerio aunque por tradición, aunque debería ser como agencia,
+al ser una marca consolidada, políticamente se considera como dirección general,
+como mini-ministerio, para que no cambie su imagen.
+
+1) Dirección general
+		|
+2) Secretaría general
+		|
+3a) otras subdirecciones o unidades funcionales
+	+ (RRHH)
+	+ (Gestión económica)
+	+ (Inspección de servicios)
+	+ (Gerencia de informática)
+
+3b) Otras unidades normativas
+	+ (Unidad de normativa --> saca normas de tráfico y seguridad vial)
+	+ (subdirección general de movilidad y transportes --> gestión de carreteras y radares y movilidad urbana e interurbana)
+	+ (subdirección general de formación vial --> exámenes, carnets de conducir)
+	+ (Observatorio de Seguridad vial --> gobiernan y competencias sobre datos de la DGT)
+	  Director = Chief data officer - Gestiona la política de datos
+
+
+YA CONTINUAMOS CON EL TEMA PRINCIPAL
+
+###### Gerencia de Informática ó GI (Dentro de la Secretaría general) ######
+
+Gestión informática de los servicios del organismo en lo que respecta al servicio al ciudadano:
+- Administración electrónica.
+- Servicios al ciudadano en las jefaturas provinciales.
+- Gestión interna de la DGT (microinformática).
+- Oficina del dato (parte técnica), de ella cuelgan 2 áreas:
+	+ funcional. 
+	+ tecnológica.
+  con equipos multidisciplinares para la explotación de los datos.
+	+ La GI pone conocimientos técnicos.
+	+ Oficina de datos pone conocimientos del negocio y de estadística.
+
+Dentro de la GI, se organiza en 2 subdirecciones:
+- Desarrollo:
+	+ Aplicaciones que solicitan las unidades funcionales.
+	  (Desarrollo, Análisis de requisitos, etc)
+- Sistemas:
+	+ Gestionar toda la infraestructura.
+	  (CPD, microinformática, calidad y seguridad).
+	+ Actualmente también implementando otras cosas
+	  (procedimientos de despliegues automáticos y de calida del software).
+
+
+Hay muchísimo trabajo, a nivel de CPD están al nivel de AEAT, GISS y SEPE de grande.
+El negocio es muy bonito (dice el gerente, al estar muy pegado al ciudadano)
+pero se curra mucho y todo es muy urgente. La estabilidad del CPD no es muy óptima.
+
+
+Se tiene mucha relación con la agrupación de tráfico de la Guardia Civil, porque muchos datos
+provienen de ellos.
+
+Además en la DGT hay una escala propia del cuerpo de la escala de tráfico que están en los puestos de importancia de la DGT, aunque también personal TIC (Subdirector de movilidad), pero los que mandan en líneas generales son los de tráfico.
+
+
+* HORARIO: 37,5H sin tardes y 40H con tardes
+			No hay horario exacto, se mira por el trabajo y no horarios.
+			Se ficha online. No se fijan en las horas sino en el trabajo desempeñado, aunque las horas
+			las miran en todo caso los de RRHH.
+
+* A MEDIO PLAZO: definir un plan de objetivos por puestos pensando en el RD de teletrabajo. Pero horario no importa,
+ 				 aunque el horario legal es el comentado arriba.
+
+* TARDES: Hay opciones de hacer tardes, se conceden de entrada y son 2.
+
+* TELETRABAJO: Oficialmente 2 días de teletrabajo, pero el nuevo gerente dice que hay que ser flexibles en ese tema
+				y en la medida de lo posible se debería flexibilizar, aunque no controla el teletrabajo pero oficialmente son 2 días. Cuando salga el RD se intentará maximizar el número de días que sean.
+				el TT debe ser una opción y no una obligación, pero el gerente es partidario del teletrabajo, pero no
+				hay problemas porque quien quiera ir vaya todos los días.
+
+* NIVEL DE ENTRADA: 17
+
+* MOVILIDAD: Aprovechar la infraestructura territorial para deslocalizar 12 puestos internos en jefaturas provinciales. Se ha hecho informe para deslocalizar esos puestos aunque dependen de gerencia informática pero
+la localidad o provincia es la elegida. Se ha decidido deslocalizar plazas que están vacías en la RPT-
+Se va a sacar un concurso de 17 plazas en las que ellos elijan (concurso interno).
+
+Para NOSOTROS (LIBRE): De entrada no hay problema en deslocalizar las plazas en una jefatura provincial pero haría falta 1 mesecito de entrada. Existe la posibilidad de irnos a provincia, deslocalizando la plaza en una jefatura provincial.
+
+En la jefatura provincial, si alguien por ejemplo se quiere ir a otro sitio, se le deslocalizaría la plaza en atribución temporal de funciones (automático) y cuando ya se acabara el concurso las de la jefaturas provinciales y ya estuvieran los compañeros allí, se sacarían expedientes de AGECIR para asignar de manera definitiva las plazas a las provincias. Aunque nos vayamos a jefatura seguimos dependiendo de Gerencia, y por tanto, los trabajos a realizar serían de Gerencia y se responde ante Gerencia. Otra cosa es que los jefes provinciales quisieran tirar de nosotros y ahí ya decidimos nosotros, pero los que nos evalúa es Gerencia.
+
+En la jefatura provincial, el teletrabajo son 3 días de trabajo presencial + 2 días de teletrabajo.
+
+SALARIO (nivel 17) - SUELDO BRUTO:
+	Complemento Específico: 4.870,32
+	Base y CD: son los mismos para todos los lados
+	Productividad por objetivos: 140€ al mes
+	Productividad propia: (luego la pasará)
+
+
+CARACTERÍSTICAS DEL PUESTO: Necesidades en todos lados (menos en la OFICINA DEL DATO), y se envía según perfil.
+Filosofía: la gente esté contenta, no se obliga.
+Con el concurso específico ya se exigirá más los perfiles, pero de primero ingreso donde se quiera.
+
+- Desarrollo
+- Sistemas
+- Seguridad
+- Calidad
+- CAU
+
+
+TAREAS:
+	- Gestión de un pequeño equipo
+	- Se puede tocar código quizás, pero los C1 se necesita que tengan un poco de conocimiento del código
+	  (Cómo desarrollan los equipos de desarrollo).
+	- Sistemas (monitorización o seguridad o analítica de logs no hay externos),
+	  pero en servidores y administración de sistemas operativos se trabaja con trabajadores externos.
+
+PROMOCION Y ASCENSO:
+	Antes había muchas plazas en RPT libres, pero si con la deslocalización se llenan las RPT, el ascenso no será tan fácil. Deslocalizar es una ventaja económica pero es más complicado ascender a plazas de mayor categoría.
+
+PARKING: SI (sin problema de plazas)
+
+CAFETERÍA Y COMEDOR: Hay cafetería y comedor (menú 3 euros y pico)
+
+GUARDERÍA: NO
+
+VACACIONES: Hay que hacer alguna gestión para que los servicios no queden vacíos.
+			Se permite unir vacaciones a moscosos tras los plazos de entrega. 22+5
+			(5 por cursos a consumir antes del 31 de marzo, si se hacen cursos se revierten en vacaciones)
+
+INCORPORACIÓN: Se incorpora con la persona que se asigne y se aprende poco a poco y se va conociendo el entorno.
+
+DISCAPACIDAD: Rampa en la entrada (hay varios compañeros en silla de ruedas sin problemas).
+
+CASCOS EN EL PUESTO DE TRABAJO: A gusto del consumidor, porque todo el mundo no tiene despacho. Depende un poco de
+cómo nos organicemos con la persona con la que tenemos que estar. Lo acordado entre compañeros.
+
+NIVEL DE RUIDO: Poco, sitio bastante nuevo, moderno, luminoso y agradable. Hay mucha pradera. Despachos y minipraderas.
+
+UBICACION: Josefa Valcárcel, 44 (via de servicio de la A2), justo después de la sede de ABC.
+
+PREVISIÓN DE CAMBIO DE SEDE: NO
+
+FORMACIÓN: SÍ (Cursos a través de empresas, ORACLE, AMAZON, etc y se pueden proponer cursos gratuitos que interesen)
+
+
+PREGUNTAS ADICIONALES: - Buen sitio para trabajar en redes (muchos proyectos pendientes de redes).
+						 autenticación de doble factor, renovar electrónica a cores, seguridad, etc.
+					   - Plazas a ofertarse (No se sabe, pero se pedirán lo máximo posible).
+					   - Todas las plazas se permitirían deslocalización.
+					   - Tecnologías de desarrollo, prácticamente Java, y framework, SubVersion.
+					   - Formación se puede hacer online desde provincias - Depende de cómo se ofrezca.
+					   - MicroStrategy, SAS, Peralata, Power BI (NO), pero no se necesitan de esa parte.
+					   - Servidores Linux y Windows, todo virtualizado en servidores hiperconvergentes embebed
+					     para lo que se necesite.
+					   - No hay problema si 2 personas solicitan en la misma provincia. Posible problema es que
+					     haya mucha concentración de gente en la misma jefatura y no haya más hueco para meter
+					     a más gente.
+					   - Hay posibilidad de guardias, aunque en general no se dan guardias a C1, y menos de entrada.
+					   - Hay bastantes intervenciones en fin de semana, pero se remuneran aparte aunque no haya
+					     guardias.
+					   - Se sigue trabajando en el mainframe a pesar de que se piensa en migrarlo, pero a corto
+					     plazo es algo imposible. Hay que convivir con el mainframe.
+					   - La estrategia para los próximos 3-4 años es centrarse en 3 pilares:
+					   		+ estabilidad de los sistemas.
+					   		+ seguridad de los sistemas.
+					   		+ explotación de datos.
+					   	 Todos los proyectos tanto en infraestructura como en desarrollo (de aplicaciones),
+					   	 en lo que respecta a la calidad, mucho énfasis en despliegues automáticos, control de calidad del software, todo orientado a estabilizar un poco los sistemas y por la parte de infraestructura todo muy orientado hacia la monitarización.
+					   	 	Herramientas de monitorización Dynatrace
+					   	 	Splunk Log Observer (Ingesta de logs y análisis de estos logs).
+					   - Se cree que serán posiblemente como mucho 5-6 plazas para la DGT, que ojalá fueran más.
+					   - Flexibles en horario, pero hay que hacer lo que se tiene asignado.
+					   - Automatización: ansible, y respecto a containers: no conoce el nivel técnico, cree que nada
+					   - Puestos de desarrollo en las sedes provinciales? SI, dependen de Gerencia de Informática:
+					   		+ hay jefe de área (Sevilla)
+					   		+ hay varios jefes de servicio (Santander, Sevilla, Salamanca, Burgos, La Coruña)
+					   	 llevando proyectos muy importantes, flexibilidad pero se pide estar online y accesible,
+					   	 no llamar a las 5 horas de llamarte. Hay que estar pendiente.
+					   - Desde qué organismo sería fácil llegar: concursos específico, concurso general y a nivel
+					     de comisiones de servicio depende del organismo que lo firme, porque no suelen firmarlas,
+					     pero si fuera así encantados. Concursar si quedasen plazas en un momento dado.
+					   - Plazas de sistema? las plazas serán en función del perfil que uno tenga.
+					   - Departamento de calidad muy orientado a despliegues automáticos y control de calidad del
+					     software, pruebas automatizadas, y es un departamento que está creciendo bastante. El
+					     objetivo es mejorar la calidad de los despliegue y hacer un control de lo que se despliega
+					     y que se pueda desplegar de manera automática.
+					   - Soporte CAU desde provincias, NO, sería analizarlo, pero a priori la gente de CAU debería
+					     estar en Madrid, en servicios centrales, aunque todo es negociable.
+					   - En provincias se desempeña el mismo trabajo que en Madrid.
+					   - Cuánta gente de algo que entendí como ¿ID? (RPT de 80, cubiertas 51, se sacan 17 de concurso específico y hay 11
+					     vacantes pero son propietarias de personas que están en puestos de comisión de servicio)
+
+
+
+

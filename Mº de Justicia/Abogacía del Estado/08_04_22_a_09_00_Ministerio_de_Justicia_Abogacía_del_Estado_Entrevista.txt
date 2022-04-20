@@ -1,0 +1,313 @@
+
+
+
+###############################################################################
+###############################################################################
+MINISTERIO DE JUSTICIA
+Abogacía del Estado
+===============================================================================
+* Entrevista: 08/04/2022 - 9:00 a 10:00
+			  (webex)
+			  Juan Luis Martín - Responsable Informático de la Abogacía.
+			  Nicolás Sánchez - Adjunto a Informática.
+
+
+* Lugar: Ayala, 5 (La Unidad de Informática) - Ayala con Castellana (Cerca Cólón),
+		 Otras sedes como en San Bernardo,
+		 (),
+
+		 Aunque hay una previsión de obras en el edificio, no se prevee que
+		 haya un cambio de sede pronto como cambio fijo. Si acaso hay cambio
+		 sería quizás temporal por obras.
+
+		 Es un ministerio PURO. Es raro encontrar una Unidad TIC dentro de un
+		 Ministerio, porque lo normal es encontrar una SGTIC, pero se planteó
+		 una unidad concreta para dar servicio a toda la Abogacía del Estado.
+
+		 La Abogacía del Estado está organizada con la Unidad Central (Madrid),
+		 que es donde está la Unidad de Informática, pero luego, además, hay
+		 abogacía en todos los ministerios y provincias, por lo que hay
+		 bastante dispersión geográfica.
+
+		 Para abordar eso, no solamente se tiene la Unidad Central, sino que
+		 también se tienen repartidos jefes de red por diferentes comunidades
+		 autónomas, que intentan abarcar un conjunto de provincias.
+
+		 En la actualidad es un modelo que se está intentando cambiar, porque
+		 cuesta mucho encontrar a gente y en alguna comunidad autónoma se está
+		 poniendo un servicio de CAU en vez de tenerlo cubierto por un jefe de
+		 red. 
+
+		 Las funciones del jefe de red son:
+		 	- Resolver incidencias.
+		 	- Resolver problemas.
+		 	- Ayudar con los temas de configuraciones.
+		 	- El día a día del puesto de usuario allá donde hay abogacías.
+
+
+		 La Unidad Informática, en principio, está organizada en 2 grupos, que
+		 son:
+
+		 	- Desarrollo (3 personas).
+		 	- Sistemas (2 personas y a punto de fichar otra).
+
+
+		 A nivel de la Unidad Central son un total de 8 funcionarios. A la espera
+		 de otro.
+
+
+		 A nivel de SISTEMAS, las comunicaciones están totamente delegadas en
+		 el ministerio, que son ellos los que proporcionan el servicio y el
+		 correo electrónico, y a nivel de sistemas, la Unidad administra sus
+		 propios servidores pero no tienen CPD propiamente dicho, sino que lo
+		 tiene el Ministerio que crea las máquinas virtuales y servidores
+		 virtuales necesarios.
+
+		 A nivel de DESARROLLO se está organizando 3 servicios:
+		 	- REGES (aplicación fundamental).
+		 	- Aplicaciones horizontales.
+		 		+ Aplicación de incidencias.
+		 		+ Intranet.
+		 		+ Servicios comunes de la SGAD
+		 			# Port@firma.
+		 			# Trama
+		 	- Transformación Digital (basado en impulsar la IA y relacionado
+		 	  con las aplicaciones web).
+
+
+
+-------------------------------------------------------------------------------
+* Movilidad a Provincias (S/N/¿?): N - Aunque haya dispersión geográfica, las
+									   necesidades se tienen en Madrid. Las
+									   plazas se van a cubrir en Madrid.
+
+									   Más adelante no se sabe si se llegará
+									   a un modelo de descentralizar. Se ha
+									   comentado internamente, pero aún no se
+									   va a dar el caso.
+
+									   Se ha dado el caso de un compañero muy
+									   competente que trabaja para Madrid pero
+									   lo hace desde Valencia.
+
+									   En duda lo de la movilidad.
+-------------------------------------------------------------------------------
+
+* PLAZAS SOLICITADAS: 1 como mucho - (Nivel 15)
+
+					  Para la promoción de hace 2 años asignaron a 1 TAI, pero
+					  desde entonces nada.
+
+					  Respecto a las posibilidades de ascenso o subida de nivel,
+					  es posible siempre que quede algún puesto vacante.
+
+					  También es importante que la persona se lo merezca.
+
+					  Un compañero que entró en enero de 2021 entró con nivel 15
+					  y ahora es nivel 20, si bien es cierto que es una persona
+					  muy competente.
+
+					  Ascensos internos a nivel de organismo se hacen por
+					  comisión de servicios y luego se saca la plaza para
+					  concursar.
+
+					  Hay 7-8 plazas en provinciales pero no para las
+					  necesidades que ellos tienen. Más adelante se pensará en
+					  la deslocalización de los puestos.
+
+					  Nomenclatura posible en el listado de destinos (RPT):
+					  "Ministerio de Justicia - Abogacía General del Estado"
+					  o algo similar, o puede que "Secretaría General".
+
+					  Según Juan Luis, da a entender que las plazas salen el 27
+					  de abril (no dice en ningún momento que sean a partir de
+					  como pone en el documento de Función Pública).
+
+					  En esta ocasión son más flexibles al perfil de la persona
+					  interesada, aunque prefieren alguien relacionado con
+					  desarrollo, porque es para lo que va a haber más carga
+					  y de sistemas se va a contratar personal externo.
+
+
+* HORARIOS: En la Abogacía del Estado no suele ficharse, porque hay mucha gente
+			fuera de juicios. Eso no quita que no haya que cumplir con las
+			horas estipuladas.
+
+			HABITUAL --> 40H SEMANALES
+					HORARIO FIJO --> 9:00-14:30
+					FLEXIBLE: 7:30-19:00 (A repartir como se considere)
+
+					HAY 2 TARDES CON PRODUCTIVIDAD.
+
+
+* TELETRABAJO: 20% DE LA SEMANA - 1 día o las tardes.
+			   Mientras el trabajo salga adelante le da igual si se teletrabaja
+			   1 día ó 2, pero hasta que no salga el nuevo RD del teletrabajo
+			   no se sabe lo que pasará, pero se tiene la sensación de que
+			   esto que hay ahora como mínimo se seguirá respetando.
+
+
+SALARIO: - Complemento específico nivel 15 son 3771,74 euros.
+
+		 - Productividad son 263 euros por las 2 tardes.
+
+		 - Productividad semestral que suele ser jugosa (cerca de 2000 euros
+		   semestrales). Esta cantidad depende de:
+		   		+ Del dinero que haya para repartir ese año (imprevisible).
+		   		+ La valoración que haga tu jefe.
+
+		   La cantidad es +-5% sobre o por debajo de la cantidad estimada.
+
+
+* PARKING: SI - Pequeño, de unas 8-10 plazas, pero MUY DEMOCRÁTICO, coge plaza
+			    el que llega antes. De momento no tiene plazas asignadas.
+			    El coche no debe ser muy grande porque la entrada es más bien
+			    reducida.
+
+			    Da igual si viene en moto o coche.
+
+			    Antes de las 8:00-8:30 hay facilidad para aparcar. De esa hora
+			    en adelante es más difícil coger plaza.
+
+			    Cerca hay un parking de pago. No se sabe el precio.
+
+
+* TAREAS Y TECNOLOGÍAS: Como se ha comentado antes, hay un equilibrio ahora
+					    mismo entre puestos de desarrollo y de sistemas, por lo
+					    que la entrada de nuevos funcionarios podría ser de las
+					    2 ramas.
+
+						A nivel de comunicaciones poco, porque no se gestionan.
+						Se tiene poco relacionado con las comunicaciones.
+
+						En Desarrollo ¿JAVA o .NET? Se usa más .NET, sobre todo
+						el desarrollo a nivel de Bases de Datos.
+
+						Respecto a la IA se está tratando de externalizar los
+						proyectos, pero no desarrollan ellos como tal la IA.
+
+						¿Se programa más o se hace más gestión de proyectos?
+						Hay un compañero que programa pero generalmente se
+						hacen gestiones de proyectos, pero si alguien está
+						interesado en programar podría encuadrarse en un
+						proyecto propio en desarrollo. Aunque depende todo
+						de las necesidades que vayan surgiendo.
+
+						El desarrollo en general está externalizado. Hay más
+						gestión que programación.
+
+						Se quiere empezar a potenciar la parte de seguridad e
+						interesa tener disponible personal que le guste esa rama.
+
+						El Área de Sistemas están centrados en las funciones de:
+
+							+ La administración de los servidores.
+							+ La administración de la infraestructura de los
+							  distintos proyectos.
+							+ Ir montando los distintos entornos y tenerlos
+							  actualizados y con las migraciones necesarias.
+
+						Pero lo cierto es que se está haciendo mucha tarea de
+						bajo nivel de Sistemas y se quiere potenciar el área de
+						Sistemas con un servicio técnico externalizado que se
+						dediquea tareas puramente técnicas y que los compañeros
+						de Sistemas se encarguen más de  proyectos.
+
+						En el área de sistemas también se tienen proyectos
+						externalizados relacionados sobre todo con las
+						migraciones (de antivirus, servidores de intranet) y
+						podrían llevar el seguimiento de ese proyecto, pero no
+						se van a cortar las alas al que venga para que llegue
+						hasta donde quiera llegar.
+
+
+						Respecto a la tecnología:
+
+							- Los servidores casi todos son Windows.
+							- Con la última aplicación en desarrolo se meterá
+							  servidores linux.
+
+
+						Respecto a las Aplicaciones, las aplicaciones siempre
+						son internas. Se va a sacar una aplicación de cara al
+						ciudadano, pero en general, hay 2 tipos de aplicacions:
+
+							- Aplicaciones para la abogacía
+								 (gestión de los expedientes de la abogacía).
+
+							- Aplicaciones internas para la gestión de RRHH.
+
+						La aplicación de cara al ciudadano es una aplicación
+						para la recaudación de cara a causas procesales, es una
+						aplicación de pago, que estará incluida en la sede del
+						ministerio, en la sede electrónica, que incluirá:
+
+							- Una pasarela de pago.
+							- Un gestor interno para los usuarios de la abogacía.
+
+						Y es el objetivo de la aplicación que, además, pasará
+						a ser la primera aplicación web de trámites que se
+						incluirá en el Ministerio (de Justicia) por parte de la
+						abogacía.
+
+
+* FORMACIÓN: SI - La del Ministerio. Al ser Ministerio tienen sus propio plan
+				  de formación. Hay cursos especializados en TIC y otro tipo de
+				  cursos más horizontales.
+
+				  Al hilo de querer empezar a potenciar la seguridad en el
+				  ministerio, hay cursos de seguridad disponibles, y son muy
+				  buenos los del CCN-CERT.
+
+				  Pero NO HAY FORMACIÓN INICIAL al entrar SALVO para conocer
+				  el ecosistema y la infraestructura disponibles.
+
+
+* COMEDOR/CAFETERÍA: NO - Hay cafetería cerca, pero el edificio como tal no
+						  tiene, pero como hay mucha necesidad de despachos no
+						  se ha hecho ningún comedor, aunque el secretario
+						  general comentó que le gustaría hacer algo al
+						  respecto.
+
+						  Hay microondas para poder calentar la comida, pero
+						  no hay sitio físico donde irse para comer, por lo que
+						  seguramente habría que irse con la comida al despacho.
+						  Se está pensando si buscar un sitio al que irse a
+						  comer, pero por el momento no hay nada.
+
+
+* GUARDERIA: NO - Pero no se sabe si a nivel de ministerio se da algo. Hay
+				  dudas. Va a intentar enterarse, pero no lo sabe.
+
+
+* AYUDAS: Hay ayudas para las comidas, unos 7-8 euros para los días que se
+		  hacen tardes.
+
+
+* VACACIONES: 22 fijos + 9 moscosos.
+			  Aquí para las vacaciones se aplican las normas generales:
+
+			  - De los 22 días, 17 días hay que cogerlos en bloques de 5 ó más.
+			  - 5 días los puedes coger como quieras.
+			  - Los moscosos los puedes coger como quieras.
+			  - No se pueden unir vacaciones con moscosos.
+
+
+* CUPO DE DISCAPACIDAD: El edificio desde el punto de discapacidad es complicado.
+						No está muy pensado para la movilidad, porque hay
+						escalones, unos cuantos y para llegar al ascensor
+						habría que dar unas cuantas vueltas.
+
+						Se puede acceder a todo pero dando muchas vueltas porque
+						no está adaptado.
+
+
+* RUIDO EN EL TRABAJO: Hay 2 personas de desarrollo en un despacho propio y
+					   antes estaban en una mini-pradera o más bien un gran
+					   despacho de de 6-8 personas que se pretende que sean para
+					   CAU externo. Y se pretende reubicar a los que están ahora
+					   en las praderas (o despacho grande). Se repartirían entre
+					   3-4-2 dependiendo del tamaño que sea el despacho.
+
+					   Aparte de eso, el ambiente de trabajo suele ser bastante
+					   bueno, según las personas que exponen todo.
