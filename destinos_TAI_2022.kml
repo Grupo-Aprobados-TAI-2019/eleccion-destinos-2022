@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>destinos_TAI_2022</name>
+    <Style id="icon-503-CDDC39-normal">
+      <IconStyle>
+        <color>ff39dccd</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-CDDC39-highlight">
+      <IconStyle>
+        <color>ff39dccd</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-CDDC39">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-CDDC39-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-CDDC39-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Abogacía General del Estado</name>
+      <description><![CDATA[Ud. de Informática, Abogacía General del Estado, Mº de Justicia <br><br> C. Ayala 5, 28001 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.688278,40.428018,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AE BOE</name>
+      <description><![CDATA[Boletín Oficial del Estado<br>http://boe.es/<br><br>Av. de Manoteras, 54, 28050 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6607073,40.4870283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AESF Agencia Estatal de Seguridad Ferroviaria</name>
+      <description><![CDATA[Agencia Estatal de Seguridad Ferroviaria, Mº de Transportes, Movilidad y Agenda Urbana<br>http://www.seguridadferroviaria.es/<br><br>Pl. de los Sagrados Corazones, 7, 28036 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.685925,40.451398,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CATASTRO</name>
+      <description><![CDATA[Subdirección Gral. de Tecnología y Despliegue Digital, Dirección General del Catastro<br>http://ovc.catastro.meh.es/<br><br>P.º de la Castellana, 272, 28046 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.686692,40.473766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CESTIC - Mº de Defensa</name>
+      <description><![CDATA[Centro de Sistemas y Tecnologías de la Información y las Comunicaciones, Mº de Defensa <br> <br> C. de Arturo Soria 289, 28033 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.668739,40.473492,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DGT Dirección General de Tráfico</name>
+      <description><![CDATA[Gerencia de Informática, Dirección General de Tráfico<br>http://www.dgt.es/es/<br><br>C. de Josefa Valcárcel, 44, 28027 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.639995,40.448243,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DG Transformación Digital Administración Justicia</name>
+      <description><![CDATA[Dirección General de Transformación Digital de la Administración de Justicia, Mº de Justicia<br>https://www.mjusticia.gob.es/<br><br>C. de Ocaña, 157, 28047 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.754044,40.387131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DIT Departamento de Informática Tributaria</name>
+      <description>C. Sta. María Magdalena, 16, 28016 Madrid</description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.670089,40.462741,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GISS Gerencia de Informática de la Seguridad Social</name>
+      <description><![CDATA[http://www.seg-social.es/<br><br>Calle del Dr. Tolosa Latour, s/n, 28041 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.70157,40.374261,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IEF Instituto de Estudios Fiscales</name>
+      <description><![CDATA[http://www.ief.es/<br><br>Av del Cardenal Herrera Oria, 378, 28035 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.744312,40.476477,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IGAE (Mateo Inurria)</name>
+      <description><![CDATA[Oficina de Informática Presupuestaria de la Intervención General del Estado, Mº de Hacienda y Función Pública<br>http://www.igae.pap.hacienda.gob.es/<br><br>C. Mateo Inurria, 15, 28036 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.685354,40.467067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IGAE (Agustín de Foxá)</name>
+      <description><![CDATA[Oficina de Informática Presupuestaria de la Intervención General del Estado, Mº de Hacienda y Función Pública <br> http://www.igae.pap.hacienda.gob.es/<br><br> C. Agustín de Foxá 25, 28036 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.685758,40.47042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IGSS Intervención General de la Seguridad Social</name>
+      <description>C. de Valenzuela, 5, 28014 Madrid</description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.689867,40.418942,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>INE</name>
+      <description><![CDATA[Instituto Nacional de Estadística, Mº de Asuntos Económicos y Transformación Digital<br>http://www.ine.es/<br><br>Av. de Manoteras, 50-52, 28071 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.66228,40.487245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>INSS Instituto Nacional de la Seguridad Social</name>
+      <description>Servicios Centrales del Instituto Nacional de la Seguridad Social (Centro de desarrollo del INSS)</description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.682967,40.445495,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Instituto de Salud Carlos III</name>
+      <description><![CDATA[http://www.isciii.es/<br><br>C/ de Monforte de Lemos, 5, 28029 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.69155,40.474956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Instituto de Salud Carlos III (Pozuelo)</name>
+      <description><![CDATA[http://www.isciii.es/<br><br>Ctra. de Pozuelo, 28, 28222 Majadahonda, Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.863582,40.458805,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMSERSO</name>
+      <description><![CDATA[Instituto de Mayores y Servicios Sociales<br>https://www.imserso.es/<br><br>C. Ginzo de Limia, 58, 28029 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.703908,40.481174,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ISM Instituto Social de la Marina</name>
+      <description><![CDATA[Servicios Centrales del Instituto Social de la Marina<br><br>Calle de Génova, 20, 28004 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.693322,40.426261,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Agricultura, Pesca y Alimentación</name>
+      <description><![CDATA[Subdirección Gral. TIC<br>http://www.mapa.gob.es/<br><br>P.º de la Infanta Isabel, 1, 28014 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.690638,40.408631,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Economía</name>
+      <description><![CDATA[Subdirección Gral. TIC, Ministerio de Asuntos Económicos y Transformación Digital<br><br>P.º de la Castellana, 162, 28046 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6888084,40.4581664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Asuntos Exteriores</name>
+      <description><![CDATA[Subdirección Gral. de Informática, Comunicaciones y Redes<br><br>Pl. del Marqués de Salamanca, 8, 28006 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.679155,40.430526,680
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Ciencia e Innovación</name>
+      <description><![CDATA[Subsecretaría de Ciencia e Innovación, División TI<br>http://www.ciencia.gob.es/<br><br>P.º de la Castellana, 162, 28046 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.688914,40.45863,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Consumo</name>
+      <description><![CDATA[División TI<br>https://www.consumo.gob.es/<br><br>Pº del Prado 18, 28014 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.694137,40.413167,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Cultura y Deporte</name>
+      <description><![CDATA[División TI<br>Pl. del Rey, 1, 28004 Madrid<br><br>http://www.mecd.gob.es/ministerio-mecd/direcciones-y-telefonos.html]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.696502,40.420507,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Defensa</name>
+      <description><![CDATA[http://www.defensa.gob.es/<br><br>P.º de la Castellana ,109, 28046 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.691467,40.455845,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Derechos Sociales y Agenda 2030</name>
+      <description><![CDATA[División TIC<br>https://www.mdsocialesa2030.gob.es/<br><br>P.º del Prado, 18, 28014 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.694286,40.413564,631.3
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº De Educación</name>
+      <description><![CDATA[Subdirección Gral. TIC<br>https://www.educacionyfp.gob.es/<br><br>C. de Alcalá, 40, 28014 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.696783,40.418328,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Hacienda y FP</name>
+      <description><![CDATA[Subdirección Gral. TIC del Mº de Hacienda y Función Pública<br>http://www.hacienda.gob.es/<br><br>C. de Alcalá, 5, 28014 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.7018,40.417326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Inclusión, Seguridad Social y Migraciones</name>
+      <description><![CDATA[Subdirección Gral. TIC<br>https://www.inclusion.gob.es/<br><br>Paseo de la Castellana, 63, 28071 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.694541,40.442846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Inclusión, Seguridad Social y Migraciones</name>
+      <description><![CDATA[Subdirección Gral. TIC<br>https://www.inclusion.gob.es/<br><br>C. Agustín de Betancourt, 11, 28071 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.695433,40.443896,686.6
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Industria, Comercio y Turismo</name>
+      <description><![CDATA[Subdirección Gral. TIC<br>http://www.mincotur.gob.es/<br><br>P.º de la Castellana, 160, 28046 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.689129,40.456781,707.3
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Justicia</name>
+      <description><![CDATA[División de Tec. y Servicios Públicos Digitales<br>https://sede.mjusticia.gob.es/<br><br>Calle de la Bolsa, 8, 28012 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.704532,40.414965,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Política Territorial (provisional)</name>
+      <description><![CDATA[División TI<br>https://www.mptfp.gob.es/<br><br>C. de Miguel Ángel, 21, 28010 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.691467,40.436223,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Política Territorial</name>
+      <description><![CDATA[División TI<br>https://www.mptfp.gob.es/<br><br>C. José Marañón, 12, 28010 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.696474,40.429106,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Política Territorial</name>
+      <description><![CDATA[División TI<br>https://www.mptfp.gob.es/<br><br>P.º de la Castellana, 3, 28071 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.690769,40.426319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Sanidad</name>
+      <description><![CDATA[División TIC<br>https://www.sanidad.gob.es/<br><br>P.º del Prado, 18, 28014 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.694039,40.413765,633.3
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Transportes, Movilidad y Agenda Urbana</name>
+      <description><![CDATA[Ud. de Informática de la Dirección Gral. de Transporte Terrestre<br>https://www.mitma.gob.es/<br><br>P.º de la Castellana, 67, 28071 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.693609,40.444212,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº de Trabajo y Economía Social</name>
+      <description><![CDATA[Subdirección Gral. TIC<br>http://www.mites.gob.es/<br><br>P.º de la Castellana, 63, 28046 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.694542,40.442814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mº para la Transición Ecológica</name>
+      <description><![CDATA[División de Sistemas y TIC<br>http://www.miteco.gob.es/<br><br>Pl. de San Juan de la Cruz, s/n, 28003 Madrid]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          -3.693685,40.441947,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sec Estado de Migraciones, Mº de Inclusión, SS y Migr</name>
+      <description><![CDATA[Mº de Inclusión, Seguridad Social y Migraciones<br>https://www.inclusion.gob.es/<br><br>Calle de José Abascal, 39, 28071 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.697016,40.438678,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SEPE</name>
+      <description><![CDATA[Servicio Público de Empleo Estatal, Mº de Trabajo y Economía Social<br>http://www.sepe.es/<br><br>C. Condesa de Venadito, 9, 28027 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.653814,40.445966,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SG Financiación Autonómica y Local</name>
+      <description><![CDATA[Ud. TIC, Gabinete Técnico SGFAL, Mº de Hacienda y FP<br><br>C. Alberto Bosch, 16, 28014 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.68937,40.413414,647.8
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SG de Servicios Web, Transparencia y Protección de Datos</name>
+      <description><![CDATA[Area TIC, Secretaría Gral. Técnica, Mº Hacienda y FP<br><br>C. Alcalá, 9, 28014 MAdrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.701692,40.417349,652.3
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TGSS Tesorería General de la Seguridad Social</name>
+      <description><![CDATA[Servicios Centrales de Tesorería General de la Seguridad Social<br>http://www.seg-social.es<br><br>C. de los Astros, 5, 7, 28007 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.668998,40.411573,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tribunal Económico Administrativo Central</name>
+      <description><![CDATA[Tribunal Económico Administrativo Central, Mº de Hacienda y FP<br><br>C. Panamá, 1, 28036 Madrid]]></description>
+      <styleUrl>#icon-503-CDDC39</styleUrl>
+      <Point>
+        <coordinates>
+          -3.689195,40.456692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
