@@ -1,0 +1,327 @@
+###############################################################################
+###############################################################################
+MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+Instituto de Estudios Fiscales (IEF)
+===============================================================================
+* ENTREVISTA: 11/04/2022 - 10:00 a 11:00
+			  Pedro Baquero (Responsable del Área de Informática del IEF)
+			  Luis García (Jefe de Servicio del IEF)
+
+* LUGAR: SEDE - Avda. del Cardenal Herrera Oria, 378 (Madrid),
+					(en la carretera de la playa, parte de abajo).
+
+				En Informática, ahora mismos son un total de 7 personas.
+
+				Ahora van a venir 4 personas externas (mediante concurso) que
+				van a cubrir la parte de redes.
+
+				Pedro invita a la gente a que quien quiera pueda ir al centro
+				de visita.
+
+
+
+
+* TRANSPORTE: Desde Moncloa hay 2 líneas de autobus que pasan con mucha
+			  frecuencia y llegan muy rápidos, desde Moncloa sobre 15 minutos.
+
+			  Desde Alcobendas, por ejemplo, en coche se tarda unos 20 minutos.
+
+
+-------------------------------------------------------------------------------
+* MOVILIDAD A PROVINCIAS (S/N/¿?): N - En la actualidad sus servicios están
+									   todos ubicados en Madrid, pero si va a
+									   venir alguien de fuera que se lo piense
+									   mucho, porque el coste que tiene vivir
+									   en Madrid probablemente haga que le salga
+									   bastante caro.
+
+									   Como estrategia para alguien que venga de
+									   provincias a trabajar, Luis propone que
+									   el día de teletrabajo se lo coja una
+									   semana el viernes y a la semana siguiente
+									   el lunes para poder acudir a provincia.
+-------------------------------------------------------------------------------
+
+* PLAZAS SOLICITADAS: 1 (¿?) - Perfil de programador en .NET es lo que más
+							   interesa. No obstante, lo principal es la actitud
+							   que tenga la persona que entre como TAI y la
+							   disposición y actitud ante el aprendizaje.
+
+							   Si no tiene muchos conocimientos en programación en
+							   .NET se intentaría que los adquiriera en el propio
+							   Área de alguna manera.
+
+							   El nivel de entrada no lo sabe aún, depende del
+							   INAP, pero lo que sí que puede decir es que
+							   respecto a la promoción, se promociona rápido de
+							   nivel, algo de lo que Luis García añade que da fe
+							   de ello.
+
+							   Depende de cómo funcione la persona que entre. Si
+							   funciona bien trabajando no hay problema en
+							   coger una comisión de servicio rápidamente y
+							   luego cuando ya se lleve un tiempo, optar al
+							   concurso de nuestra plaza, pero la plaza inicial
+							   es la que marque el INAP.
+
+							   La idea no es que se controlen a trabajadores de
+							   empresas externas, sino que nos formemos en la
+							   materia.
+
+							   REDES: No es el perfil preferido para esta Área,
+							   se lo comenta Pedro a alguien que le interesa
+							   quizás para un futuro, al vivir cerca, por la
+							   zona de la Vaguada. De todos modos, en cualquier
+							   caso, si hay alguien interesado en la plaza,
+							   Pedro dice que no le va a decir que no, aunque no
+							   sea de su perfil (se supone porque va a tener
+							   predisposición a aprender y trabajar). Pero le
+							   usarían seguro aunque no sea su perfil.
+
+							   Para gestionar los externos que van a venir de
+							   redes no se necesita un gestor. Lo que se
+							   necesita más bien es MANO DE OBRA, es decir,
+							   programadores que programen, y no que gestionen
+							   grupos de programadores, o un encargado de
+							   servidores (de sistemas), se necesita a alguien
+							   que se meta de lleno en los servidores y no que
+							   los gestionen.
+
+							   Si entrara uno de redes habría que buscar la
+							   manera de adaptarlo al puesto y ver un poco desde
+							   el principio qué se hace con ellos.
+
+
+
+* HORARIO: HABITUAL -----------------------------> 37,5H SEMANALES
+		   			OBLIGATORIO: 9:00-14:30
+		   			FLEXIBILIDAD (hasta sumar 37,5H): Antes de las 9:00
+		 			   					     		  Después de las 14:30
+
+		 			   					     		  De todos modos, en algunas
+		 			   					     		  condiciones pueden ser
+		 			   					     		  muy flexibles con el
+		 			   					     		  horario si se necesita.
+
+		 			   					     		  Mientras se hagan todas
+		 			   					     		  las horas no importa el
+		 			   					     		  horario.
+
+
+		   			ESPECIAL DEDICACIÓN (PRODUCTIVIDAD) --> 40H SEMANALES
+												   			2 Tardes
+		 										   			17:00-19:00
+
+		 			HORARIO DE VERANO: depende, porque se intenta que por las
+		 							   tardes en agosto no haya actividad.
+
+
+
+* SUELDO: El habitual para el nivel de entrada de C1 (depende del nivel).
+		  BASE + CD + CE + PRODUCT (TARDES + EXTRA) + TRIENIOS
+
+		  - Productividad tardes = 230 y algo de euros aproximadamente.
+		  - Productividad extra = cada 4 meses, el doble de la de las tardes.
+
+
+
+* TELETRABAJO: El teletrabajo existente es 1 día a la semana, elegido por el
+			   propio funcionario, salvo que haya algún problema que implique
+			   un requisito de asistencia.
+
+			   Respecto a lo que hacen en otros Ministerios de que la jornada de
+			   teletrabajo puede hacerse bien 1 jornada de día o las 2 tardes de
+			   productividad, Pedro Baquero dice que eso ya se estudiaría, por
+			   lo que a priori parece que no es algo que esté de partida como
+			   posible opción. Ni SÍ no NO, es cuestión de estudiarlo.
+
+
+
+* FORMACIÓN: Hay un centro de la UNED en el IEF, con lo cual, si en algún
+			 momento alguien quiere ampliar conocimientos o según las carreras
+			 que se tengan, hay un centro de formación en el cual se puede hacer
+			 el grado en informática, y es un buen sitio para ampliar nuestra
+			 formación para el futuro para poder acceder a plazas superiores.
+
+			 Si no tiene muchos conocimientos en programación en .NET se
+			 intentaría que los adquiriera en el propio Área de alguna manera.
+
+			 Formación específica del Instituto no hay nada, y la idea es formar
+			 a la persona en lo que va a necesitar, dentro de los cursos que
+			 poseen para formar a los trabajadores, una especie de plan de
+			 formación para la persona que entre a trabajar.
+
+			 Aparte de todo lo comentado, se organizan también cursos de Data
+			 Mining, Bussiness Intelligence, etc a los que se pueden asistir
+			 para formarse un poco de cara al futuro.
+
+
+
+* PARKING: SI - Cualquier funcionaro que llegue tiene plaza de parking y, con el
+				entorno en el que se encuentra, aunque están un poco apartados,
+				tiene la ventaja de que hay muchos jardines y se nota mucho
+				menos la contaminación.
+
+				No hay problemas para aparcar. El edificio es como una
+				Universidad, como la Universidad de Hacienda, por así decirlo,
+				entonces dispone de cosas como las que dispone las Universidades
+				tipo aparcamientos, etc.
+
+				A veces hay más alumnos y a veces hay menos. Si se llega muy
+				tarde igual cuesta un poco más aparcar, pero si se llega a una
+				hora prudencial, se puede aparcar perfectamente.
+
+				A las 8:30 hay sitio seguro.
+
+
+
+* COMEDOR/CAFETERÍA: SI - Como se ha comentado, al ser parecido a un edificio
+						  o campus universitario, dispone también de una
+						  cafetería al más puro estilo universitario. con unos
+						  precios más o menos populares. 
+
+
+
+* GUARDERÍA: NO - No hay en el edificio, aunque sí que lo hay en el Ministerio
+				  del Interior.
+
+
+
+* VACACIONES: Hay que hacer un plan de vacaciones para dejar el servicio
+			  cubierto de alguna manera, pero permiten que lleguen a acuerdos
+			  los compañeros para que escojan las vacaciones según conveniencia.
+
+			  Para las vacaciones no hay jerarquías. Todos somos iguales.
+
+
+
+* CUPO DE DISCAPACIDAD: La sede está preparada para acceso a personas con
+						movilidad reducida. Hay ascensores, baños adaptados para
+						personas con diferentes discapacidades.
+
+
+
+* ESPACIO DE TRABAJO: Espacio bastante grande con mesas separadas y se le
+					  ubicaría en alguna de esas mesas al que empezara a
+					  trabajar.
+
+
+
+* RUIDO: No hay ruido en el puesto de trabajo.
+
+		 Puede haber ruido en la cafetería, que es una especie de cafetería
+		 universitaria.
+
+		 Chascarrillo al respecto de Luis:
+		 Si te vas a una máquina de café o de cocacola y te vas a una banco
+		 allí no hay ruido, si acaso pajaritos o el jardinero cortando césped.
+		 Dice que "Bendito el ruido que hace un jardinero cortando el césped
+		 frente al ruido, por ejemplo, de Embajadores".
+
+		 Lo define bastante tranquilo y con niveles de ruido y de polución muy
+		 bajos.
+
+
+
+TAREAS: Hay 2 redes locales:
+			- 1 red de formación, con varios proyectos con ellas.
+			- 1 red propia separada de la de formación.
+
+		Hay 2 CPD, uno oficial y otro de respaldo en otro edificio.
+
+
+
+TECNOLOGÍAS: ¿Qué clase de software se desarrolla?
+			 Se desarrolla en .NET con SQL Server.
+
+			 Un jefe de servicio es el que se encarga de planificar y explicar
+			 los desarrollos que se van a realizar y apoyados por una persona.
+
+			 Los proyectos software que se están realizando ahora mismo son:
+
+			 	- Un portal para profesores, porque se tiene una ampliación muy
+			 	  grande de formación.
+
+			 	- También se quiere hacer un portal para el alumno, tipo web. 
+
+			 Hay muchos proyectos, mayoritariamente orientados a la formación.
+			 No sólo es la escuela de los nuevos funcionarios, sino que también
+			 es la escuela de todos los funcionarios. Algunos proyectos son:
+
+				- Aplicaciones web
+				- Se están integrando también servicios horizontales, como la
+				  firm@ electrónica, etc.
+				- .NET
+				- Un proyecto de aceda (Administración Centralizada de Datos).
+				- Se quiere integrarse también en la carpeta ciudadana.
+				- Muchos proyectos para trabajar con los propios microservicios
+				  que da la administración.
+				- Hay un proyecto para que los títulos que se obtengan por parte
+				  de los alumnos se den de alta en el registro de personal.
+				- Se tienen muchos proyectos de ese tipo, que se van agregando a
+				  un programa grande que se tiene de gestión de todo lo que es
+				  la formación del IEF. Un programa como el que gestionaría toda
+				  una universidad (profesores, alumnos, clases, etc).
+				- Otros muchos proyectos que van cayendo de vez en cuando.
+
+
+
+* ACCIÓN SOCIAL: SÍ - Hay un plan de ayuda de acción social. Hay ayudas de:
+					
+						+ Ayudas por hijos.
+						+ Ayuda por alquiler (sólo 1 mes).
+						+ Gastos de gafas, médicos, etc.
+						+ También ayuda por la compra de una casa.
+						+ Ayudas para estudios (de 2 tipos):
+								# Ayuda universitaria, etc
+								# Ayuda de promoción, si se necesita academia
+								  para una promoción interna (A1 ó A2).
+
+						  Aquí hay una muy buena combinación para quien siendo
+						  C1 esté pensando en sacarse el grado para el A1 ó el
+						  A2, es muy buena situación, porque se tiene centro
+						  asociado de la UNED, donde además se imparte
+						  informática, es decir, que las clases presenciales son
+						  en el mismo sitio, al igual que los exámenes. Todo
+						  esto supone un "mega-plus" (palabras de Luis).
+
+						  Otro chascarrillo de Luis... que dice que aunque
+						  tengamos los servidores de la UNED a tiro de piedra en
+						  el mismo sitio, el acceso a los exámenes no es
+						  accesible (ya lo ha probado él).
+
+
+
+* OBSERVACIONES: - PREGUNTA DEL CHAT: ¿Habiendo hecho un FP de Desarrollo de
+				   aplicaciones multiplataforma.ç, pero sin experiencia se puede
+				   entrar a trabajar en este sitio?
+
+				   RESPUESTA: Sin problema, porque la experiencia ya se cogerá
+				   en el sitio. Se buscan conocimientos y actitud positiva para
+				   el trabajo y la integración. Los conocimientos, si se tiene
+				   actitud, se adquieren sin problema. 
+
+				   De todos modos, nadie te va a poner pegas en toda la
+				   administración por no tener experiencia laboral si has
+				   aprobado las oposiciones, porque al haberlo hecho, ya eres
+				   un candidato perfectamente válido, y sobre todo para puestos
+				   de desarrollo, porque quizás para gestión o CAU se podría
+				   tener algún problema.
+
+
+				 - Sobre horarios y tardes, se podría hacer las tardes, que son
+				   de 17:00 a 19:00, con lo que casi con total seguridad, el día
+				   que haces las 2 tardes, el resto del horario se hace
+				   fácilmente (según Luis), que supongo que lo dice por las
+				   horas que echas mientras no empieza el horario de 17-19.
+
+				   Como se ha comentado en este caso y en otros ministerios, las
+				   horas de tarde se pueden hacer en teletrabajo en vez de 1 día
+				   de teletrabajo.
+
+
+				 - Pedro Barquero dice al finalizar que cualquiera que esté
+				   interesado en conocer las instalaciones y el funcionamiento
+				   que se acerque sin problemas para que le hagan un tour.
+
+

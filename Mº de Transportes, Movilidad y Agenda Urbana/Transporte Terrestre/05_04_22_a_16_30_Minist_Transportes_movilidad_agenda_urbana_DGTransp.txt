@@ -1,0 +1,459 @@
+###############################################################################
+###############################################################################
+MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA - TRANSPORTE TERRESTRE
+===============================================================================
+* ENTREVISTA: 05/04/2022 - 16:30 a 17:30
+			  (jfombella@mitma.es / 915977638)
+
+* LUGAR: Ministerio de Transportes, Movilidad y Agenda Urbana,
+		 (Dirección General de Transporte Terrestre - DGTT),
+		 Paseo de la Castellana, 67, 28.046 (Madrid) - Nuevos Ministerios
+		 (edificio que está entre Castellana y Raimundo Fernández Villaverde)
+
+		 MEDIO DE TRANSPORTE: - Coche (hay parking en la sede).
+		 					  - Estación de tren (renfe).
+		 					  - Estación de metro.
+		 					  - Parada de buses.
+
+		 PREVISIÓN DE CAMBIO DE SEDE: NO
+
+* CONTACTO: Lourdes Chocano
+				(Subdirectora Adjunta de Subdir. Gestión, Análisis e Innovación
+				 del transporte terrestre, de la Dirección Gral. de Transporte
+				 Terreste).
+			Jorge Fombella
+				(Jefe de Área)
+
+
+* ORGANIZACIÓN: Personal en el área de Informática = 16 personas
+
+				Según palabras de Lourdes, Jorge es el Jefe de Área de
+				Informática, que es un área muy pequeña pero muy potente, porque
+				tiene muchos servicios de los cuales están muy orgullosos.
+
+				Según Lourdes, no se pueden comparar con los grandes de la AGE
+				en cuanto a servicios informáticos, pero es interesante.
+
+				El negocio es el transporte terrestre aunque ahora se está
+				ampliando un poco al ferroviario, pero prácticamente siempre
+				ha sido el transporte por carretera.
+
+				La aplicación o Sistema principal, aunque ya hay muchos más, ha
+				sido las autorizaciones y títulos necesarios para ejercer la
+				actividad del transporte de viajeros y de mercancías por
+				carretera (autorizaciones de los camioneros, conductores de
+				autobuses, taxistas, VTC, etc).
+
+				Se tiene un registro de empresas y actividades de transporte y
+				la Dirección General es la responsable de la gestión y
+				mantenimiento de ese registro, pero a la vez, las comunidades
+				autónomas tienen la competencia delegada para la tramitación de
+				los títulos para ejercer esta actividad.
+
+				Además de ello, existe otra serie de títulos, como son:
+					+ El de la actividad de competencia profesional.
+					+ De formación de conductores profesionales.
+					+ Tacógrafo.
+					+ Las labores de gestión con las aplicaciones y sistemas
+					  asociados a esta inspección del transporte.
+
+				También se tienen servicios que dan información (o mensajería)
+				con los Estados miembros de la UE.
+
+				Este registro de empresas y actividades de transporte está
+				centralizado en el Ministerio, en la Dirección General, y con él
+				se da servicio a todos los servicios territoriales de transporte
+				de las comunidades autónomas, que como se dijo anteriormente,
+				tienen la competencia delegada para la tramitación.
+
+				Ellos son los encargados del mantenimiento, desarrollando desde
+				el área de Informática, y aunque se cuenta con recursos propios,
+				cada vez son menos, y espera que acuda mucha gente para trabajar
+				y poder aumentar así los recursos.
+
+				También se contratan servicios con empresas externas.
+
+				Se colabora también con la Subdirección General de Tecnologías,
+				que es del Departamento, del Ministerio de Transportes.
+
+				Funcionalmente consiste en un Registro centralizado, que da
+				servicio a los servicios territoriales, y a la Unión Europea con
+				otras redes de mensajería, como por ejemplo TacoNet o en los
+				registros europeos.
+
+				También se tiene conexión con los Cuerpos y Fuerzas de Seguridad
+				del Estado y otras administraciones, para certificaciones de los
+				requisitos que requieran estas autorizaciones de transporte y
+				que haya que verificar con registros externos como por ejemplo
+				tráfico, la agencia tributaria, la seguridad social, el INE o
+				el Registro Mercantil.
+
+				Ahora vienen los comentarios más técnicos que son los que
+				comentará Jorge.
+
+				Esta no es tan grande como una SGTIC, que dan servicios
+				horizontales, sino que son una Unidad Informática de una
+				Dirección General concreta, para un sector concreto, que es el
+				del Transporte Terrestre, como ha comentado Lourdes. Eso no
+				quiere decir que no se realicen muchas tareas en tal unidad,
+				que tiene muchísimas tareas por hacer.
+
+				Al tratar con desarrollo de aplicaciones, llevan también
+				sistemas propios, de servidores Linux y windows, también
+				servidores de aplicaciones JBOSS fundamentalmente, una BD de
+				Oracle a la que se le da muchísimo uso.
+
+				Se hace bastante desarrollo con empresas externas, pero también
+				cada vez más, se intenta en la medida en que se puede, hacer
+				desarrollos propios, y la verdad es que se tocan muchas cosas.
+
+				Los desarrollos son cambiantes por las propias normativas
+				cambiantes y cosas que hay que resolver nuevas, según avanzan,
+				pero al final (Según Jorge), todos estos desarrollos a él lo
+				"engancharon" y lleva 13-14 años en la Unidad.
+
+				Últimamente tienen varias conexiones con registros europeos, que
+				hay que ajustarse a diversos protocolos de intercambio de
+				información con Europa, que es bastante interesante. Hay
+				registros con bastantes datos, que son muy interesantes también
+				de cara a explotación de la información.
+
+				Fombella se ríe, dice, porque a veces le toca lidiar con una
+				impresora estropeada, pero otras está encargado de un contrato
+				de un desarrollo o un plateamiento estratégico de un proyecto
+				nuevo. Se tocan muchos niveles.
+
+				En el Área de Informática son 16 personas, y según Lourdes están
+				bajo mínimos, pero antes de que viniera Jorge eran unos 50.
+				Son pocos, pero tienen servicios externos y ahora trabajan en
+				diferentes proyectos en colaboración con la Subdirección de
+				Tecnologías, que cada vez es más necesario colaborar, porque
+				cada vez hay más servicios comunes que hay integrar para las
+				aplicaciones, para el intercambio de información con otras
+				administraciones.
+
+
+-------------------------------------------------------------------------------
+* MOVILIDAD A PROVINCIAS (S/N/¿?): N - TODO en el Ministerio de Transportes.
+
+									   Se da servicio a todas la sedes
+									   territoriales, pero este servicio se da
+									   a tráves de las aplicaciones que se
+									   desarrollan y publican, en la Intranet
+									   o en la Sede electrónica. Esto no quiere
+									   decir que esas oficinas territoriales
+									   correspondan a esta Dirección General,
+									   que está ubicada únicamente en Madrid,
+									   en el Ministerio.
+
+									   Las oficinas territoriales dependen de
+									   las Comunidades Autónomas.
+-------------------------------------------------------------------------------
+
+* PLAZAS SOLICITADAS: 3 (Nivel 15, generalmente)
+
+						- Solicitan todas las que pueden y para las necesidades
+						  que tienen andan escasos de todos los grupos, niveles
+						  y cuerpos y siempre piden gente.
+
+						  No quiere decir que se cubran las 3 plazas.
+
+
+						En cuanto a la selección de plazas, por orden de puntos.
+						También por cv y adaptación.
+
+
+
+* HORARIO: HABITUAL -> Habitual -> 37,5H
+					               Obligatorio:
+					                 9:00-14:30 L-V
+					   			   Flexibilidad recuperar horas:
+					   			     7:30-##:## L-J
+					   			     7:30-##:## V
+					   			     A partir de las 19:00 no cuentan las horas.
+					   Verano ---> 35H (16/06 a 15/09)
+
+
+
+* TARDES (S/N/¿?): S - 40H con PRODUCTIVIDAD
+					 - No todos los puestos tienen productividad. 
+					 - Hay que pedirla y si se justifica por el trabajo se da.
+					 - 290 y pico euros al mes para un nivel 15-16, y no es de
+					   las más altas ni de las más bajas.
+					 - 2 tardes hasta las 17:00 (obligatoriamente).
+					 - Los niveles más altos las tienen casi todos, y los más
+					   bajos los tienen unos sí y otros no, no todos, y suele
+					   ser porque no les interese seguramente.
+					 - Las horas, más allá de las 40H la Administración no te
+					   las paga.
+					 - Las tardes se conceden/revisan por trimestres.
+
+
+
+* TELETRABAJO (S/N/¿?): S - 1 día a la semana (o las tardes para los que tengan
+							productividad).
+
+							Inicialmente se hizo un pequeño proyecto piloto en
+							el ministerio con unas personas concretas, luego se
+							abrió, pero no se implantó hasta la pandemia.
+
+							Ahora depende del RD de teletrabajo.
+
+							Un trabajador puede renunciar al teletrabajo cuando
+							quiera, pero también pueden darse condiciones para
+							que deje de teletrabajarse por otros motivos.
+
+							Respecto al RD, no se sabe cómo van a ir las cosas.
+							Antes de la pandemia había proyectos de 2 días a la
+							semana, luego durante la pandemia pasaron a incluso
+							4 días a la semana para personas con hijos que
+							cuidar y luego lo último han sido 3 días a la semana
+							para teletrabajar.
+
+							Desde febrero no se sabe nada, y ahora se habla de
+							que hasta agosto no se va a realizar un regulación
+							nueva.
+
+							Hasta que no se sepa no puede avanzarse nada.
+
+
+
+* BUFANDA (S/N/¿?): S - Sujeta a disponibilidad, muy restringida y no se puede
+						prometer nada. En palabras de Lourdes, "no quitan el
+						frío".
+
+
+
+* PROMOCIÓN (SUBIR DE NIVEL): S - Generalmente si se hace será por antigüedad.
+
+								  Por la experiencia de Lourdes, no hay regulado
+								  nada ni asegurado nada de subir de nivel,
+								  porque depende del movimiento de las plazas,
+								  hay gente que quiere cambiar y gente que no.
+
+								  La gente que está en el Área generalmente es
+								  estable y está contenta y no se mueve.
+
+								  Siempre que haya posibilidad se puede intentar
+								  promocionar.
+
+								  Las 2 de C1 que entraron en la última
+								  convocatoria no han promocionado, por ejemplo.
+
+								  Respecto a nivel 22 hay 3, 1 de 20 y 1 de 18.
+								  Mientras que los compañeros no dejen las
+								  plazas no se puede subir de nivel. Tiene que
+								  haber hueco. Pero se intenta promocionar en
+								  cuanto sea posible, pero cualquier
+								  modificación de la RPT es bastante complicada,
+								  porque tienen que entrar otros organismos.
+
+
+
+* SUELDO: - Base y Comp. Destino: Como toda la AGE
+		  - Comp. Específico: N/S
+		  - Productividad: Algo menos de 300.
+		  - Bufandas (duda).
+		  - Trienios (cada 3 años).
+					               
+
+
+* VACACIONES: Como en toda la AGE:
+				- OBLIGATORIO coger al menos 50% desde 15/06 a 15/09.
+				- Las vacaciones deben cogerse al menos en periodos de 5 días.
+				- De todas las vacaciones sólo puedes usar 5 en días sueltos.
+				- No se pueden juntar con moscosos salvo con días festivos entre
+				  medias.
+
+
+
+* TAREAS: - REDES: se trabaja bastante poco con redes y comunicaciones. Antes se
+			daba bastante más, pero ahora ya no y se llevan, fundamentalmente,
+			desde la Subdirección de Tecnologías del Ministerio.
+
+			Si la gente	que entra en la Unidad sabe del tema viene muy bien,
+			pero no se lleva esas labores allí.
+
+
+		  - DESARROLLO DE APLICACIONES: Se hace mucho más (que comunicaciones),
+		  	integración con otros servicios, planteamiento de los nuevos
+		  	desarrollos que vayan surgiendo.
+
+		  	La principal necesidad va a ser desarrollo, a pesar de que viene
+		  	bien gente con conocimiento de Sistemas.
+
+
+		  - SISTEMAS: Se sigue llevando también bastante trabajo. Aunque no es
+		    lo que más se solicita, tener a gente con conocimiento de Sistemas
+		    siempre está bien. Ahora mismo hay 3 (contando con Fombella) que
+		    tratan Sistemas, aunque no son expertos en ello.
+
+		    De todos modos, se necesita más gente de desarrollo que de Sistemas.
+
+
+
+		  De todos modos, cualquier perfil que quiera ir a la Unidad, al margen
+		  del perfil, es bienvenido, porque hay muchas áreas en las que trabajar
+		  y seguramente tiene cabida y se le adapte: Seguridad (bien), Sistemas
+		  (bien), Sistemas Linux o de monitorización (genial), backup (aunque se
+		  utiliza un software de hp pero se plantea un cambio con otro de la
+		  Subdirecc. de Tecnologías, por lo que vendrá también estupendamente),
+		  Oracle (con los brazos abiertos), otras BD (también).
+
+		  De redes se toca menos, a pesar de que se tiene un firewall interno,
+		  propio de la Unidad, que gestiona las distintas redes, pero no da
+		  para cubrir una persona de redes a tiempo completo.
+
+		  Una persona de perfil de Sistemas sí que daría para cubrir un puesto
+		  de Sistemas a tiempo completo.
+
+		  De desarrollar ¿Teclear código o gestión de proyectos con empresas
+		  externas? Normalmente, los desarrollos se suelen hacer con empresas
+		  externas al haber poco personal, pero por suerte, se han incorporado
+		  2 compañeros C1 en los últimos años con experiencia y ganas de
+		  desarrollar y aunque no tratan con los grandes sistemas que se tienen,
+		  sí que van haciendo desarrollos en las necesidades que van surgiendo.
+
+		  Hay sitio para todo.
+
+		  Hay una compañera que no había desarrollado y que se dedica al soporte
+		  ayudando con otros desarrollos que realiza otra empresa.
+
+		  Hay un CAU general del Ministerio, que se está intentando que siempre
+		  echen una mano a nivel de Subdirección de Tecnologías para la atención
+		  a usuarios, porque se tiene una cantidad de usuarios tremenda, si se
+		  habla solamente de los usuario de las comunidades autónomas con sus
+		  oficinas territoriales.
+
+		  (le ha parado Lourdes dice que para no asustar a la gente con las
+		  cantidades de personas, aunque creo que es porque quiere ir al grano
+		  con el cuestionario).
+
+		  (jorge recula algo diciendo que es gente que se dedica al negocio,
+		  que sabe cómo funcionan las cosas, pero es lógico que hay que
+		  atenderles, y que empresas hay muchas del sector de transporte, entre
+		  transportes de mercancías, autobuses, taxis, vtc, etc).
+
+		  Ellos no tienen usuarios como tales, pero desde 2017 entró un nuevo
+		  reglamento sobre transporte terrestre, y es obligatoria la tramitación
+		  electrónica para cualquier gestión o trámite relacionado con el
+		  transporte por carretera, y es por ello por lo que sus sistemas dan
+		  servicio a todas las comunidades y a todas las oficinas de transporte,
+		  para cualquier gestión. 
+
+		  De eso también están muy orgullosos, porque en la actualidad y casi
+		  desde el principio, todos los procedimientos asociados con el
+		  transporte terrestre estaban adaptados a la tramitación telemática.
+		  También es cierto que, desde esa fecha, sus potenciales usuarios se
+		  incrementaron considerablemente porque desde sede electrónica tiene
+		  acceso casi cualquier ciudadano del sector del transporte para
+		  solicitar cualquier gestión. Con todo esto, aunque las aplicaciones
+		  están bastante bien adaptadas, se mejoran día a día y hay que atender,
+		  por tanto, consultas y mejoras y no solamente lo referido a la
+		  normativa que se regule y para la que hay que adaptar estos sistemas,
+		  sino que desde estos servicios los propios ciudadanos (del sector del
+		  transporte) también les ayudan en la mejora mediante propuestas.
+
+		  En cuanto a cantidad de usuarios que se da servicio, es muy complicado
+		  contabilizarlos. Se puede dar un número aproximado en lo que respecta
+		  a la gestión desde la Intranet Administrativa, que es desde donde
+		  gestionan las oficinas de transporte, que se tiene un número
+		  perfectamente contabilizado de usuarios que están dados de alta
+		  también telemáticamente en sus sistemas. En lo que respecta al
+		  transporte potencial, a través de las sedes electrónicas, es muy
+		  complicado saberlo, aunque a través de las estadísticas que se
+		  publican en la web del Ministerio, en el Área de Transporte Terrestre
+		  se puede hacer una idea del volumen del sector, tanto de viajeros como
+		  de mercancías, vtcs, vts, etc
+
+
+
+* TECNOLOGÍAS: - DESARROLLO, fundamentalmente con:
+					+ JAVA (A nivel de Ministerios se trabaja mucho con .NET,
+					  pero esta unidad usan Java para no dispersar mucho la
+					  tecnología).
+					+ BD Oracle.
+					+ Servidores de aplicaciones JBOSS sobre Linux o Windows.
+					  (A nivel del Ministerio se trabaja mucho con windows, pero
+					  ellos tienen tradición de trabajar con HP-UX, que es la
+					  versión de Unix desarrollada y mantenida por HP desde el
+					  año 1983, y también trabajan con Linux). De todos modos,
+					  generalmente, el desarrollo es agnóstico del Sistema
+					  Operativo.
+					+ Desarrollo aplicaciones web.
+					+ Alguna aplicación desarrollada en Oracle Forms 11.
+
+			   - SISTEMAS:
+			   		+ Linux (sobre todo).
+			   		+ HP-UX (un poco).
+			   		+ BD Oracle.
+			   		+ Nube no hay mucho, pero a nivel de Ministerio trabajan
+			   		  con Azure y AWS, además de tener proyectos de
+			   		  dockerización, que dependiendo de proyectos nuevos les
+			   		  gustaría explorar la opción de dockerización.
+
+
+
+* PARKING (S/N/¿?): S - Parking en el centro de Madrid es un lujo (Lourdes).
+
+
+
+* FORMACIÓN: - Obligatoria a la incorporación: NO
+			 - Plan de formación: SI
+			 	+ Comunes.
+			 	+ Específicos (transporte por carretera, por ejemplo).
+			 	  (depende del Departamento hay cursos de Informática también).
+			 	+ Otros (como cursos antiestrés, ofimática, proced. admin, etc).
+
+			 - Hay un número máximo de cursos al año (5 máximo).
+			 - El jefe puede establecer la obligatoriedad de algún curso.
+			 - También hay cursos del INAP.
+
+
+
+* COMEDOR (S/N/¿?): S - Comedor con:
+						+ Menú a 6€ (nivel de calidad medio-alto).
+						+ Desayuno a 1,50€.
+						+ Café a 0,70€.
+
+					  - Office bastante grande con Microondas.
+
+
+
+* OTROS SERVICIOS (S/N/¿?): S - Hay servicio de peluquería (según Lourdes).
+							  - Antes había banco y correos y ahora oficina de
+							    correos.
+							  - Había estanco, pero ya no vende tabaco, aunque
+							    se puede echar la primitiva y demás loterías.
+
+
+
+* ACCIÓN SOCIAL (S/N/¿?): S - Ayudas sociales no son muchas, las básicas, y los
+							  precios son más bajos que en la calle.
+
+
+
+* GUARDERÍA (S/N/¿?): S - Guardería excelente.
+
+
+
+* ADAPTABILIDAD Y MOVILIDAD: S - Aunque es un edificio antiguo, está bien
+								 adaptado para personas con poca movilidad. Y en
+								 las zonas en que no ha sido posible poner
+								 rampas o acceso a través de ascensor hay algún
+								 salvaescaleras, que son pocos, pero en
+								 cualquier caso, está bien adaptado.
+
+
+
+* NIVEL DE RUIDO: No es obligatorio el uso de cascos/auriculares, pero si se
+				  comparte el despacho con otros compañeros, se suele poner uno
+				  los auriculares por intimidad.
+
+				  Es cierto que habitualmente no se está trabajando con una
+				  videconferencia todo el día.
+
+				  El despacho no tiene mucho ruido. NIVEL DE RUIDO BAJO.
+
+				  Despachos compartidos por 2-3 personas.
+

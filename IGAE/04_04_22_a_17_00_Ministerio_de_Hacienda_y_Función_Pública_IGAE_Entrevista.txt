@@ -1,0 +1,1114 @@
+###############################################################################
+###############################################################################
+MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+===============================================================================
+* ENTREVISTA: 04/04/2022 - 17:00 a 18:00
+			  (Teams)
+
+
+* CONTACTO: José María Sobrino Moreno
+				(Director de la Oficina de Informática Presupuestaria),
+			Ismael García Cebada
+				(Jefe División 1 - Desarrollo Aplics. contabilidad y ctrl Gasto
+				 Público),
+			Rafael Elpidio Moral Escudero
+				(Jefe División 2 - Aplics. Presupuestos y Sorolla 2),
+			David Baldominos Agraz
+				(Jefe Divisón 3 - Aplics. Personal, Ctrl Retribuciones, costes
+				 gastos personal),
+			Alvaro Hernando
+				(Jefe División 4 - Explotación y Sistemas),
+			Javier Martínez Sánchez
+				(Jefe División 5 - Aplics. Gestión fondos europeos, FEBER,
+				 Mecanism. Recuper),
+			Carlos León Remedios
+				(TAI),
+			Raúl Lorente
+				(TAI),
+
+* LUGAR: Intervención General de la Administración del Estado,
+		 (IGAE),
+		 SEDE 1: Calle Mateo Inurria, 15, 28.036 (Madrid) ===> Desarrollo,
+		 SEDE 2: Calle Agustín de Foxa, 25. ===> Explotación y Desarrollo.
+
+		 TIEMPO ENTRE AMBAS SEDES: 5 minutos.
+
+		 CAMBIO PREVISTO DE SEDE: Puede que haya un cambio de sede, pero antes
+		 						  de 6 años no es razonable. De todos modos,
+		 						  aunque lo hubiera, sería a un entorno muy
+		 						  cercano/próximo.
+
+		 MEDIOS DE TRANSPORTE: SEDE 1 cerca de Plaza Castilla (METRO Y BUS)
+		 					   SEDE 2 al lado de Chamartín (TREN).
+
+
+		 El IGAE está dentro del Ministerio de Hacienda y Función Pública.
+
+		 En el Ministerio hay 3 Secretarías de Estado.
+
+		 	- Secretaría de Estado de Presupuestos y gastos.
+
+		 	- Secretaría de Estado de Hacienda.
+
+		 	- Secretaría de Estado la Función Pública y la Subsecretaría.
+
+
+		 IGAE está adscrita a la Subsecretaría, y dentro de las Unidades, la
+		 OFICINA DE INFORMÁTICA PRESUPUESTARIA. Esta Oficina no sólo da
+		 servicios al IGAE, sino que también a la SECRETARÍA DE ESTADO DE
+		 PRESUPUESTOS Y GASTOS y a todos sus centros directivos.
+
+		 Precisamente por lo anterior, la propia OFICINA DE INFORMÁTICA
+		 PRESUPUESTARIA se ha estructurado en 5 divisiones:
+
+		 	- 4 Divisiones dirigidas al desarrollo de aplicaciones de...
+		 	- 1 División dirigida a Infraestructura, Explotación, Producción,
+		 	  técnica de Sistemas (división 4).
+
+
+		 Ya en detalle, estas 5 divisiones son las siguientes:
+
+		 - DIVISIÓN 1: APLICACIONES DE CONTABILIDAD Y DE CONTROL, que tiene por
+		 			   jefe a Ismael García, que da servicio directamente a la
+		 			   IGAE en temas de Contabilidad y Control de Gasto Público.
+
+		 - DIVISIÓN 2: APLICACIONES DE GESTIÓN PRESUPUESTARIA, que tiene por
+		 			   jefe a Rafael Moral, atiende a las necesidades de
+		 			   presupuestos, de la DIRECCIÓN GENERAL DE PRESUPUESTOS, y
+		 			   además una aplicación específica llamada SOROLLA2 que va
+		 			   encaminada a tramitación de los expedientes de gastos, la
+		 			   gestión de cajas pagadoras,etc. y está en el ámbito
+		 			   funcional de la IGAE.
+
+		 - DIVISIÓN 3: APLICACIONES DE COSTE DE PERSONAL, que da servicio
+		 			   directamente a la DIRECCIÓN GENERAL DE COSTES DE PERSONAL
+		 			   manejando todo el tema de test, análisis de costes de
+		 			   personal, etc.
+
+		 - DIVISIÓN 4: EXPLOTACIÓN.
+
+		 - DIVISIÓN 5: APLICACIONES DE FONDOS EUROPEOS, que tiene en estos
+		 			   momentos una trascendencia especial, por todos los temas
+		 			   relacionados con la gestión del mecanimos de recuperación
+		 			   y resiliencia, pero también por los fondos ordinarios que
+		 			   se reciben de la Comisión Europea.
+
+
+		 En la parte de la Dirección de la Oficina de Informática Presupuestaria
+		 hay una serie de servicios transversales que se puede comentar luego.
+
+		 Esta oficina (Oficina de Informática Presupuestaria, que llamaremos OIP
+		 y que pertenece al IGAE) da una serie de servicios transversales a toda
+		 la Administración, en el sentido de que llega a:
+
+		 		+ Al sector público estatal.
+
+		 			# AGE (Administración General del Estado).
+		 				~ Secretaría de Estado de Presupuestos y Gastos
+		 				~ IGAE (Intervención General de la Admin. del Estado).
+		 				~ IIDD (Intervenciones Delegadas).
+		 				~ DEH (Delegación de Economía y Hacienda).
+		 				~ SGTFI (Secr. Gral del Tesoro y Financiación Internac).
+		 				~ DGPE (Dirección Gral del Patrimonio del Estado).
+		 				~ OOPP (Oficinas Presupuestarias).
+
+		 			# SPA (Sector Público Administrativo).
+		 				~ IIDD (Intervenciones Delegadas).
+		 				~ OOCC (Oficinasl Contables).
+		 				~ UEF (Unidad Económico Financiera).
+
+		 			# SPE (Sector Público Empresarial).
+		 				~ UEF (Unidad Económico Financiera).
+
+		 		+ Al sector público territorial.
+
+		 			# Comunidades Autónomas.
+
+		 			# Entidades Locales.
+
+		 		+ Universidades Públicas (se tiene relación también con).
+
+		 		+ Comisión de la Unión Europea (se tiene relación también con).
+
+
+		 El portal de Internet del IGAE tiene por dirección:
+		 https://www.pap.hacienda.gob.es
+
+
+		 Dentro de la carta de servicios de la Informática Presupuestaria, el
+		 catálogo de Sistemas de Información accesibles desde el exterior es
+		 (en el esquema amarillo presuponemos propios y negro no propios):
+
+		 	- Sistemas Comunes.
+		 		+ Servicios de DESARROLLOS PROPIOS:
+		 			# Portal de Internet.
+		 			# Portal de Intranet.
+		 			# DocelWeb.
+		 			# SGIFE.
+		 			# GAL@.
+
+		 		+ Servicios de DESARROLLOS NO PROPIOS:
+		 			# ISIP (Integrac. de Servicios de Informát. Presupuest.).
+		 			# Ofimática.
+		 			# e-mail.
+		 			# SINOE2.
+
+		 	- Fondos Europeos.
+		 		+ Servicios de DESARROLLOS PROPIOS:
+		 			# CoFFEE.
+		 			# Fondos 2020.
+		 			# Coopera 2020.
+		 			# SIRIO
+
+		 		+ Servicios de DESARROLLOS NO PROPIOS:
+		 			# Fondos 2007.
+		 			# Fondos 2000.
+		 			# SICM@.
+		 			# Nexus.
+		 			# Summ@.
+
+		 	- Presupuestación.
+		 		+ Servicios de DESARROLLOS PROPIOS:
+		 			# Quanto.
+		 			# PGEnet.
+		 			# ATENEA.
+		 			# Financi@.
+
+		 		+ Servicios de DESARROLLOS NO PROPIOS:
+		 			# Adenda.
+		 			# REGIOnet.
+		 			# SIGMA.
+
+		 	- Fiscalización.
+		 		+ Servicios de DESARROLLOS PROPIOS:
+		 			# IRIS.
+		 			# COREnet.
+
+		 		+ Servicios de DESARROLLOS NO PROPIOS:
+		 			# RAYOnet.
+		 			# RICEL.
+		 			# LEI.
+
+		 	- Contabilidad.
+		 		+ Servicios de DESARROLLOS PROPIOS:
+		 			# SIC'3.
+		 			# CINCO.
+		 			# RED.coa.
+		 			# CICEP.red.
+		 			# CYASPE.
+		 			# SICEL.
+		 			# INVENTE.
+
+		 		+ Servicios de DESARROLLOS NO PROPIOS:
+		 			# INCOA.
+		 			# GÉNESIS.
+		 			# CIGAE.
+
+		 	- Control Financiero.
+		 		+ Servicios de DESARROLLOS PROPIOS:
+		 			# AUDInet.
+		 			# BDNS.
+		 			# SSC.
+		 			# Inforfraude.
+
+		 		+ Servicios de DESARROLLOS NO PROPIOS:
+		 			# TeamMate.
+		 			# IDEA.
+
+		 	- Gestión Económica.
+		 		+ Servicios de DESARROLLOS PROPIOS:
+		 			# SOROLLA2.
+		 			# CANOA.
+		 			# CIBI.
+		 			# PRESYA2.
+
+		 		+ Servicios de DESARROLLOS NO PROPIOS:
+		 			# DOCUnet.
+		 			# CAVA.
+
+		 	- Costes de Personal.
+		 		+ Servicios de DESARROLLOS PROPIOS:
+		 			# ERYCAWEB.
+		 			# ARIEL.
+		 			# Ofelia.
+
+		 		+ Servicios de DESARROLLOS NO PROPIOS:
+		 			# RPT-F.
+		 			# RPT-L.
+		 			# DARETRI.
+		 			# ERYCA.
+		 			# Control horario.
+		 			# INFOs.
+
+
+		 Respecto a Transformación Digital, la tramitación de expedientes de
+		 gasto en la Administración Pública, gracias a toda la mejora realizada
+		 hasta el momento, el número de tramitaciones de expedientes realizados
+		 ha creado casi exponencialmente.
+
+
+		 Cobertura territorial de la red Corporativa:
+		 	- 14 Equipos Unix con 578 núcleos.
+		 	- 178 Equipos x86 con 993 servidores virtuales.
+		 	- 139 redes de área local.
+		 	- 5.427 Puestos, equipos portátiles y tabletas.
+		 	- 995 Impresoras.
+		  	- 2,46 Petabytes de almacenamiento en disco.
+		  	- 280 líneas de comunicaciones.	
+
+		 En la red Corporativa se trabaja con:
+		 	- Servidores Unix Solaris en proceso de migración a Linux.
+		 		(Con Oracle Java).
+		 	- Windows Server.
+		 		(con .NET SQL Server).
+
+		 En cuanto a REDES DE ÁREA LOCAL, se tiene una estructura normalizada,
+		 con 2 routers centralizando las comunicaciones con los CPD.
+
+		 En cuanto a comunicaciones, están integrados en las redes de
+		 comunicaciones voz y datos de la Administración.
+
+		 La cantidad de personas que trabajan actualmente en la Oficina de
+		 Informática Presupuestaria es de unos 203 (personal interno entre
+		 personal funcionario y personal laboral) y en torno a 220 en cuanto al
+		 personal externo.
+
+		 Presupuesto de 2022 está distribuído de la siguiente manera:
+		 	- 57% en inversiones.
+		 	- 22% en Gastos de personal.
+		 	- 21% en Gastos corrientes.
+		 		+ 48% de trabajo de terceras empresas.
+		 		+ 47% de mantenimiento.
+		 		+ 5% de otros.
+
+
+-------------------------------------------------------------------------------
+* MOVILIDAD A PROVINCIAS (S/N/¿?): N - Todos los puestos están en Madrid.
+
+									   Si bien es cierto que se trabajan para la
+									   Intervención General del Estado, que
+									   tiene sedes territoriales y regionales.
+
+									   Sin perjuicio del teletrabajo, la
+									   realidad es que los puestos son en
+									   Madrid.
+-------------------------------------------------------------------------------
+
+* PLAZAS SOLICITADAS: 17 (Nivel 15)
+					  las plazas se asignan en principio por orden de prioridad
+					  de ellos, pero intentando que se adapte a nuestro cv y
+					  preferencias, pero prima su prioridad.
+
+					  En cualquier caso, se intentará en lo posible atender a
+					  ambos criterios.
+
+					  4-5 PUESTOS DE EXPLOTACIÓN.
+					  12-13 PUESTOS DE DESARROLLO (entre las distintas unidades)
+
+
+
+* PROMOCIÓN (SUBIR DE NIVEL): Se promociona cuando hay un compromiso, pero no
+							  hay restricciones de plazas. 
+
+							  Los del año pasado están ya en nivel 17.
+
+							  Desde hace 7 años hay 2 nivel 22.
+
+							  Posibilidades de promocionar, ahora mismo hay 17
+							  vacantes.
+
+							  En los próximos 5 años, 13 TAI pueden jubilarse
+							  anticipadamente.
+
+							  Ha habido casos de gente que se le cambió de
+							  puesto.
+
+							  La edad media de la plantilla es de unos 50 años.
+							  Técnico media de permanencia de los TAI: 16 años.
+
+							  
+
+* HORARIO: Habitual -> Habitual -> 37,5H
+					               Obligatorio:
+					                 9:00-14:30 L-V
+					   			   Flexibilidad recuperar horas:
+					   			     7:00-22:00 (pero en torno a las 19:00)
+					   			   40H CON PRODUCTIVIDAD (2 tardes)
+					   Verano ---> 32,5H (16/06 a 15/09) - 1 h/dia menos
+					   					 (01/06 a 30/09) - plan concilia
+					   			   Obligatorio:
+					   			   	 9:00-14:30 L-V
+					   				PRODUCTIVIDAD (1 tarde)
+
+
+
+* TARDES (S/N/¿?): S - 2 tardes por productividad (40H semanales).
+					 - 1 tarde por productividad en horario de verano.
+					               
+
+
+* TELETRABAJO (S/N/¿?): S - A la espera del RD 20% (1 día a la semana para gente
+							con 37,5H).
+
+							En régimen de productividad (40H) se hace por las
+							tardes.
+
+
+* VACACIONES: SE REQUIERE que al menos la MITAD DE LAS VACACIONES se disfrute
+			  entre los meses de JUNIO y SEPTIEMBRE.
+
+			  El resto de las vacaciones es flexible.
+
+
+
+* PRODUCTIVIDAD (S/N/¿?): N - Salvo cuando llegas al nivel 22,
+							  aunque puede haber excepciones por necesidades del
+							  servicio.
+
+							  El importe medio anual de productividad es de
+							  5800€.
+
+
+
+* TAREAS: DIVISIÓN 1 (58 aplics grandes y pequeñas),
+
+			Se buscan personas interesadas en todas las tareas del desarrollo,
+			ya que se gestiona todo el ámbito de la evolución de la aplicación:
+
+			 - CONCEPCIÓN (toma de requisitos).
+
+			 - PROGRAMACIÓN (apoyados en personal externo, que recibe tareas).
+
+			 - RECIBIR EL ENTREGABLE (la parte hecha).
+
+			 - COMPROBAR QUE FUNCIONA LO ENTREGADO CORRECTAMENTE (pruebas de
+			   funcionamiento).
+
+			 - GESTIÓN DE DESPLIEGUES EN ENTORNOS DE PRODUCCIÓN (asegurar la
+			   validez, calidad, seguridad y operatividad de las actividades a
+			   desarrollar para que se ponga en marcha en entornos de
+			   preproducción, producción y formación).
+
+			 - ESTABLECER LA DOCUMENTACIÓN.
+
+			 - GESTIONAR TODO CON USUARIOS (trabajando codo a codo para que
+			   les ayuden con sus amplios conocimientos obtenidos a través del
+			   uso continuado en el tiempo en todos los equipos).
+
+			 - USANDO METODOLOGÍAS ÁGILES (en SISTEMAS DE INTEGRACIÓN CONTÍNUA,
+			   intentando siempre mejorar este ciclo, aunque ya está bastante
+			   avanzado todo el tema de automatización de los procesos).
+
+			 - RESPONSABILIDAD en todo el proceso (hay un soporte al usuario,
+			   monitorización de funcionamiento correcto, resolución de
+			   incidencias, acompañamiento en el funcionamiento de la aplicación
+			   etc).
+
+			El tamaño de los equipos de personal interno va desde 15 personas el
+			más grande hasta 2 personas el más pequeño. Todo va en función
+			también del tamaño de la aplicación de la que se hagan cargo.
+
+			Cada equipo es muy autónomo y responsable de su propio producto
+			software, en todas las etapas del ciclo de desarrollo, haciéndose
+			responsable de la idea que se trabaja con el usuario para llevarlo a
+			producción y ver también cómo funciona eso luego.
+
+			Son equipos estables en los que todos conocen muy bien el producto
+			que tratan para así tener esa experiencia que da esa capacidad de
+			reacción rápida que se busca.
+
+			El día a día sería colaborar con el equipo, colaborar con los
+			usuarios y colaborar con el equipo de externos para que el producto
+			se mantenga vivo y cambiante.
+
+			Es un entorno muy dinámico y se busca sobre todo personas que estén
+			interesadas en aprender, dar lo mejor, buscando la excelencia en el
+			producto y en los métodos de trabajos que se tienen, para ir
+			mejorándolos y ser cada vez más ágiles y dar respuesta a las
+			necesidades que se tienen, que son muchas.
+
+			Al ser una división grande, se puede siempre buscar otro hueco si
+			alguien tiene otro interés distinto a la experiencia. De todos
+			modos, las necesidades que se tienen en esta división son:
+
+				- Personal para el sistema Contable, porque está teniendo una
+				  evolución muy rápida y se tiene la necesidad de incorporar a
+				  más personas, y en ese sentido, es un equipo grande, de 15
+				  personas, y se quiere que crezca más.
+
+				- Personal para la Cuenta General del Estado, que es un equipo
+				  más pequeño que lleva muchas aplicaciones que se encargan
+				  de recibir información de diferentes entidades y tratarla para
+				  producir esta cuenta general del Estado.
+
+				- Personal para las cuentas económicas, que se necesita otro
+				  perfil más específico.
+
+				- Personal para soporte de usuario en el ciclo de tramitación
+				  electrónica, que engloba una multitud de aplicaciones:
+				  		+ SOROLLA2.
+				  		+ CIBI.
+				  		+ Docunet.
+				  		+ Firma electrónica.
+				  		+ Sistema Contable.
+
+				  En el que se tiene un equipo de soporte de segundo nivel, en
+				  el que se investigan incidencias y se colabora con el equipo
+				  de desarrollo en resolver dichas incidencias. Y se NECESITA 1
+				  persona.
+
+				- Personal para la analítica de datos en 2 perfiles:
+					+ Análisis descriptivo.
+					+ Análisis predictivo (ligado al machine learning).
+				  Todo ello con el perfil de C1 comandado por un A2, y por
+				  encima un jefe de Área que suele ser un A1.
+
+
+		  DIVISIÓN 2 (44 personas, 22 internas y 22 externas),
+
+		  	Es una divisón de DESARROLLO, que se estructura en 2 grándes áreas,
+		  	divididas cada una en sus propias unidades (cada una de ellas con
+		  	entre 2 y 4 personas, siempre con 1 jefe de proyecto y 1 analista).
+		  	Estas 2 grandes estructuras son:
+
+		  	  - El Sistema Presupuestario
+		  		(coordinador de Área: José Guzmán).
+
+		  	  - El Sistema de Gestión Económico-Presupuestario.
+		  		(Subdirector adjunto: Juan Alberto Medina).
+
+		  	En total son 15-16 aplicaciones, pero lo que pasa es que SOROLLA2,
+		  	que es muy grande, se estructura en una serie de módulos que tienen
+		  	entidad suficiente como para desglosarlos en unidades.
+
+		  	Respecto a las actividades que se realizan en la división son:
+		  	ANALISIS, DISEÑO, DESARROLLO y ACTUALIZACIÓN de los Sistemas
+		  	Informáticos en materia de:
+
+		  		- Planificación, programación y presupuestación del sector
+		  		  público estatal.
+
+		  		- Gestión Económico-presupuestaria (a través del Sistema
+		  		  SOROLLA2).
+
+		  	El desglose de dichas actividades es el siguiente:
+
+		  		- ANALISIS DE REQUISITOS.
+		  		- DISEÑO DE SOLUCIONES.
+		  		- ELABORACIÓN DE ENCARGOS TÉCNICOS DE DESARROLLO.
+		  		- PROGRAMACIÓN.
+		  		- PRUEBAS.
+		  		- DOCUMENTACIÓN.
+		  		- ATENCIÓN A LAS INCIDENCIAS.
+		  		- FORMACIÓN A USUARIOS.
+		  		- ASISTENCIA A CURSOS DE FORMACIÓN.
+		  		- ASISTENCIA A CHARLAS INTERNAS.
+		  		- IMPARTICIÓN DE CHARLAS INTERNAS.
+		  		- REUNIONES DE EQUIPO.
+		  		- REUNIONES CON USUARIOS.
+
+		  	¿Qué se hace con respecto al Sistema Presupuestario?
+		  	Son en torno a 15 aplicaciones que cubren el ciclo presupuestario
+		  	en distintos ámbitos admimistrativos.
+
+		  	El Sistema Presupuestario se relaciona con una serie de actores, que
+		  	son:
+		  		- Dirección General de Presupuestos.
+		  		- Abogacía del Estado.
+		  		- Oficinas Presupuestarias.
+		  		- Oficina de Informática Presupuestaria.
+		  		- Centros gestores de gasto.
+		  		- Congreso/Ministerio de la Presidencia - RRCC.
+		  		- Otros.
+
+		  	Con respecto al Sistema de Gestión Económico-Presupuestaria, 
+		  	SOROLLA2 es un sistema complejo, que se organiza en una serie de
+		  	módulos, que está integrado con 23 Sistemas de Información, tanto
+		  	internos como externos.
+
+		  	Está dirigido a los órganos gestores del gasto de la AGE y sus
+		  	Organismos.
+
+		  	Se busca:
+		  		- Personas comprometidas a pasar una curva de aprendizaje no
+		  		  sólo técnica, sino también funcional, y a trabajar en equipo
+		  		  para contribuir a proporcionar un servicio cada vez mejor.
+
+		  		- Dedicación y responsabilidad respecto al trabajo realizado,
+		  		  con la recompensa de trabajar en retos estimulantes (a nivel
+		  		  de análisis, y tecnológico), y de estar contribuyendo de
+		  		  manera directa a una mejor gestión económica de lo público.
+
+		  	Los puestos concretos que se están buscando son:
+		  		- Para el Sistema Presupuestario, principalmente en el ámbito de
+		  		  la elaboración presupuestaria, teniendo mucha necesiadad de
+		  		  aplicaciones PL/SQL, porque se plantea una reingeniería de
+		  		  sistemas para su modernización.
+
+		  		- Para SOROLLA2 se tienen necesidades en distintos módulos:
+		  			+ Expedientes.
+		  			+ Caja.
+
+
+		  DIVISIÓN 3 (30 internas y 15-20 externos, dando servicio a entre 18-20
+		  			  Sistemas de Información):
+
+		  	 Se dedican sobre todo a todo lo relacionado con el personal en
+		  	 todos los sentidos.
+		  	 	- Control de retribuciones.
+		  	 	- Relación de puestos de trabajo.
+		  	 	- Dar servicio de forma directa a la Dirección General de Costes
+		  	 	  de personal, con lo cual, todos los Sistemas de Información
+		  	 	  que necesiten los desarrolla esta División 3.
+
+		  	Básicamente están relacionados con la gestión de expedientes que
+		  	hacen referencia a la relación de puestos de trabajo, las
+		  	productividades, etc.
+
+		  	También están dedicados a algo que afecta a los funcionarios y a los
+		  	Centros Directivos también, que es a Sistemas de Gestión de Personal
+		  	o RRHH, en concreto las de:
+
+		  		- Secretaría del Estado de Presupuestos y Gastos.
+		  		- Delegaciones de Economía y Hacienda.
+		  		- Pronto en el Ministerio de Hacienda.
+
+		  	Esto incluye:
+
+		  		- Gestión de permisos, vacaciones, etc que son formularios que
+		  		  se realizan de manera electrónica.
+		  		- Control de horarios de todos estos centros directivos.
+		  		- La propia gestión del personal, que es necesaria, que estos
+		  		  centros directivos hacen de los funcionarios que están
+		  		  adscritos.
+
+		  	Actualmente están en un proceso expansivo, en el cual se van a
+		  	implantar sus soluciones en diferentes centros, muchos más de los
+		  	actuales, y por tanto, se van a necesitar muchas personas para poder
+		  	realizar esta labor.
+
+		  	Fundamentalmente, hay 3 tipos de Sistemas de Información en los que
+		  	se va a necesitar ayuda, que son:
+
+		  		1) Función a implantar en lo que se refiere a Gestión de RRHH en
+		  		  el Ministerio de Hacienda, que va llevar consigo mucho trabajo
+		  		  por ser casi 2000 personas las que van a recibir ese servicio
+		  		  además de las que se llevan ahora.
+
+		  		2) 1 ó 2 personas en otro Sistema de Información muy importante
+		  		  para toda la Organización de la Oficina de Informática
+		  		  Presupuestaria, que es un Sistema de Información que lleva
+		  		  consigo:
+
+		  		  		+ Alta de usuarios.
+
+		  		  		+ Gestión de permisos de acceso a todos los Sistemas de
+		  		  		  Información de todo lo que es el ámbito de los
+		  		  		  Servicios de Información a los que da servicio
+		  		  		  Informática Presupuestaria, que depende directamente
+		  		  		  de Un departamento de Seguridad que depende de la
+		  		  		  Dirección, que es un departamento importantísimo (y
+		  		  		  más aún en estas fechas con el tema de hackeos y
+		  		  		  previsión de ataques).
+
+		  		3) 1 persona para dar servicio a la propia Dirección General de
+		  		  Costes de Personal en este conjunto de sistemas, que son
+		  		  propietarios de la Dirección General, y que generalmente
+		  		  llevan a cabo gestiones de puestos de trabajo.
+
+
+		  DIVISIÓN 4 (60 internas y 60 externas subdivididas en grupos muy
+		  			  especializados),
+
+		  	La División 4 es la que se corresponde con la EXPLOTACIÓN Y
+		  	SISTEMAS, que es la División que da soporte a todas las plataformas
+		  	e infraestructuras donde se ejecutan los Sistemas de Información
+		  	que han comentado los restantes jefes de División.
+
+		  	Además de eso, se gestionan y mantienen los servicios básicos para
+		  	los usuarios finales:
+
+		  		- Ámbito de microinformática.
+		  		- Sistemas Operativos en puesto de usuario.
+		  		- Correo electrónico.
+
+		  	En esta División, con lo bueno y lo malo se va a especializar mucho
+		  	en la subdivisión/grupo que te toque. ¿Qué grupos?
+
+		  		- Pequeño ámbito de Desarrollo (desarrollo horizontal o
+		  		  transversal), que:
+
+		  		  	+ Da soporte a los distintos Sistemas de Información de las
+		  		  	  Divisiones de Aplicaciones.
+
+		  		  	+ Desarrollos que favorecen la interoperabilidad entre estos
+		  		  	  Sistemas de Información .
+
+		  		  	+ Sistemas para Sistemas de firma electrónica, de gestión
+		  		  	  documental, etc.
+
+		  		  Fundamentalmente son desarrollos de BACKEND, y no de usuario
+		  		  final.
+
+
+		  DIVISIÓN 5 ()
+
+		  	En esta división, el trabajo principal es el de la gestión de los
+		  	fondos europeos. En concreto, desarrollan y mantienen los Sistemas
+		  	de Información que dan soporte a la Gestión de los fondos, en
+		  	particular FEDER, aunque recientemente también el plan europeo para
+		  	la recuperación y resiliencia (respuesta de la UE para la
+		  	recuperación de la crisis causada por los efectos de la pandemia del
+		  	covid).
+
+		  	A nivel funcional, es un negocio como cualquier otro. Es quizás un
+		  	poco desconocido.
+
+		  	Es un centro eminentemente técnico, que es uno de los valores por
+		  	los que se apuesta frente a otras organizaciones que están más
+		  	dedicadas a la gestión o altamente externalizadas. Todo ello hace
+		  	que se necesite personal muy técnico, desde los niveles	más bajos
+		  	hasta los más altos, ideal para un cuerpo C1, que es el cuerpo de
+		  	Técnios Auxiliares de Informática, al igual que lo es para los
+		  	niveles superiores (A2 y A1).
+
+		  	Los fondos europeos funcionan en un entorno presupuestario que dura
+		  	unos 7 años, por lo que la normativa europea de los fondos suele
+		  	cambiar cada 7 años, aunque no siempre los cambios son radicales,
+		  	pero siempre hay cambios. Esto obliga a desarrollar un nuevo Sistema
+		  	de Información.
+
+		  	Lo que se ofrece a la persona que quiera ingresar en esta división
+		  	es:
+
+		  		- Desarrollo de un Sistema de Información nuevo, al margen del
+		  		  mantenimiento de los Sistemas de los periodos anteriores.
+
+		  		  El desarrollo de un sistema nuevo tiene una serie de
+		  		  inconvenientes, pero también una serie de ventajas:
+
+		  		  	+ Aunque se tiene un catálogo de tecnologías dentro de la
+		  		  	  Oficina de Informática, el empezar un sistema desde cero,
+		  		  	  implica que se pueda innovar, como por ejemplo, en el que
+		  		  	  se está desarrollando para el periodo de 2021-2027, la
+		  		  	  plataforma de soporte es Java Spring con Angular.
+
+		  		  En particular, las necesidades de dar cobertura al soporte del
+		  		  plan de recuperación, del mecanismo de recuperación mediante
+		  		  los fondos europeos de recuperación y resiliencia, que es lo
+		  		  que principalmente les ocupa a la división gran parte de
+		  		  tiempo en los últimos meses, pero también deben seguir dando
+		  		  soporte a los Sistemas de los que tradicionalmente se han
+		  		  estado encargando, que son los Sistemas del Fondo FEDER
+		  		  (Fondo Europeo de Desarrollo Regional), justo con un nuevo
+		  		  Sistema de Información para el período 2021-2027.
+
+		  		  Se necesita cubrir plazas en todos los equipos, porque el
+		  		  número de sistemas crece más rápido que las personas que
+		  		  tienen que dar soporte, por lo que se tienen necesidades en
+		  		  todos los ámbitos:
+
+		  		  			+ Plan de Recuperación.
+		  		  			+ Sistemas de soporte de Fondos FEDER 2021-2027.
+		  		  			+ Períodos anteriores de Fondos FEDER.
+		  		  			+ Sistemas de pagos del Procedimiento electrónico
+		  		  			  de pagos europeos.
+		  		  			+ Sistema de incentivos regionales.
+		  		  			+ Unidad de Explotación de datos y analítica, que es
+		  		  			  de muy reciente creación y que se quiere impulsar.
+
+
+
+* TECNOLOGÍAS: DIVISIÓN 1 (Ismael).
+
+					- Sistema Contable ------------> Java/Oracle, HTML, JS
+					- Cuenta Gral del Estado ------> .NET y SQL Server, HTML, JS
+					- Soporte a usuario 2º nivel --> Ciclo de tramitación
+													 electrónica.
+					- Analítica de datos
+						Análisis Descriptivo ------> BI y AnalisisServices e
+													 Integration Systems de MS
+					  	Análisis predictivo -------> Machine Learning
+					    (Sólo entran los que ya tienen conocimientos).
+
+
+ 			   DIVISIÓN 2 (Rafael)
+
+ 			   		Hay 10 aplicaciones en Java y 5 con PL/SQL.
+ 			   		En cuanto a las tecnologías empleadas en las aplicaciones,
+ 			   		el desglose por cada parte del desarrollo es el siguiente:
+
+ 			   		- Front:
+ 			   			+ JSP, HTML5, CSS3, JavaScript, JQuery.
+ 			   			+ XML, XSD, XSLT.
+ 			   			+ Oracle Reports, Jasper Reports.
+ 			   			+ AJAX, Usabilidad/UX, web-responsive.
+ 			   		- Middle-Tier:
+ 			   			+ Oracle weblogic Server 12c [12], Apache Tomcat [3].
+ 			   			+ Java 8, Spring MVC, Quartz, ... JUnit.
+ 			   			+ JDBC, Hibernate, JPA, TopLink, Oracle Link.
+ 			   			+ Librerías OSP Comunes.
+ 			   			+ WS SDAP - incl. WS-Security.
+ 			   		- BD:
+ 			   			+ Oracle database 19c.
+ 			   			+ SQL (DDL, DML) y PL/SQL.
+ 			   		- BI:
+ 			   			+ MS SQL-Server Analysis Services.
+ 			   			+ MS SQL-Server Integration Services.
+
+ 			   		Salvo por BI, la mayor parte del desarrollo se hace en JAVA
+ 			   		y PL/SQL.
+
+ 			   		Con respecto a las Herramientas, procedimientos y otras
+ 			   		skills se emplean:
+ 			   		- Herramientas:
+ 			   			+ IDE Eclipse, Oracle Developer Suite.
+ 			   			+ MS PowerBI, MS SQL-Server Management Studio.
+ 			   			+ Repositiorio de código SVN (Git).
+ 			   			+ Gestión de Configuración Maven.
+ 			   			+ Gestos de tares Jenkins.
+ 			   			+ Repositorio de Artefactos Artifactory.
+ 			   			+ Gestor de proyecto Redmine.
+ 			   			+ Gestor de logs con ElasticSearch.
+ 			   		- Procedimientos:
+ 			   			+ Plan Director 2021-2023.
+ 			   			+ Plan de Actuaciones 2022.
+ 			   			+ Desarrollo Ágil.
+ 			   		- Otras Skills (habilidades):
+ 			   			+ Firma-e y servicios comunes AGE.
+ 			   			+ Calidad (automatización de pruebas de regresión
+ 			   			  funcional y de rendimiento, análisis dinámico de
+ 			   			  aplicaciones, análisis de accesibilidad, etc.).
+ 			   			+ Gestión de Entornos
+ 			   				 # Desarrollo (DES).
+ 			   				 # Pruebas y funcionamiento (PYF).
+ 			   				 # Pre-Producción (PRE).
+ 			   				 # Producción (PRO).
+
+
+			   DIVISIÓN 3 (David)
+
+			   		- Informática Presupuestaria DA MUCHA IMPORTANCIA a lo que
+			   		  es la FORMACIÓN de los funcionarios, tanto a los que
+			   		  llegan nuevos como a los que ya están, por lo que las
+			   		  personas que lleguen a la División 3, seguramente se les
+			   		  pasará por un Sistema de Formación en el que se verán
+			   		  todas las tecnologías que toda esta División utiliza,
+			   		  tanto en Java/Oracle como en .NET.
+
+
+			   DIVISIÓN 4 (Alvaro)
+
+			   		Hay 3 pilas de TECNOLOGÍAS DE DESARROLLO, que son:
+
+			   		- Las aplicaciones de las Oficinas de Informática
+			   		  Presupuestaria están desarrolladas principalmente en JAVA,
+			   		  y	para ello se tiene todo un entorno basado en:
+
+			   			+ Pila de Oracle.
+			   			+ Servidores de aplicaciones weblogic.
+			   			+ BD Oracle.
+
+			   		- Hay otra pila tecnológica basada en tecnologías .NET con:
+
+			   			+ Internet Information Server (IIS).
+			   			+ SQL Server.
+
+			   		- Una tercera pila, de nacimiento más reciente, basada en
+			   		  tecnologías de SOFTWARE LIBRE, que actualmente tiene:
+
+			   		  	+ Capa de Aplicación con TOMCAT.
+			   		  	+ Capa de BD.
+
+			   		Respecto a INFRAESTRUCTURAS, se dispone de:
+
+			   		- 2 CPD en Activo-Activo, que significa que no es respaldo
+			   		  uno del otro, sino que son plenamente funcionales ambos.
+			   		  Suele tenerse la costumbre de 1 semana al año apagar uno
+			   		  de los 2 CPD y estar funcionando únicamente con el otro,
+			   		  para probar que todo sigue funcionando correctamente.
+			   		  En estos CPD se dispone de:
+
+			   		  	+ 1000 servidores virtuales, basados en tecnología de
+			   		  	  virtualización VMWare.
+			   		  	+ Servidores físicos basados en plataformas x86 o
+			   		  	  SolarisSpark.
+			   		  	+ Adicionalmente, se tienen las correspondientes cabinas
+			   		  	  de almacenamiento, con tecnologías de Hitachi y de
+			   		  	  Fujitsu y el grupo correspondiente para hacer los
+			   		  	  backups (copias de seguridad), etc.
+			   			+ Grupo de comunicaciones, fundamentalmente Capa 2 OSI
+			   			  mediante CISCO (como fabricante fundamental) para
+			   			  electrónica de red:
+			   			  	# Switches.
+			   			  	# Electrónica de acceso.
+			   			  	# Electrónica core de CPD.
+			   			+ Capa 3, con Firewall, proxy, publicadores, etc
+
+			   		- Microinformática:
+			   			+ Windows 10
+			   			+ Office 365
+			   			+ Correo
+
+			   		- Ayuda a contratación:
+			   			+ Productos licencias con CAU primer nivel.
+
+			   		NECESIDADES DEL TRABAJO DIARIO, sea donde sea, se acabará
+			   		teniendo un alto grado de especialización específico del
+			   		grupo en el que trabaje, no tocando otras cosas de otros
+			   		grupos. Y lo primero es definir cómo está
+			   		estructurado un grupo:
+
+			   			1) Jefe de Servicio, que gestiona tanto el personal
+			   			   interno como el personal externo, según el grado de
+			   			   subcontratación y que se encarga de:
+
+			   			   		+ Gestión.
+			   			   		+ Administración.
+			   			   		+ Configuración diaria.
+
+			   			   de las tecnologías correspondientes, en funcíón del
+			   			   grupo especializado en el que se esté involucrado.
+
+			   			   Se participa en todos los proyectos de evolución.
+			   			   Ejemplos:
+
+			   			   		+ Proyecto de evolucón a office 365 desde el
+			   			   		  correo. Ese proceso de evolución, Migración,
+			   			   		  buscar la nueva solución, cómo se migran los
+			   			   		  buzones, qué configuraciones y particularid
+			   			   		  hay que hacer en todo ese proceso.
+
+			   			   		+ Atención de peticiones de usuario, gran parte
+			   			   		  de las cuales vienen de las divisiones de
+			   			   		  desarrollo, que en función de las evolución
+			   			   		  que ellos hacen en las aplicaciones, entonces
+			   			   		  Explotación tiene que adaptarse e ir dando
+			   			   		  servicio a sus necesidades y hacer una
+			   			   		  resolución de incidencias de segundo nivel.
+
+			   			   		  Respecto a esto, hay CAU de 2 niveles:
+
+			   			   		  	# Nivel 1, que está principalmente
+			   			   		  	  externalizado, en el que se atienden las
+			   			   		  	  principales incidencias, que si no se
+			   			   		  	  pueden resolver se envían a un CAU de
+			   			   		  	  nivel 2.
+
+			   			   		  	# Nivel 2, que provienen del nivel 1 de CAU,
+			   			   		  	  y es donde se resuelven las incidencias de
+			   			   		  	  problemas que requieren más
+			   			   		  	  especialización. 
+
+			   		Continuando con las NECESIDADES, realmente hay necesidades
+			   		en cualquiera de los 3 grupos de explotación de Sistemas.
+
+			   		Hay necesidades puntuales actuales y van a haber necesidades
+			   		próximas, muy cercanas, debido a jubilaciones en los
+			   		próximos meses y años.
+
+			   		La asignación dentro de la División de Explotación va a
+			   		estar muy vinculada al cv de la persona que entre y al
+			   		interés personal de la misma:
+
+			   				+ Una persona especializada en comunicaciones, lo
+			   				  más normal es que se acabe en el grupo de 
+			   				  comunicaciones.
+
+			   				+ Una persona de almacenamiento y cabinas acabará en
+			   				  el grupo de almacenamiento.
+
+			   				+ Una persona especializada en servidores x86 irá a
+			   				  parar al grupo del mismo tipo.
+
+			   				+ Una persona relacionada con servidores virtuales
+			   				  en el grupo correspondiente de virtualización.
+
+			   		Hay grupos con necesidades mayores, pero seguramente se
+			   		podrán amoldar.
+
+			   		Hay 3 ámbitos que están especialmente de moda dentro de la
+			   		Explotación, de especial interés en cuanto a la evolución
+			   		tecnológica del futuro, y donde se cree que se debe hacer
+			   		foco, que son:
+
+			   			- SOFTWARE LIBRE, en el que estratégicamente la Oficina
+			   			  de Informática Presupuestaria ha decidido apostar.
+			   			  Esto sería una evolución/migración de las plataformas
+			   			  tradicionales (Oracle o .NET) hacia esta pila
+			   			  tecnológica. Esto es algo en lo que hay que crecer y
+			   			  evolucionar mucho.
+
+			   			- NUBE PÚBLICA, que se está empezando a hacer pequeñas
+			   			  incursiones en este ámbito, y tal y como se desarrolla
+			   			  el mercado, hay que seguir trabajando en ello. Se
+			   			  necesita para ello mucho músculo, potencia, personal,
+			   			  para seguir trabajando en esa línea. Las pequeñas
+			   			  incursiones se están realizando con:
+
+			   			  			+ AWS.
+			   			  			+ AZURE.
+
+			   			- SEGURIDAD, con todo lo relacionado con:
+
+			   						+ Seguridad perimetral.
+			   						+ Seguridad técnica.
+			   						+ Ciberseguridad.
+
+			   			  En la oficina se tiene un grupo de seguridad, que
+			   			  depende directamente de José María Sobrino (director),
+			   			  pero dentro de explotación, se necesita dentro del
+			   			  grupo de seguridad perimetral, personas con mucho
+			   			  conocimiento técnico de seguridad, ciberseguridad.
+
+
+			   DIVISIÓN 5 (Javier)
+
+			   		- Java Spring con Angular.
+
+
+
+* PARKING (S/N/¿?): S - En las 2 sedes:
+							+ SIN LÍMITE en Mateo Inurria (también de bicis). 
+					  		+ LIMITADAS en Agustín Foxa.
+
+
+
+* ACCESIBILIDAD (S/N/¿?): S - En principio, las instalaciones están adaptadas en
+							  temas de accesibilidad en ascensores, rampas,
+							  baños, etc.
+
+
+
+* FORMACIÓN: Se le da mucha importancia a la formación. Es el único centro
+			 directivo del Ministerio de Hacienda que tiene un presupuesto
+			 específicamente para formación.
+
+			 Hay una plataforma de formación online contratada, que se inició
+			 en los tiempos de pandemia y se sigue empleando.
+
+			 Aparte de eso, también hay una formación presencial.
+
+			 Hay que añadir también los cursos del INAP.
+
+
+
+* COMEDOR (S/N/¿?): S - En Mateo Inurria hay una cafetería con servicio de
+						comedor. Después de la pandemia ha vuelto a funcionar.
+						El precio del menú antes de la pandemia era de:
+							- Menú completo ===> 6,00€.
+							- Menú reducido ===> 2,50€
+
+						Hay sala de tupper con microondas en las 2 sedes.
+
+
+
+* GUARDERÍA (S/N/¿?): S - En la sede de Ministerio de Hacienda (Cuzco), que debe
+						  ser bastante buena, pero con lista de espera.
+
+
+
+* OBSERVACIONES: - 203 Personas (Internos) + 220 (Externos).
+				 - Las guardias las hacen los del personal externo.
+				 - Buen ambiente de trabajo.
+				 - Desconocen fecha de incorporación.
+				 - Respecto a Machine Learning, hay un proyecto recién empezado,
+				   pero no se va a incorporar a gente que no tenga conocimientos
+				   previos. Si es por interés, antes de formar parte del equipo
+				   de trabajo, primero deberá pasar por los cursos de formación
+				   que tienen.
+				 - Las labores son de supervisión estrecha, revisando y también
+				   probando código. Se pide más implicación, porque al final
+				   uno se queda con el producto que debe mantener.
+				 - Respecto al TAI Carlos que expone su experiencia:
+
+				 	+ Carlos trabaja en el proyecto de Software Libre (reciente)
+				 	  en el que se trata de hacer migración de software vigente
+				 	  a software libre y dice que no sólo controla el proyecto,
+				 	  sino que también hace cosas de desarrollo en el mismo.
+
+				 	+ El vino de Canarias y se sintió bastante apoyado y en 2
+				 	  meses de formación pudo ponerse manos a la obra.
+
+				 	+ Hay compañeros que entraron con él que al ver que no
+				 	  estaban cómodos en su puesto se les cambió a uno más
+				 	  acorde a lo que se sentían más cómodos.
+
+				 	+ Hace commits, y son su responsabilidad.
+
+				 	+ En 1 año aproximadamente le subieron a nivel 17.
+
+				 - Respecto al TAI Raúl que expone su experiencia (nivel 22 de
+				   C1 a punto de jubilarse):
+
+				 	+ Empezó programando en Visual Basic con SQL Server, con 3 ó
+				 	  4 aplicaciones y luego pasó a JAVA, haciendo un mes curso
+				 	  de java y 2-3 semanas de Oracle.
+
+				 	+ Luego se unió a SOROLLA, que es muy exigente, dado el gran
+				 	  número de usuarios que se tiene, y ahí también escribió
+				 	  bastante código, aunque desde hace 6-7 años no escribe
+				 	  código.
+
+				 	+ Ahora está en una parte funcional, mano a mano con el
+				 	  personal externo tanto para las nuevas funcionalidades
+				 	  como para la resolución de incidencias diarias.
+
+				 	+ Recalca que la formación es importante y se la dieron.
+
+				 	+ Ahora se dedica a la formación también dentro del
+				 	  Ministerio.
+
+				 	+ El trabajo diario en la actualidad, lleva una parte
+				 	  transversal del sistema, que son las facturas electrónicas
+				 	  que se hace uso de un servicio web que ofrece el SIG3, que
+				 	  es el registro contable de facturas, y SOROLLA consume ese
+				 	  web service y hay que estar pendiente de que eso funcione
+				 	  todos los días correctamente.
+
+				 	+ La resolución de incidencias que llegan al nivel
+				 	  informático hay que ir mirando la información que aporta
+				 	  el usuario, ver qué ha ocurrido o ver por qué ha ocurrido.
+				 	  Normalmente se da:
+
+				 	  		# Una actuación en BD, que algo se ha quedado mal.
+				 	  		  En tal caso se ejecuta un script de BD y se
+				 	  		  ejecuta en entornos previos y si funciona se
+				 	  		  corrige.
+
+				 	  		# Una actuación en código porque algo del código
+				 	  		  está mal escrito.
+				 	  		  En tal caso se escribe un pequeño documento, un
+				 	  		  análisis funcional para pasarlo al equipo de
+				 	  		  desarrollo, lo suficientemente detallado para que
+				 	  		  cualquier programador sea capaz de llevar a cabo
+				 	  		  la resolución.
+				 	  		  También a posteriori hay que revisar el código que
+				 	  		  devuelva ya el equipo de externos.
+
+				 	  		# O las 2 cosas a la vez.
+				 	  
+
+				 - De la Dirección también dependen algunos Departamentos
+				   horizontales, como el DEPARTAMENTO DE CALIDAD. Este
+				   departamento ofrece a todas los Sistemas desarrollados en la
+				   casa una serie de funciones, como son:
+
+				   	+ Revisión estática del código, basada en SonarQube.
+
+				   	+ Revisión dinámica del código, aplicando técnicas de
+				   	  hacking ético.
+
+				   	+ Análisis de rendimiento.
+
+				   	+ Pruebas funcionales automatizadas.
+
+				   	+ Virtualización de servicios web (en algunos casos
+				   	  concretos).
+
+				  Todo esto está externalizado y lo lleva un equipo cerrado.
+				  La posibilidad de incorporarse depende de la experiencia y del
+				  cv. Pero sobre todo va en función de las necesidades que se
+				  tienen.
+
+

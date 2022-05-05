@@ -1,0 +1,441 @@
+###############################################################################
+###############################################################################
+MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+===============================================================================
+* ENTREVISTA: 01/04/2022 - 9:30 a 10:30
+			  (Teams)
+
+* CONTACTO: Oscar Robledo Pascual (Subdirector de SGTIC de MIN. HAC. FUNC. PUB)
+			Jesús Lopez Mora (Subdirector adjunto del SGTIC)
+
+			ANÉCDOTA: ¿Smithers??? - Minuto 1:10
+
+* LUGAR: Subdir. Gral de Tecnologías de la Información y de las Comunicaciones,
+		 (SGTIC),
+		 Calle Alcalá, 5,7,9 Madrid (Plena Puerta del Sol)
+		 MEDIO DE TRANSPORTE: Metro Sol
+
+		 NO HAY PREVISIÓN DE CAMBIO DE SEDE A CORTO/MEDIO PLAZO en principio.
+		 Y menos aún con el enfoque del teletrabajo.
+
+
+		 Este Ministerio es bastante extenso, dado que tiene 3 secretarías:
+
+		 	- Secretaría de Estado de Presupuestos y gastos.
+
+		 	- Secretaría de Estado de Hacienda.
+
+		 		+ Organismo dependiendo de ésta, que es la Agencia Tributaria.
+
+		 	- Secretaría de Estado la Función Pública y la Subsecretaría.
+
+
+		 En este caso es INTERVENCIÓN GENERAL DE LA ADMINISTRACIÓN DEL ESTADO,
+		 que depende de la SUBSECRETARÍA DE HACIENDA Y FUNCIÓN PÚBLICA.
+
+		 Es uno de los centros mayores en el ámbito de la Informática y en otros
+		 muchos, aunque la Oficina Informática Presupuestaria sacará muchas
+		 plazas también.
+
+		 SUBSECRETARÍA DE HACIENDA Y FUNCIÓN PÚBLICA
+		 					|
+		 					|
+		 DEPARTAMENTO DE SERVICIOS Y COORDINACIÓN TERRITORIAL
+		 					|
+		 					|
+		 				  SGTIC
+
+
+		 En este caso, ellos les dan servicio directo de usuario/cliente a todos
+		 los usuarios de la Subsecretaría salvo a la parte móvil, a la fábrica,
+		 a la Intervención General del Estado y a la Dirección General de
+		 Patrimonio del Estado, que tiene su Informática propia y también sacará
+		 plazas.
+
+		 Los centros más grandes son:
+
+		 	- Agencia Tributaria (recursos y personas).
+
+		 	- La Oficina de Informática Presupuestaria de la Intervención
+		 	  General del Estado, que tiene 5 divisiones como si fuesen
+		 	  subdirecciones generales.
+
+		 	- Catastro (pertenece a la Secretaría de Estado de Hacienda).
+
+		 	- Subdirección General TIC (la de la entrevista).
+
+
+
+		 Así, el organigrama de esta SGTIC es el siguiente:
+
+		 	- Una pequeña unidad de apoyo conformada por las 2 secretarias
+		 	  (Mar y Beatriz) y un programador de primera.
+
+		 	- Las áreas están divididas en (división bastante clásica):
+		 				+ Atención a usuarios.
+		 				+ Comunicaciones.
+		 				+ Seguridad.
+		 				+ Sistemas.
+		 				+ Desarrollo
+		 					# Más amplia que cualquiera del resto.
+		 					# El resto en conjunto es equiparable desarrollo.
+
+		 Dado lo pequeñas que son las áreas, la que más carencias tiene son las
+		 de Infraestructura, sobre todo las de Sistemas y la de Seguridad, que
+		 es donde se tiene intentar cubrir 2 de las plazas que venga, y en caso
+		 de que vengan 5 plazas, hacer un poco de juego entre cada una de ellas.
+
+		 En total hay unos 41 entre personal funcionario y personal laboral, y
+		 hay unas 50 plazas para personal interno, pero en el caso del personal
+		 externo hay un 110% del personal interno aproximadamente. Donde más
+		 se nota el personal externo es sobre todo en el área de desarrollo,
+		 siempre a través de asistenacias técnicas. Se hace algún proyecto con
+		 acuerdos marcos, pero la intención es tener los equipos lo más estables
+		 posibles en todas las áreas y que se pueda colaborar durante suficiente
+		 tiempo como para que el periodo de colaboración sea razonablemente
+		 productivo en lo que respecta al aprendizaje y la puesta en práctica de
+		 dicho aprendizaje.
+
+
+
+
+
+-------------------------------------------------------------------------------
+* MOVILIDAD A PROVINCIAS (S/N/¿?): NO - La Secretaría todo lo tiene con 
+										presencialidad con sede en Madrid y
+										TODO EN MADRID.
+
+										En cuanto a movilidad... Delegaciones
+										como tales hay:
+
+										- Delegaciones de Economía y Hacienda
+										  (se entiende provinciales).
+
+										- Gerencias Catastrales.
+
+										- La Agencia Tributaria también tiene
+										  sus Delegaciones provinciales
+										  distribuídas por toda España.
+
+										Aunque son ámbitos diferentes de los que
+										tiene esta SGTIC directamente.
+
+										De todos modos, la tendencia es la de 
+										tener a la mayor parte de los efectivos
+										en Madrid, porque los grandes centros
+										de Informática están en Madrid.
+-------------------------------------------------------------------------------
+
+* PLAZAS SOLICITADAS: 4 (Niveles 15-16-17)
+
+					  Un porcentaje muy amplio de las plazas que salgan serán
+					  para los puesto de entrada de TAI (que son nivel 15), por
+					  el momento hasta ahora, y con el complemento específico de
+					  dicho nivel.
+
+					  Hay centros directivos como la Gerencia de Informática o
+					  la Agencia Tributaria que pueden llegar a ofrecer niveles
+					  un poco más altos (16 ó 17 en algún caso).
+
+					  La Agencia Tributaria tiene un complemento específico un
+					  poco más grande.
+
+					  Aunque todavía no está clara la oferta con la distribución
+					  de las plazas, lo normal es que haya un NÚMERO DE PLAZAS
+					  IMPORTANTE entre todas las secretarías.
+
+					  Lo tradicional es que haya un volumen importante en:
+					  	- Agencia Tributaria.
+
+					  	- Secretaría de Estado de Presupuestos y gastos,
+					  	  correspondiente principalmente al IGAE.
+
+					  	- Otras plazas en la Secretaría de Estado de Hacienda
+					  	  que se distribuyen entre los distintos centros.
+
+					  	- Otras plazas en el ámbito de Función Pública.
+
+					  	- Un número de plazas también en el ámbito de la
+					  	  Subsecretaría y en concreto un volumen relativamente
+					  	  importante en esta SGTIC.
+
+					  Las plazas se van a repartir en función del perfil que 
+					  tengan las personas que entren, pero por pedir, lo que más
+					  se necesita son perfiles de infraestructura (Sistemas y
+					  Seguridad). El 75% de las plazas aproximadamente van a ser
+					  para Áreas de Infraestructura y el 25% restante para Area
+					  de Desarrollo. Si son 4 plazas, 1 será para Desarrollo y 3
+					  para Infraestructura.
+
+					  En las últimas promociones se ha podido subir de nivel a
+					  los que han entrado en poco tiempo (año y poco), pero no
+					  tiene por qué ser lo habitual.
+
+
+* HORARIO: HABITUAL: 37,5H
+		   FIJO: 9:00-14:30
+		   TARDES: - Si tienes tardes están ligadas a la productividad.
+		   		   - Si se conceden son 2. Se suele solicitar al entrar y en un
+		   		     periodo breve de tiempo se les suele conceder.
+		   		   - En VERANO no suele haber tardes.
+
+
+* TELETRABAJO (S/N/¿?): S - 20% (1 día a la semana) - regulado. 
+
+						  - Salvo algunas condiciones especiales en despachos
+							donde coincide gente, que lo que se hace es que no
+							coincida la	gente, que lo que se suele hacer es que
+							un 50% o un 2-3 (días a la semana) se van turnando
+							con el teletrabajo en días distintos para no
+							coincidir:
+
+									+ 2 días a la semana teletrabajo.
+									+ 3 días a la semana presencial.
+
+							y a la siguiente semana cambian al contrario.
+
+						  - Así pendientes de que se considere que es el
+						    final de la pandemia.
+
+						  - Esperando luego a que se regule el teletrabajo
+						    mediante el RD, que espera que el esquema sea 2-3 y
+						    3-2.
+
+						  - Respecto a la idea de subir el teletrabajo para la
+						    gente de provincia depende de lo que diga el RD del
+						    teletrabajo. Si lo incorporan como opciones dentro
+						    del RD se podría valorar, pero en general, en los
+						    borradores del RD, se habla de un tiempo por
+						    definir que será presencial hasta que la persona
+						    conozca el esquema de trabajo, la organización,
+						    la forma de funcionamiento y luego ya se pasa a
+						    teletrabajo (tanto incorporaciones como el cambio
+						    de puesto).
+
+						  - El RD se suponía que iba a estar en enero, pero
+						    luego fue febrero, marzo, etc y ahora se dice que
+						    para el verano, pero... por el momento no hay nada.
+
+
+* SALARIO: BASE + CD + CE + PRODUCTIVIDAD (+ TRIENIOS)
+
+		   La PRODUCTIVIDAD ESTÁNDAR varía entre 2.500-3.500 € al año en función
+		   de la disponibilidad y del esfuerzo de las personas.
+
+		   Hay una PRODUCTIVIDAD/PAGA ESPECIAL aparte al final de año, que va
+		   en función de cada año y el reparto suele ser igual todos los meses
+		   con un 40% más en trimestral.
+
+
+		   Haciendo cálculos (la estimación propia del que escribe esto):
+
+		   					2500/12 = 208,33 euros
+		   					3500/12 = 291,67 euros
+
+		   			208,33 - 291,67 euros la productividad por mes de media,
+		   			pero si cada trimestre son un 40% entonces hay que hacer una
+		   			estimación entre esas cantidades:
+
+		   			- Suponemos 225€ los meses que no coinciden en trimestre.
+		   			- Los meses de trimestre un 40% supone 315€.
+
+		   			Total son 3060 €.
+
+		   			- Añadir algo más al final de año.
+
+		   NOTA: NO TOMAR AL PIE DE LA LETRA. SON CALCULOS MIOS.
+
+
+* TAREAS Y TECNOLOGÍAS: Una vez comentada la distribución de Áreas y el uso de
+						Asistencias Técnicas para cubrir ese esfuerzo.
+
+						La idea es que la gente trabaja de jefes de proyecto de
+						todas estas asistencias técnicas. Y lo que más se
+						necesita ahora es personal de infraestructuras para todo
+						lo relacionado con la nube y proyectos de seguridad
+						relacionados con la ciberseguridad.
+
+
+
+ 						- DESARROLLO: No ha dicho nada.
+
+
+						- SISTEMAS: Se usa en un 99,9% Microsoft. 
+
+						  Un desglose de resumen podría ser:
+
+							+ S.O. Windows 10 que pasarán a Windows 11.
+
+							+ S.O. Microsoft también en la parte de
+							  servidores.
+
+							+ Proyecto de viaje a la nube, de la SGAD, con
+							  todo lo relacionado con los puestos de trabajo
+							  digital, donde se ha comprado mucho software y
+							  equipamiento para que en el futuro, todos los
+							  puestos de la AGE, sean lo más homogéneos
+							  posible.
+
+
+						- COMUNICACIONES: Al estar dentro de concursos
+						  centralizados de comunicaciones, se posee lo que
+						  la SGAD proporciona.
+
+						  A nivel interno, se tiene un sistema de gestión de lan
+						  y de videoconferencia. Son precisamente las
+						  comunicaciones y videoconferencias las que últimamente
+						  más ocupan y preocupan, principalmente las de la
+						  Ministra, las ruedas de prensa, etc.
+
+
+						- SEGURIDAD: Todo el equipamiento de seguridad on
+						  premise (Firewall, proxy, servidores de antivirus,
+						  antispam, etc).
+
+						  Pero la idea principal es juntarse con la SGAD en la
+						  iniciativa de creación del COS/SOC (Español/inglés),
+						  que es el CENTRO DE OPERACIONES DE SEGURIDAD, que
+						  gestionará todo el tema de la ciberseguridad en el
+						  entorno de la AGE.
+
+						  Sin embargo, siempre se necesitará tener algún tipo
+						  de equipamiento interno de seguridad o personal de
+						  seguridad, porque ahora mismo se tiene una duplicidad
+						  curiosa con respecto a Seguridad on premise y
+						  seguridad de la nube.
+
+						  Esa dualidad/duplicidad también la tienen en SISTEMAS,
+						  para administrar sistemas on premise, pero también
+						  para administrar la nube, que se tiene AZURE de
+						  microsoft y no se tiene ningún proyecto para migrar a 
+						  otras de Amazon o de Google.
+
+						  La Administración quiere tener una conexión directa
+						  con estas nubes a través de la red Sara, pero eso es
+						  algo todavía muy incipiente, con lo que cada centro
+						  directivo está montando su conexión para este tipo de
+						  servicios de una forma independiente, entre los que se
+						  encuentra esta SGTIC.
+
+					      Con respecto a plazas ofertadas para el COS/SOC serán
+					      en la SGAD en el Ministerio de Economía.
+
+
+						- CAU: Todos los puestos de trabajo son homogéneos con
+						  windows 10, y no se piensa migrar nada más que a
+						  windows 11. No hay otra alternativa al respecto.
+
+
+						Ante la falta de persona, hay muchos C1 haciendo el
+						trabajo de asistencias técnicas en todas las áreas,
+						incluso a proyectos de migraciones a office 365, temas
+						de nube o temas de seguridad, para tener una cierta
+						estabilidad y conocimiento. Lo ideal es que los que se
+						encarguen tengan conocimientos de cómo funciona ese
+						sistema que van a tratar.
+
+
+* PARKING (S/N/¿?): S - Hay parking, pero al ser en zona de Puerta del Sol, es
+						complicado que haya mucho espacio. Más bien es de un
+						espacio bastante reducido. Es un parking común que quien
+						primero llega se lleva el sitio, aparte de una serie de
+						plazas de parking reservadas para altos cargos.
+
+						El tema del parking es negativo, principalmente por la
+						zona en la que es, pero esa buena también tiene de bueno
+						que los medios de transportes alternativos al coche son
+						bastantes.
+
+
+* COMEDOR/CAFETERÍA (S/N/¿?): SI - Hay un comedor/cafetería en el Ministerio.
+
+
+* GUARDERÍA (S/N/¿?): SI - Pero la ubicación de la Guardería del Ministerio no
+						   es en la de este Ministerio, sino que se encuentra
+						   en el otro edificio, en Cuzco (Castellana).
+
+
+* GESTIÓN DE VACACIONES: Se gestionan igual que la mayoría de los Organismos de
+						 la AGE. Generalmente:
+
+						 		- No hay mnuchas limitaciones.
+
+						 		- Suelen ser flexibles, siempre que se garantice
+						 		  el servicio de cada una de las áreas durante
+						 		  las vacaciones y eso se hace por distribución
+						 		  de acuerdo dentro de las áreas.
+
+
+* FORMACIÓN: No hay formación obligatoria al incorporarse.
+
+			 Sí que hay una amplia oferta de formación, aparte de la estándar
+			 que hay del INAP y otro en un centro de formación específico de
+			 Hacienda, que se encuentra en el Instituto de Estudios Fiscales.
+
+			 Hay formación a nivel de RRHH, que se establece en general para el
+			 ministerio.
+
+			 Normalmente, dentro de la SGTIC, hay una formación específica que
+			 la solicita la propia SGTIC en el ámbito de RRHH cada año para lo
+			 que más les interesa y más se necesita.
+
+
+* CUPO DE DISCAPACIDAD: El edificio está preparado para personas con problemas
+						de movilidad. Es cierto que lo han preparado y adaptado,
+						y en lo posible acondicionado, si bien es cierto que
+						el edificio tiene bastante solera, cumple 300 años, con
+						lo que al ser edificio histórico es bastante complicado
+						modificarlo mucho, ni tampoco la ocupación.
+
+						Tiene tanto tiempo que tiene hasta un museo bastante
+						relevante, interesante de visitar si aún no se ha hecho.
+
+						A las personas que tienen problemas de accesibilidad se
+						les suele acondicionar un despacho en planta baja.
+
+
+* RUIDO: ¿Se usan cascos/auriculares en el lugar de trabajo?
+
+		 No es imprescindible, pero sí conveniente usar auriculares en el
+		 trabajo en el caso de reuniones/videollamadas como las que realizan los
+		 cargos que están haciendo ahora la entrevista.
+
+		 El nivel de ruido en el centro de trabajo es bajo en general.
+
+		 Lo único a destacar y anecdotario es que si estás en la zona de la
+		 sede que da a la Calle Alcalá coincide con las canciones de los músicos
+		 de turno (violines, etc) y las clásicas manifestaciones, que no suelen
+		 hacer mucho ruido salvo excepciones.
+
+		 Ahora han empezado también las obras en Puerta del Sol, pero por lo que
+		 se ve no les llega el ruido.
+
+
+* OFICINA: ¿Cómo es? Hay de todo:
+
+				- Hay despachos individuales.
+
+				- Hay espacios comunes.
+
+				- Hay espacios adecuados entre cada puesto y mesas.
+
+				- En el caso de despachos en el que coincidan personas, se hace
+				  todo lo posible para que por medidas covid no coincidan todos
+				  y se turnen en distintos días.
+
+
+* INCORPORACIÓN: Lo RAZONABLE ES que la incorporación fuera ANTES DEL VERANO,
+				 pero al ser un volumen de gente bastante importante, depende
+				 de la carga de gestión que tenga que hacer Función Pública.
+
+
+* ACCION SOCIAL: Hay ayudas para distintas cosas, entre ellas ayudas para:
+
+					- Transportes.
+					- Estudios.
+					- Sanitarios.
+					etc
+
+				  Se presenta en fecha un formulario (de forma anual) y a la
+				  gente que se les aprueban las solicitudes concretas se les
+				  hace un ingreso del dinero estipulado en cada tipo de ayuda.

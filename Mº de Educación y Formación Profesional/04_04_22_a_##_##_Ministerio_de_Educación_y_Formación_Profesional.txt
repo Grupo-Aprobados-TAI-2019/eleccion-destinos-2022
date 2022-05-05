@@ -1,0 +1,109 @@
+###############################################################################
+###############################################################################
+MINISTERIO DE EDUCACIÓN Y FORMACIÓN PROFESIONAL
+===============================================================================
+* ENTREVISTA: 04/04/2022
+              (Plantilla rellenada)
+
+* LUGAR: Secretaría General de Tecnología de la Información y de las Comunicac.
+         (SGTIC)
+         Calle Vitrubio 4,
+         Calle Alcalá 34.
+
+* CONTACTO: 
+
+* MEDIO DE TRANSPORTE: Metro Sol
+
+-------------------------------------------------------------------------------
+* MOVILIDAD A PROVINCIAS (S/N/¿?): N
+-------------------------------------------------------------------------------
+
+* PLAZAS SOLICITADAS: 1 a Ceuta y el resto a SGTIC (Nivel 15)
+					  Se reparten por CV
+
+* TARDES (S/N/¿?): S - 2 tardes que normalmente se conceden de entrada a quien
+					   lo solicita.
+
+* PRODUCTIVIDAD (S/N/¿?): S - Desde 259 euros para nivel 15
+
+* PROMOCIÓN (SUBIR DE NIVEL): Se promueve al personal valorándose...
+								- Proactividad
+								- Implicación en proyectos
+							  
+
+* HORARIO: HABITUAL -> 37,5H
+					    Obligatorio:
+					      9:00-14:30 L-V
+					    Flexibilidad recuperar horas:
+					      7:30-18:00 L-J
+					      7:30-15:30 V
+
+		   VERANO ---> 32,5H (16/06 a 15/09)
+					    Obligatorio: 8:00-15:30 L-V
+
+
+* TELETRABAJO (S/N/¿?): S - 20% (1 día a la semana).
+
+* TAREAS: Desarrollo, Sistemas, Seguridad y CAU.
+		  Desarrollo - equilibrio entre:
+		       - Necesidades subdirecc
+		       - Experiencia del incorporado.
+		       - Preferencias del nuevo incorporado.
+		      Aplicaciones sobre:
+		       - tramitación de becas
+		       - profesorado
+		       - gestión de centros docentes
+		       - títulos académicos
+		       - recursos administrativos
+		      Proyectos de transformación digital:
+		  	   - Renovar aplicaciones
+		  	   - Tareas de mantenimiento de aplicaciones
+		  	   - Gestión de sede electrónica
+		  	   - portal institucional
+		  	   - administración de servicios de notificación
+		  	   - registro electrónico
+		  	   - Intermediación entre datos
+		  Sistemas - equilibrio entre:
+		       - Necesidades subdirecc
+		       - Experiencia del incorporado.
+		       - Preferencias del nuevo incorporado.
+		      Se asumen tareas a todos los niveles en materias de:
+		       - Admin de BD.
+		       - Servidores.
+		       - Seguridad.
+		       - Correo.
+		       - Telefonía.
+		       - Comunicaciones.
+		       - Videoconferencia.
+		       - Atención a usuarios.
+		      Gestión de CPD propio:
+		       - Mejora
+		       - Actualización
+		       - Reorganización
+		      Proyectos actuales:
+		       - Implantación de una nueva herramientas de ticketing
+		       - El puesto de usuario digital para teletrabajo
+		       - Despliegue de nuevas medidas de ciberseguridad
+
+* TECNOLOGÍAS: Java/oracle sobre .NET
+
+* PARKING (S/N/¿?): N (excepcionalmente si algún día se necesitara se permite).
+
+* BUFANDA (S/N/¿?): ¿?
+
+* FORMACIÓN: No obligatoria al entrar, pero hay formación específica TIC
+
+* COMEDOR (S/N/¿?): S - Cafetería (no comedor) y un office con microondas
+
+* ACCIÓN SOCIAL (S/N/¿?): ¿?
+
+* GUARDERÍA (S/N/¿?): N
+
+* OBSERVACIONES: - Las vacaciones se gestionan como se dice en el EBEP.
+				 - Edificio preparado para personas con problemas de movilidad.
+				 - Se utilizan cascos en videoconferencias.
+				 - Apenas hay ruido.
+				 - No se preve cambio a nueva sede.
+				 - Oficina diáfana con despachos individuales y espacio entre
+				   mesas.
+				 - Equipos en salas muy grandes, con espacio entre mesas.

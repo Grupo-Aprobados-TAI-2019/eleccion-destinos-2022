@@ -1,0 +1,908 @@
+###############################################################################
+###############################################################################
+MINISTERIO DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL (MINECO)
+===============================================================================
+* ENTREVISTA: 29/03/2022 - 15:00 a 16:00
+			  (Teams)
+
+
+* CONTACTO: José Luis Calvo Labra (Subdirector General),
+			José Vicente García Calatayud (Subdirector adjunto de Desarrollo),
+			Félix Calero (Jefe de Área de la Oficina de Transform. Digital).
+
+
+* LUGAR: Secretaría General de Tecnologías de la Información y Comunicaciones.
+		 (SGTIC)
+		 Paseo de la Castellana, 162 - Sede Principal
+		 Calle del Poeta Joan de Maragall (sede te telecomunicaciones)
+		 MEDIO DE TRANSPORTE: Línea 10 al lado de Castellana (En Cuzco)
+
+
+		 Es una SGTIC de Ministerio, entendiendo SGTIC como Secretaría General
+		 de Tecnologías de la Información y Comunicaciones.
+
+		 En los Ministerios, salvo en los de nueva creación, hay una SGTIC que
+		 se encarga de los servicios, digamos horizontales y verticales del
+		 Ministerio.
+
+		 Hay unos 60 y pico funcionarios y laborales y es un equipo que está
+		 distribuído en varias áreas funcionales:
+
+
+
+		 	- Áreas de DESARROLLO, donde trabajan 30 funcionarios.
+
+		 	  LOS OBJETIVOS del Área de Desarrollo son DISEÑO, IMPLANTACIÓN y
+		 	  MANTENIMIENTO de:
+
+		 	  		1) Servicios de información horizontales del Ministerio
+		 	  			  # RRHH.
+		 	  			  # Oficialía.
+		 	  			  # Integración con servicios comunes.
+		 	  			  etc
+
+		 	  		2) Sistemas de Gestión de Datos
+		 	  			  # Análisis macroeconómico.
+		 	  			  # Datos georreferenciados (de activos de la
+		 	  				Secretaría de Estado de Telecomunicaciones).
+		 	  			  etc
+
+		 	  		3) Sistemas de Gestión de Ayudas (evolutivos,
+		 	  		   modificaciones, mantenimientos, customizaciones de
+		 	  		   ayudas, etc)
+		 	  			  # PROFIT.
+		 	  			  # AVANZA.
+		 	  			  etc
+
+		 	  		4) Intranet, Portales web y Sede electrónica (diseño).
+
+		 	  		5) Sistemas de Gestión de Expedientes en el ámbito de
+		 	  		   las telecomunicaciones.
+		 	  			  # Inspecciones técnicas de infraestructuras.
+		 	  			  # Control e inspección del espectro.
+		 	  			   	radioeléctrico.
+		 	  			  etc
+
+		 	  Respecto al DISEÑO, se trabaja recopilando requisitos por
+		 	  parte del negocio y con contacto directo con diferentes
+		 	  áreas de negocio con los que se trabaja dentro del
+		 	  ministerio.
+
+		 	  DESARROLLO se compone de 6 ÁREAS, que son:
+
+		 	  	+ OFICINA DE TRANSFORMACIÓN Y DATOS.
+		 	  		# Es muy transversal.
+
+		 	  		# También actúa de PMO (Project Management Office u Oficina
+		 	  		  de Gestión de Proyectos)
+
+		 	  		# Apuesta de la GSTIC donde se potencia mucho la parte de:
+		 	  		  		~ Gobernanza de los datos.
+		 	  		  		~ Calidad de los datos.
+
+
+		 	  	+ ÁREA DE DESARROLLO HORIZONTAL, que son los servicios comúnes
+		 	  	  que dan soporte a la tramitación interna del Ministerio y a
+		 	  	  aquella reutilización de componentes para la tramitación
+		 	  	  administrativa.
+
+
+		 	  	+ ÁREA DE DESARROLLO SECTORIAL.
+
+		 	  		# Temas de ayudas especialmente.
+
+		 	  		# Aplicativos de social e información.
+
+
+		 	  	+ ÁREA DE DESARROLLO DE ECONOMÍA (da soporte, principalmente,
+		 	  	  a las aplicaciones de macroeconomía).
+
+		 	  		# Especialmente ahora enfocada en el proyecto que se tiene
+		 	  		  ahora de Azure con la Dirección General de Análisis
+		 	  		  Macroeconómico.
+
+
+		 	  	+ ÁREA DE DESARROLLO WEB.
+
+
+		 	  	+ ÁREA DE DESARROLLO DE TELECOMUNICACIONES.
+
+
+		 	  MINECO, a través de SGTIC, se encuentra actualmente inmerso en la
+		 	  definición, lanzamiento y ejecución de proyectos de transformación
+		 	  digital que tienen como objetivo:
+
+		 	  				+ Ser más eficientes.
+
+		 	  				+ Ser Resilientes.
+
+		 	  				+ Incrementar el valor de las diferentes unidades de
+		 	  				  negocio.
+
+		 	  Partes interesadas con las que trabajan, pues un poco todo el
+		 	  abanico de toda la Secretaría de Estado dentro del Ministerio, que
+		 	  aunque sea el Ministerio de Economía, hay que recordar que está en
+		 	  Transformación Digital, por lo que hay un amplio abanico de
+		 	  negocios con proveedores de primera línea con los que se trabajan,
+		 	  como por ejemplo:
+
+		 	  				+ Deloitte.
+		 	  				+ Netun.
+		 	  				+ Alten.
+		 	  				+ NTT Data.
+
+		 	  También se trabaja con la Oficina del Dato, dado que se está
+		 	  potenciando mucho la parte de Gestión de Datos.
+
+
+
+		 	- Áreas de INFRAESTRUCTURAS Y TELECOMUNICACIONES:
+		 		Básicamente están compuestas por:
+		 			1) Subdirector adjunto.
+
+		 			2) Jefes de Área (dependen del subdirector).
+		 				 Se encargan de:
+
+		 				  + La llevanza de las comunicaciones del Ministerio.
+
+		 				  + La infraestructura de entornos de desarrollo,
+		 				    portales web, etc.
+
+
+		 	  Actualmente, se tiene una infraestructura que está en un Centro de
+		 	  Datos que está externalizado en modo hosting en un proveedor de
+		 	  servicios llamado T-Systems.
+
+		 	  Ahora mismo se encuentran en un proceso de transformación digital
+		 	  para llevárselo todo a la SGAD, a la infraestructura SIAs y PAS de
+		 	  que dispone la SGAD, donde:
+		 	  		- SIA = Sistema de Información Administrativa
+		 	  				(se accede desde Sara)
+
+		 	  		- PAS = Proveedores de Acceso a la red Sara
+		 	  				(Puntos de presencia)
+
+		 	  Es un proyecto que se espera que termine a finales de este año y,
+		 	  a partir de entonces, ya se podrá regularizar la situación
+		 	  respecto a los servicios compartidos de la SGAD.
+
+		 	  Por otro lado, las áreas que componen el ÁREA DE INFRAESTRUCTURAS
+		 	  Y COMUNICACIONES son:
+
+		 			+ Área de Comunicaciones.
+
+		 			+ Área de Sistemas.
+
+		 			+ Área de Seguridad y Calidad.
+
+
+		 	  El día a día de COMUNICACIONES es básicamente gestionar:
+
+		 	  		+ Los sistemas de seguridad perimetral, que consiste en 2
+		 	  		  barreras de firewall, que son 4 firewalls en total (porque
+		 	  		  están en alta disponibilidad) y son de diferentes
+		 	  		  fabricantes.
+
+		 	  		+ Un sistema de tunnelización para el acceso remoto por
+		 	  		  parte de la gente que teletrabaja.
+
+		 	  		+ Un proxy, que ya está en desuso, al ser los firewall de
+		 	  		  nueva generación e incorporar ya esa funcionalidad.
+
+		 	  		+ Los core switches de las sedes de Castellana y los de
+		 	  		  Poeta Joan de Maragall:
+
+		 	  		  		# Los switches de acceso, que son los que conectan
+		 	  		  		  a los puntos terminales de datos, que son los
+		 	  		  		  teléfonos IP y los pcs. Hay un cableado vertical
+		 	  		  		  que recorre el edificio, teniendo el edificio 100
+		 	  		  		  metros, por lo que hay unas redes de acceso,
+		 	  		  		  patinillos, etc que hay que mantener.
+
+		 	  		+ El punto de acceso de la Red Sara, que hay uno por cada
+		 	  		  ministerio.
+
+		 	  		+ Reportan incidencias sobre cualquier equipo del
+		 	  		  adjudicatario del Concurso Centralizado de Comunicaciones:
+
+		 	  		  		  # Lote 1: macro-lan.
+		 	  		  		  # Lote 3: Datos.
+
+		 	  		+ Además, la gente de comunicaciones lleva todo el parque
+		 	  		  móvil, de teléfonos móviles de los usuarios, en el sentido
+		 	  		  de:
+
+		 	  		  		  # Asignaciones.
+
+		 	  		  		  # Configuración del MDM de airwatch y toda esa
+		 	  		  		  	gestión administrativa.
+
+		 	  		  				MDM = Mobile Device Management
+		 	  		  				  	  (Gestión de Dispositivos Móviles)
+
+		 	  		  				Airwatch Agent = Consola central para que un
+		 	  		  								 administrador incorpore
+		 	  		  								 dispositivos de usuarios
+		 	  		  								 finales, implemente
+		 	  		  								 aplicaciones para usuarios
+		 	  		  								 finales y les proporcione
+		 	  		  								 acceso a recursos
+		 	  		  								 corporativos.
+
+		 	  		  		  # Interacciona con la SGAD a la hora de pedir
+		 	  		  		    material, sustituciones, denuncias de robos, etc
+
+		 	  		  Parte de esas actuaciones las tiene delegadas en el
+		 	  		  personal externo del CAU y la parte más administrativa
+		 	  		  las hacen directamente funcionarios.
+
+		 	  		  Respecto al CAU, tiene unos interfaces de escalado para
+		 	  		  quien le haga falta. Pero cualquier necesidad de usuario
+		 	  		  tiene que ser resuelta por el CAU, salvo algo relacionado
+		 	  		  con algo fuera de la rutina del CAU. Lo ideal es que trate
+		 	  		  de principio a fin con el usuario.
+
+		 	  		  Ejemplo: Un usuario necesita un software de edición a pdf
+		 	  		  		   que no se tiene y el CAU lo escala al Area y si
+		 	  		  		   hay más peticiones en el ministerio similares y
+		 	  		  		   entonces se haría una compra agregada o un
+		 	  		  		   expediente de contratación de un suministro de
+		 	  		  		   software de ese producto para todos aquellos que
+		 	  		  		   tengan esa necesidad y el CAU sería el que
+		 	  		  		   debería instalarlo. Pero hay que tener en cuenta
+		 	  		  		   que el CAU está externalizado, pero los
+		 	  		  		   funcionarios serán los que supervisen y
+		 	  		  		   administren o permitan determinadas cosas.
+
+
+		 	  		+ Llevan la relación que se mantiene con T-Systems a la hora
+		 	  		  de gestionar los sistemas DNS.
+
+		 	  		+ Dar permisos de VPN.
+
+		 	  		+ Gestionar listas OCL.
+
+		 	  		+ Capacidades de Firewall.
+
+		 	  		+ Parte de los accesos de MacroLAN de las Jefaturas
+		 	  		  Provinciales de Inspección de las Telecomunicaciones.
+
+
+		 	  El día a día de INFRAESTRUCTURAS gestiona:
+
+		 	  		+ Un pequeño equipo hiperconvergente que se tiene en el
+		 	  		  Centro de Datos, que es lo único que no se tiene
+		 	  		  externalizado en T-Systems.
+
+		 	  		+ El contrato de T-Systemas para la gestión de servicios de
+		 	  		  infraestructuras externalizados.
+
+		 	  		+ Planificación de la migración desde el CPD de T-Systems,
+		 	  		  activo Backup, hasta los servicios PAS IAS de la SGAD,
+		 	  		  teniendo la intención en el futuro de administrar esos
+		 	  		  sistemas para dar entornos de desarrollo, de desarrollo
+		 	  		  PRE y PRO.
+
+		 	  		+ Gestiona infraestructuras en la distribución de software a
+		 	  		  través de SCCM (System Center Configurarion Manager), la
+		 	  		  gestión de licencias tanto de software de infraestructura
+		 	  		  como de punto de equipo de trabajo y este tipo de
+		 	  		  aspectos.
+
+
+		 	  Algunos proyectos de COMUNICACIONES:
+
+		 	  		+ El principal proyecto es el Puesto de Trabajo Digital,
+		 	  		  donde hay que securizar los accesos. Se va a pasar de un
+		 	  		  modelo en el cual la VPN da un acceso completo a la red
+		 	  		  interna del ministerio a un modelo que da un acceso
+		 	  		  permisionado, por tipo de aplicacion o de servicio al cual
+		 	  		  se pretende acceder.
+
+		 	  		  Esto supera, de algún modo, los terminadores de túneles y,
+		 	  		  por tanto, hay que recurrir a una solución de la SGAD que
+		 	  		  ya permite esta funcionalidad (Airwatch que permite
+		 	  		  acceso via VPN).
+
+		 	  		+ Todas las actividades relacionadas con la migración de
+		 	  		  los servicios de infraestructura hosting de T-System a la
+		 	  		  nube Sara. Habrá que mirar una serie de actividades
+		 	  		  bastante grandes:
+
+		 	  		  		# Toda la parte de DNS.
+
+		 	  		  		# Balanceo de carga.
+
+		 	  		  		# Dónde están los Certificados de Sede y de sello
+		 	  		  		  en esa infraestructura.
+
+
+		 	  Algunos proyectos de INFRAESTRUCTURAS:
+
+		 	  		+ Nuevo Entorno Virtualizado de Nube Sara. Migrar las cargas
+		 	  		  de T-Systemas hasta la infraestructura virtualizada de
+		 	  		  la Nube Sara.
+
+
+
+		 	- Área de la OFICINA DE TRANSFORMACIÓN DIGITAL.
+
+		 	  Su Jefe de Área es Félix Calero, que entró hace 1 año y se acuerda
+		 	  de estar en la misma situación que nosotros.
+
+		 	  Félix dice que una parte importante que se puede ofrece en esta
+		 	  SGTIC es que hay buenas personas y se trabaja con valores, que
+		 	  para él es fundamental. Tener un equipo de personas encima que te
+		 	  apoyan y que puedes hacer cosas y que te permiten también aportar.
+
+		 	  Al margen de tecnologías, se está notando un cambio de verdad y
+		 	  las tecnologías de la información deben liderar el cambio.
+
+		 	  Las Áreas de TIC, de soporte, etc está bien, porque obviamente hay
+		 	  que soportar las operaciones, pero hay que ser también impulsores
+		 	  del cambio. Al final los TIC son las personas que deben llevar a
+		 	  cabo la transformación de la Administración, porque de otro modo
+		 	  será difícil, dado que son los que:
+
+		 	  		+ Tienen la capacidad de acceder a la Organización del
+		 	  		  Negocio.
+
+		 	  		+ Pueden acceder a los procesos y metodologías.
+
+		 	  		+ Pueden acceder a los procesos de gestión y conocer la
+		 	  		  tecnlogía.
+
+		 	  Y es lo que hace a los TIC los ideales para ello.
+
+		 	  El proyecto de Datos que se ha montado en la Oficina de Datos, es
+		 	  el único en toda la AGE que está montando un AZURE de verdad en la
+		 	  nube, migrando aplicaciones a la nube, haciendo incluso
+		 	  desarrollos en la nube. Es un proyecto espectacular y se quiere
+		 	  incluso ir a temas de IA (Inteligencia Artificial).
+
+		 	  Se están cambiando también todos los tramitadores. Se está
+		 	  haciendo una arquitectura totalmente nueva, tanto de servicios web
+		 	  como de gestión documental, nuevos tramitadores front office, BPM,
+		 	  etc. Es decir, se está intentando hacer una arquitectura
+		 	  tecnológica totalmente moderna, para que los procedimientos
+		 	  administrativos vayan como deben de ir, dando un buen nivel de
+		 	  servicio a los ciudadanos.
+
+		 	  Se está aplicando metodología Scrum, pero scrum de verdad, donde
+		 	  el negocio está metido en las day-list de todos los días con el
+		 	  Área. Todos los días hay directores involucrados en las reuniones
+		 	  de las day-list. No es un Scrum como los que se montan los de las
+		 	  SGTIC en paralelo, sino que están los subdirectores de negocio
+		 	  metidos.
+
+		 	  Se quiere dar más peso a la parte de oficina de proyectos, montar
+		 	  un QA (Quality Assurance) para toda la parte de CALIDAD DE
+		 	  DESARROLLO DEL SOFTWARE.
+
+		 	  Proyectos hay muchísimos, tantos que a veces llegan a decir que no
+		 	  acepten más proyectos porque no dan abasto.
+
+		 	  Resumiendo, que se busca gente con valores, gente que se
+		 	  comprometa, que trabaje en equipo, que sean generosos con los
+		 	  compañeros, que trabajen con profesionalidad (dado que se
+		 	  gestionan fondos públicos), exigiendo en cada caso lo que
+		 	  corresponda exigir. Gente ilusionada y con ganas de mejorar.
+
+
+
+		 En lo que respecta al Ministerio, hay otras áreas TIC aparte de esta
+		 SGTIC:
+		 	- SGAD (La más conocida).
+		 	- Secretaría General del Tesoro (Subirección de Informática).
+		 	- Dirección de Seguros (otra área de informática).
+
+		 El resto del Ministerio lo lleva esta SGTIC, que da servicio a unos
+		 2500 puestos de trabajo y el entorno tecnológico de desarrollo de
+		 aplicaciones que ya se ha comentado.
+
+		 Como se ha comentado, se está transformando intentando consolidar sus
+		 servicios, abandonando de algún modo los servicios contratados
+		 directamente por ellos en favor de los servicios compartidos de la
+		 SGAD, porque es lo que dicta la SGAD y porque aparte de ello hay unas
+		 grandes inversiones en esos servicios a cargo de los Fondos de
+		 recuperación y, por tanto, hay que aprovecharlo. Esto supone una
+		 ventaja muy grande respecto a costes y, por otro lado, facilitará la
+		 dedicación a actividades de gran valor añadido, que pueden ser:
+
+		 	- Algunos proyectos que ya se están acometiendo del Dato.
+
+		 		 + Un proyecto muy bonito que consiste en utilizar la
+		 		   infraestructura PAS de la nube de azure para implementar
+		 		   ¿¿python lines?? de datos para ayudar a la gente de análisis
+		 		   macroeconómico a hacer sus estimaciones estadísticas,
+		 		   predicciones temporales de series de datos, machine learning,
+		 		   análisis predictivos, etc.
+
+		 		 + Un proyecto pendiente de implementación de GISS, convertir
+		 		   sus sistemas de datos tradicionales transaccionales a algo
+		 		   más rico, geolocalizando la información y pudiéndola
+		 		   presentar a través de una interfaz de usuario que sea moderna
+		 		   como algo parecido a google maps, pero dedicado a actividades
+		 		   de telecomunicaciones, para visualizar infraestructuras, etc.
+
+		 	  Estos proyectos ya se están iniciando, y también van a estar
+		 	  soportados por infraestructuras modernas, en la nube, y por
+		 	  productos muy conocidos/usados en el mercado, de manera que se
+		 	  puedan ahorrar costes y mejorar el servicio.
+
+
+		 	- Proyectos de infraestructuras y CAU, se tienen:
+
+		 		 + Puesto de trabajo digital, que consiste en que se va a
+		 		   movilizar a todo el mundo, dotándolos de un puesto de trabajo
+		 		   digital, realizando medidas como:
+
+		 		   		# Proveer de un portátil, eliminando los pcs e
+		 		   		  incorporando dockstations.
+		 				# Aportar pantallas donde sean necesarias.
+		 				# Aportar tarjetas LTE para conexión de forma ubicua.
+		 				etc
+
+		 	  En ese sentido, se están llevando a cabo una serie de proyectos
+		 	  de transformación digital que son bastante interesantes y que van
+		 	  a llevar bastantes años.
+
+-------------------------------------------------------------------------------
+* MOVILIDAD A PROVINCIAS (S/N/¿?): No suele ser el caso, aunque tienen un caso
+								   de un chico que está en Valladolid, aunque no
+								   es lo normal. Son casos a analizar.
+
+								   Lo que hay es una Red Provincial de Jefaturas
+								   de Inspección de las Telecomunicaciones, que
+								   en cada provincia hay una. 
+
+								   Sale un concurso cada año para presentarse y
+								   podría ser un destino dentro del Ministerio.
+								   Sólo hay jefaturas para ese tipo de destinos.
+
+								   Lo que se quiere es que se acepte al menos un
+								   compromiso de quedarse en esta SGTIC durante
+								   al menos 2 años.
+
+								   Plazas para provincias para esta SGTIC nada.
+								   Para eso es lo que se ha comentado antes.
+
+								   Para la SGAD no se tiene ni idea tampoco
+								   porque es una unidad independiente.
+
+								   Para esta SGTIC no se van a sacar plazas
+								   provinciales.
+-------------------------------------------------------------------------------
+
+* PLAZAS: Solicitadas 6-7, pero puede que salgan más (Nivel 15).
+
+		  De las personas que entraron en la promoción anterior no queda ya
+		  ninguna de nivel 15.
+
+		  Se intenta promocionar a la gente lo más pronto posible. Suelen estar
+		  en niveles 18-20. No se garantiza nada, porque es a condición de que
+		  haya plazas disponibles, pero en lo posible se va a promocionar.
+
+		  Es muy probable que haya plazas que vayan para:
+
+		  		- Transformación Digital.
+		  		- CAU para refuerzo para hacer gestión.
+		  		- Sistemas para ayudar a gestionar la nube pública de Azure y la
+		  		  nube Sara.
+		  		- Seguridad para ayudar al equipo de Ciberseguridad.
+		  		- Servicios horizontales para ayudar en la transformación de las
+		  		  aplicaciones horizontales que dan servicio al resto.
+
+		  Pero sin ninguna necesidad de que alguien acabe allí. Es cuestión de
+		  que el que venga lo vaya viendo para intentar acomodarse.
+
+		  Otros sitios que seguramente sacarán muchas plazas que pertenecen
+		  también al Ministerio pero no es la SGTIC, serían:
+
+		  		- SGAD (LA QUE MÁS PLAZAS TENGA SEGURAMENTE, por el tema de
+		  		  transformación digital).
+
+		  		- Secretaría de Estado de Digitalización e Inteligencia
+		  		  Artificial, dedicada a tramitación de ayudas principalmente.
+		  		  Hacen algunas actividades de fomento de la IA, pero por lo
+		  		  general nadie acaba allí en esa parte.
+
+		  		- Secretaría de Estado de Telecomunicaciones e Infraestructuras
+		  		  Digitales, en donde también entra bastante gente y se tramitan
+		  		  expedientes administrativos relacionados con las
+		  		  telecomunicaciones, dar permisos a operadores para instalar
+		  		  antenas, permisos de radioaficionados, etc.
+
+		  		- Secretaría de Estado de Economía no hubo plazas el año pasado.
+
+		  ¿Es buen destino para alguien que venga de programador?
+		  Alguien que quiera ir a programar no está garantizado que pueda
+		  programar. Aunque puede que se pueda poner a hacer diseño de
+		  aplicaciones, SQA, diseños de prueba, incluso prototipos para probar
+		  alguna tecnología por ejemplo de databridge de azure y hacer una
+		  prueba de concepto.
+
+		  Lo normal es que validen resultados, aplicaciones, preparen
+		  documentación, desarrollen requisitos funcionales, propongan
+		  arquitecturas tecnológicas, etc.
+
+		  No se puede garantizar nada de programación a no ser que supiera algo
+		  como python o cosas muy dinámicas que sirvan para prototipar, si no
+		  seguramente no programará.
+
+		  En tema de desarrollo web se tiene una empresa contratada que 
+		  desarrolla la mayoría de los portales, que están en sharepoint 2019.
+		  Esta empresa tiene incluso diseñadores gráficos, maquetadores, gente
+		  que hace mockups, que hace prototipos, etc. 
+
+		  Si alguien sabe de diseño gráfico puede aportar, porque la parte de
+		  diseño gráfico es un poco escasa, muy continuísta, etc. Si alguien
+		  está especializado en diseño gráfico orientado a portables web, puede
+		  hacer propuestas de usabilidad, de diseño gráfico, de mockups, de
+		  navegabilidad, de SIO, si realmente termina en área web. 
+
+		  José Luis dice que no nos preocupemos por la denominación que aparece
+		  en el puesto de la RPT, porque son denominaciones que existen desde
+		  hace 20 años y no se ajustan a la realidad actual.
+
+
+* INCORPORACIÓN: La incorporación se hace según orden de plaza y sobre las
+				 preferencias INAP respeta lo que elige cada persona.
+
+				 Respecto a las preferencias, tras una entrevista se busca
+				 cubrir la vocación de cada uno y ver cómo encaja en las
+				 necesidades del SGTIC.
+
+				 No se decide hasta que no estén allí los nuevos funcionarios.
+
+
+* HORARIO: HABITUAL --> 37,5H
+		   VERANO ----> 35H (01/06 a 15/09 y Concilia 01/06 a 30/09).
+
+		   TARDES ----> SI, ALGUNA CON PRODUCTIVIDAD.
+
+		   GUARDIAS ---> NO, Salvo que estés en Sistemas y haya alguna
+		   				 intervención de fin de semana no las hay.
+		   				 En Comunicaciones y Sistemas algunas veces se dan
+		   				 este tipo de actuaciones en fin de semana, aunque no
+		   				 son muy comunes ni establecidas como normas.
+		   				 Si en algún momento hay que hacer eso por necesidad del
+		   				 servicio se compensará por algún lado, bien sea con
+		   				 alguna de estas opciones:
+
+		   				 		+ Productividad.
+		   				 		+ Gratificación.
+		   				 		+ Días libres.
+
+		   				 No se tiene esa necesidad de dar servicio 24/7 porque
+		   				 para eso hay otros recursos.
+
+
+* TELETRABAJO (S/N/¿?): SI - 20% (1 día a la semana). Félix es flexible hasta
+							 cierto nivel y lo que interesa es que el trabajo
+							 salga adelante.
+
+							 Es el porcentaje de teletrabajo que hay ahora mismo
+							 en toda la Administración. Dice que Industria, por
+							 ejemplo, no tiene teletrabajo, que cree que lo han
+							 quitado.
+
+							 En este caso, hay lo estándar, lo establecido
+							 oficialmente.
+
+							 Según Félix, el teletrabajo, según está viendo los
+							 borradores actuales del RD, dice que seguirá con
+							 ese 20%.
+
+
+* VACACIONES: ¿Juntar Vacaciones con moscosos?
+			  ¿Semanas completas?
+			  ¿Período vacacional obligatorio?
+
+			  - No se pueden juntar vacaciones con moscosos.
+			  - 5 de los 22 días se pueden coger por separado y eso sí se pueden
+			    juntar con moscosos.
+			  - El resto de días de vacaciones hay que pedirlos de 5 en 5.
+
+			  Casi todos los ministerios son igual, porque este tema lo marca
+			  Función Pública.
+
+
+* SUELDO: BASE + CD + CE + PRODUCTIVIDADES
+		  CE = Complemento Específico, que para un C1 es el típico (no lo tiene
+		       disponible).
+
+		  Bufandas ===>
+
+
+* PRODUCTIVIDAD: Está ligada a la gente que tenga compromiso aceptable, bueno o
+				 excelente. En tales casos suelen tener la productividad.
+
+				 De todos modos, el concepto de productividad está sujeto a
+				 repartirla entre toda la Subdirección. Es posible que el primer
+				 mes o el segundo no haya productividad incluso para alguien que
+				 rinda muy bien, pero luego se vaya asignando.
+
+				 No puede garantizar que a todo el que entra se le vaya a dar la
+				 productividad. Se va viendo en el momento en que vaya entrando
+				 la gente. Pero en esta SGTIC lo normal es que se den por
+				 rendimiento.
+
+				 La teoría es que sean 2 tardes, pero el criterio del jefe es
+				 que es necesario que el rendimiento del trabajador sea 
+				 aceptable, bueno, muy bueno o excelente, al margen de que haya
+				 que cumplir oficialmente con los horarios (tardes).
+
+				 NO CONFUNDIR PRODUCTIVIDAD CON ESPECIAL DEDICACIÓN. El término
+				 de Especial dedicación le corresponde a personal con cierto
+				 nivel administrativo y esos sí serían 40H semanales. Pero
+				 los que entren nuevo no tendrán especial dedicación. José Luis,
+				 por ejemplo, tiene especial dedicación. Al menos respecto a
+				 este Ministerio.
+
+				 Nosotros tendremos 37,5H semanales, no tendremos 40H.
+
+
+* PARKING (S/N/¿?): SI - Hay parking, sin reserva de plaza, pero aparte nunca
+					     se llena. Hay plazas de sobra. No se llenaba cuando
+					     había más trabajo presencial y con el régimen más
+					     laxo respecto a presencia (por covid), se llena aún
+					     menos.
+
+
+* COMEDOR/CAFETERÍA (S/N/¿?): SI - Hay una cafetería en Castellana 162, bastante
+								   grande, que en hora punta a lo mejor hay cola
+								   pero sólo de unos 5 minutos (a las 14:30).
+								   Generalmente está muy accesible y sin
+								   problemas.
+
+								   Menú completo ---------> 4,70 euros
+					 			   Medio menú (1 plato) --> 3,40 euros
+
+					 			   De todos modos, hay también mucha cafetería
+					 			   alrededor del Complejo Ministerial.
+
+
+* GUARDERÍA (S/N/¿?): S - Se debe solicitar y hay lista de espera, porque está
+						  bastante demandada. José Luis llevó a su hijo a esa
+						  guardería en 2015 y de nueva entrada.
+ 
+
+* ADAPTADO A DISCAPACITADOS: Sí, el edificio está adaptado con rampas. Es
+							 relativamente moderno. La parte del SGTIC está
+							 muy modernizada, accesible, pero si alguien tiene
+							 alguna necesidad especial se trata y se gestiona
+							 adecuadamente.
+
+
+* RUIDO: Si alguien necesita cascos se le proporciona cascos.
+		 Los puestos suelen ser con una distancia adecuada por medida covid,
+		 pero suelen estar compartiéndose espacios, aunque tampoco se montan
+		 fiestas ni nada por el estilo, no suele haber mucho ruido.
+
+		 Espacios diáfanos, pero cuando hay reuniones específicas existen
+		 despachos de reunión. Se intentan usar las salas al máximo cuando es
+		 necesario para no molestar a nadie, sobre todo a partir de 3-4 personas
+		 en las reuniones.
+
+		 Es cierto que en algún momento un compañero puede estar conectado en
+		 videollamada, que se supone que sin gritar, sino a un tono normal.
+
+
+* TECNOLOGÍAS: Respecto a las tecnologías con las que se está trabajando en
+			   cuanto a DESARROLLO, se tiene:
+
+			   - AZURE, para todo lo que es la gestión de datos (ingestas),
+			     utilizando la arquitectura en varias capas ROL (Capa L1, L2...
+			     hasta explotación con todas las tecnologías del ecosistema
+			     Azure).
+
+
+			   - ALFRESCO, tanto para un proyecto de gestión documental, con el
+			   	 ALFRESCO CONTENT SERVICES, como para los nuevos tramitadores
+			   	 (tecnologías LEGACY) que se quieren ir migrando al BPM
+			   	 (Business Process Management) y al ALFRESCO PROCESS SERVICES.
+
+
+			   - Tecnologías web, las típicas:
+
+			   		+ HTML5 + CSS3 + JS5.
+
+			   		+ Bootstrap.
+
+			   		+ Angular.
+
+			   		+ Arquitectura SOA + API Rest (implantándose para facilitar
+			   		  la interacción con todos los servicios comunes). Todos
+			   		  estos aplicativos a través de la arquitectura SOA, a
+			   		  través de BROKERS.
+
+			   		  	SOA = Services Oriented Architecture o Arquitectura
+			   		  		  Orientada a Servicios.
+
+			   		  	API = Application Programming Interfaces o Interfaces
+			   		  		  de Programación de Aplicaciones.
+
+
+			   - Además se trabajan con diferentes METODOLOGÍAS, dado que el
+			     enfoque a nivel de entrega de proyectos es que se están
+			     gestionando constantemente proyectos en la casa, de diferentes
+			     tamaños y complejidades, pero no dejan de ser proyectos, tanto
+			     evolutivos como proyectos desde cero.
+
+			     Se utilizan metodologías:
+
+			     		- PMP: Gestión proyectos con PMP (Project Management
+			     		  Professional).
+
+			     		- ÁGILES: con respecto a la gestión de productos se
+			     		  emplean enfoques ágiles (Scrum, Kanban y DevOps), si
+			     		  bien no está todavía la integración contínua y el
+			     		  despliegue contínuo demasiado enlazados, pero sí que
+			     		  se está trabajando para que al final se tenga toda la
+			     		  continuidad en todo el ciclo de vida de desarrollo del
+			     		  software.
+
+
+			   - Se utilizan aplicaciones como JIRA para toda la gestión de
+			     tareas e incidencias ticketing, no sólo a nivel de las áreas de
+			     desarrollo, sino también para la parte del CAU.
+
+
+			   - GITLAB para gestión del software, para la parte de integración
+			     ya mencionada con anterioridad.
+
+
+			   - SONARQUBE para todos los ensayos de código estático.
+
+
+			   - También se están introduciendo ensayos dinámicos de código con
+			   	 ¿¿¿NESSUS???.
+
+
+			   - MICROSOFT TEAMS se usa de manera masiva a la hora de gestionar
+			     savepoints a la hora de gestionar los documentos de los
+			     proyectos.
+
+
+			   Resumiendo un poco, respecto a las pautas que se siguen con los
+			   grandes proyectos de desarrollo actuales, son:
+
+			   		+ Arquitectura SOA.
+
+			   		+ Sistema de Gestión Documental basado en Alfresco Content
+			   		  Services.
+
+			   		+ BPM basado en Alfresco Process Services.
+
+			   		+ Plataforma de Analítica Avanzada basada en AZURE.
+
+			   		+ Sistema de georreferenciación de cobertura de operadores
+			   		  basada en AZURE.
+
+			   		+ Evolutivos de los sistemas actuales.
+
+
+* FORMACIÓN: A los funcionarios que entran nuevos se les va haciendo un
+			 acompañamiento. Quien quiera que entre va a entrar en un grupo de
+			 trabajo. Nadie va a entrar solo. Quien quiera que entre lo hará
+			 en cualquiera de las áreas que se han descrito, donde ya hay
+			 funcionarios desarrollando actividad.
+
+			 Se trabaja de manera ordenada con un nivel de madurez adecuado a
+			 la realidad organizativa, y se tienen documentación, manuales y
+			 procedimientos.
+
+			 Se hará una transferencia de responsabilidades gradual y acorde a
+			 la dificultad del reto. Nadie debe preocuparse por ello.
+
+			 ¿Hay formación específica en TIC aparte de los del INAP?
+
+			 Hay un plan de formación que lo coordina RRHH, en el cual el SGTIC
+			 participa de 2 formas distintas:
+
+			 	- Impartiendo directamente los cursos (con lo que incluso alguno
+			 	  que acabe en el SGTIC podría llegar incluso a impartirlos,
+			 	  por supuesto remunerados).
+
+			 	- A veces se contratan, cuando no hay conocimiento interno de la
+			 	  materia que se desea impartir.
+
+			 Algunos cursos de los que se hacen por parte del SGTIC son:
+
+				- Formación en teams.
+
+				- Seguridad.
+
+				- Otros muy específicos de seguridad pero con ramificación y
+				  ese tipo de técnicas, que se contratan fuera porque van unidos
+				  a la previsión de una plataforma, encuestas por correo
+				  electrónico, etc
+
+			 Otros cursos en Desarrollo que se van a contratar son:
+
+			 	- Formación en Alfresco: BPM de Alfresco y Gestor Documental.
+
+			 	- Formación en Datos: Ingeniería de Datos, Analítica de datos,
+			 	  Data Science y toda la parte de ETL (ingesta de datos).
+			 	  			ETL = Extract (Extraer),
+			 	  				  Transform (Transformar),
+			 	  				  Load (Cargar)
+
+			 Este Ministerio es un ministerio muy potente, por lo que al ser el
+			 Ministerio de Economía y de Transformación Digital, la formación
+			 puede ser de muchos tipos, al poder venir por muchos lados.
+
+			 	- INAP.
+			 	- Cursos propios dentro del Ministerio (Cursos de Informática,
+			 	  Cursos de IA).
+
+ 		 	Formación de idiomas: Alemán, Francés, Inglés.
+
+ 		 	En los próximos días se van a publicar cerca de 25 cursos de
+ 		 	formación, adicionalmente a los que organicen ellos mismos de tipo
+ 		 	informático.
+
+ 		 	Se pueden impartir cursos o recibirlos. José Luis no pone objeciones
+ 		 	a que la gente se forme. Las solicitudes que le llegan, si son
+ 		 	razonables, se aceptan todas.
+
+ 		 	¿Los cursos se hacen en horario laboral? Lo normal es que sí, que
+ 		 	la gente reserve tiempo de su trabajo para realizarlos, pero hay
+ 		 	veces que no. Hay cursos muy especializados, por ejemplo en
+ 		 	subvenciones y en ayuda, que se realizan en fin de semana y la gente
+ 		 	los escoge porque se quiere profesionalizar y escoge esa formación
+ 		 	en su fin de semana, pero lo normal es que sean en horario laboral.
+
+
+* PREVISIÓN DE CAMBIO DE SEDE: NO hay previsión de cambio de sede.
+							   Esta sede, el núcleo de este Ministerio, es la
+							   Secretaría de Estado de Economía y sigue
+							   llamándose informalmente "Ministerio de Economía"
+							   a pesar de que las secretarías de:
+
+							 	- Secretaría de Digitalización y de Inteligencia
+							 	  Artificial.
+							 	- Secretaría de Telecomunicaciones e
+							 	  Infraestructuras Digitales.
+
+							   pertenecían a otro Ministerio.
+
+							   Y esta sede de Castellana 162 seguirá estando por
+							   muchos años, seguramente.
+
+
+* BUFANDAS (S/N/¿?): ¿?
+
+
+* ACCIÓN SOCIAL (S/N/¿?): ¿?
+
+
+* OBSERVACIONES: - Hay cajero del SANTANDER dentro.
+				 - Es un complejo Ministerial, no sólo un Ministerio, al estilo
+				   de Nuevos Ministerios, e incluye:
+				 		+ Ministerio de Hacienda.
+				 		+ Ministerio de Universidades.
+				 		+ Ministerio de Ciencia.
+				 		+ Ministerio de Industria.
+				 		+ Tribunal Económico Administrativo Central.
+				 - Muchas cafeterías alrededor.
+				 - Sitios para comer si se cansa de la cafetería.
+				 - Zona animada.
+				 - Al lado de Castellana está la Línea 10 (Cuzco).
+				 - Línea 27 Autobús:
+				 		+ IDA: Glorieta Embajadores ----> Plaza Castilla
+				 			   Enlace a foto de paradas en varias líneas:
+				 			   ...........................................
+				 			   https://www.redtransporte.com/img/transporte/
+				 			   madrid/autobuses-emt/
+				 			   horario-ida-linea-27-autobuses-emt.jpg
+				 			   ...........................................
+
+				 		+ VUELTA: Plaza Castilla ----> Glorieta Embajadores
+								  Enlace a foto de paradas en varias líneas:
+				 				  ...........................................
+				 				  https://www.redtransporte.com/img/transporte/
+				 				  madrid/autobuses-emt/
+				 				  horario-vuelta-linea-27-autobuses-emt.jpg
+				 				  ...........................................
