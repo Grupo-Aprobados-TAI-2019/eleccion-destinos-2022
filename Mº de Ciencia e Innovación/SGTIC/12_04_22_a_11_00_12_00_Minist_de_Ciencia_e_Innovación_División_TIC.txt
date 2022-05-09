@@ -1,0 +1,602 @@
+###############################################################################
+###############################################################################
+MINISTERIO DE CIENCIA E INNOVACIÓN
+División TIC
+===============================================================================
+* ENTREVISTA: 12/04/2022 - 11:00 a 12:00
+			  Jesús García Marcos (Director División TIC)
+			  Angel del Peso (Adjunto del Director)
+
+
+* CONTACTO: Jesús - jesus.garcia@ciencia.gob.es
+
+
+* LUGAR: SEDE - Ministerio de Ciencia e Innovación - División TIC,
+				2 edificios principales en Cuzco y Torrelaguna
+
+		 Paseo de la Castellana, 162, 28.046 (Madrid) - Nuevos Ministerios
+		 		junto a:
+		 			+ Ministerio de Economía.
+		 			+ Ministerio de Hacienda.
+		 			+ Ministerio de Universidades.
+		 			+ Ministerio de Ciencia.
+		 Justo en el complejo de Cuzco, en la Torre.
+
+
+		 El Ministerio de Ciencia y de Innovación es un Ministerio de los de
+		 nueva creación y, por tanto, la División es una División muy joven, en
+		 múltiples aspectos:
+
+		 	- Por ser recientemente creada.
+
+		 	- Casi todo el personal es de nueva incorporación. Algunos con
+		 	  experiencia en la privada y otros con menos experiencia o sin
+		 	  experiencia que se han incorporado de cero, con lo que hay un
+		 	  ambiente y espíritu de trabajar bastante distinto a lo que puede
+		 	  ser una Subdirección de un Organismo con más años o de más larga
+		 	  solera.
+
+		 	- Se ha montado todo desde cero. Todas las infraestructuras y
+		 	  sistemas se han montado desde cero en los 3 últimos años.
+
+		 	  Para ponerse en contexto, ahora mismo están en el proceso de
+		 	  segregación final de los sistemas de este Ministerio de los del 
+		 	  Ministerio "padre", que era el Ministerio de Economía. De hecho,
+		 	  se está ejecutando ya el último paso/etapa de segregación del
+		 	  Ministerio de Economía, que consiste en:
+
+		 	  		+ Separar los equipos de las redes.
+		 	  		+ Mover los servidores de las infraestructuras de servicios
+		 	  		  de Economía a las de Ciencia.
+		 	  		etc
+
+		 Es un Ministerio dedicado íntegramente a la tramitación de todas las
+		 ayudas	para la ciencia, por lo que el 90% de los Sistemas de
+		 Información son herramientas varias de tramitación.
+
+-------------------------------------------------------------------------------
+* MOVILIDAD A PROVINCIAS (S/N/¿?): N - No hay posibilidad de movilidad a
+									   provincias, si bien es cierto que, en
+									   el CSIC si hay sedes en casi todas las
+									   provincias, pero no tienen nada que ver
+									   con ellos respecto a la gestión de las
+									   plazas.
+
+									   Les preguntan cómo reparte el CSIC las
+									   plazas y Ángel contesta que no sabe cómo
+									   trabajan en el CSIC a la hora de
+									   repartirlas las plazas. Si bien es cierto
+									   que el CSIC tiene sedes en casi todas las
+									   provincias españolas. Por lo que se ve,
+									   según Jesús, la gestión del personal del
+									   CSIC es independiente de las del
+									   Ministerio.
+-------------------------------------------------------------------------------
+
+* PLAZAS: ¿? (Nivel 15)
+
+		  Los puestos son para Cuzco, y no para Torrelaguna, que es donde está
+		  la Agencia, que participa con ellos cuando hay algunos contratos
+		  comunes de infraestructura. Para Cuzco salen para el Ministerio,
+		  porque para la Agencia no van a salir puestos.
+
+		  Ellos son ahora mismo 18 TIC, y se han solicitado un total de 12. Otra
+		  cosa es lo que se conceda. Lo que se conceda hay que repartirlo.
+
+		  Las plazas aparecen ofertadas como "Ministerio de Ciencia,
+		  Subsecretaría de Ciencia, División de Tecnologías de la Información".
+
+		  No hay perfiles preferentes. Se tienen proyectos, capacidad y trabajo
+		  para perfiles de sistemas, redes, desarrollo, etc. No hay ninguna
+		  preferencia y se intenta ser muy flexible.
+
+		  Al ser un equipo pequeño, se tiende más a gestionar proveedores, pero
+		  hay gente que le gusta mucho la labor técnica pero a la vez le gusta
+		  gestionar.
+
+		  A priori, el dueño del sistema, si es el organismo, y para este
+		  organismo se necesita tener el control absoluto y conocimiento del
+		  sistema y si se toca algo se toca incluido por funcionarios.
+
+
+
+* PROMOCIÓN: De los del año pasado ya no hay ninguno en el nivel inicial (15).
+			 Se suele respetar para subir de nivel el orden de llegada.
+
+			 Se intenta pedir puestos para reclasificarlos en lo posible.
+
+			 Les gusta ayudar a los compañeros que están para afrontar la
+			 promoción hacia grupos/subgrupos superiores (de C1 a A2 ó de A2 a
+			 A1).
+
+
+
+* HORARIO: El que establece función pública:
+				- 37,5H semanales (normal)
+					+ Obligatorio: 9:00-14:30
+				- 40H semanales (productividad)
+
+		   Se ficha por ordenador en trama, por función pública.
+		   Si alguien tiene algún problema no se suele poner problemas.
+		   Se busca buen ambiente y se busca ayudar en lo posible.
+
+		   NO SE REALIZAN GUARDIAS, porque todas las guardias las hacen los
+		   servicios externos que se han contratado. Eso no quita que alguna vez
+		   en alguna ocasión haya que echar un fin de semana para supervisar a
+		   los proveedores.
+
+		   Algunas veces se dan gratificaciones extras, pero eso ya es petición
+		   del subsecretario.
+
+
+
+* SALARIO: BASE + CD + CE + PRODUCTIVIDADES + (BUFANDAS + TRIENIOS)
+
+			Los complementos vienen en las tablas salariales. Las tablas
+			salariales son los que publica FP, que están en el portal de
+			Transparencia.
+
+
+
+* PRODUCTIVIDAD: La productividad se da aproximadamente al año de llegar. Según
+				 Ángel, es una cosa que regula Función Pública (FP) anualmente,
+				 que cuando se aprueban los presupuestos generales del estado,
+				 FP asigna a cada ministerio su presupuesto de capitulo 1 para
+				 cubrir los puestos de los funcionarios y los de la
+				 productividad, que lleva un ciclo de aprobaciones, de tiempo y
+				 demás que es lo que regula la productividad. Esto significa que
+				 no es que haya o no haya productividad, sino que es FP la que
+				 define lo que le toca a cada Ministerio, básicamente. Todo
+				 Organismo se encuentra en la misma posición.
+
+				 De entrada no se tiene asignada productividad. Al final se
+				 consigue que la tengan (los C1) utilizando algunos trucos.
+				 Si hay algún puesto vacante de la misma categoría que estos que
+				 lleva productividad se coge para ellos y se ¿recalifica? y 
+				 así se le mete la productividad.
+
+				 Se hace lo posible para que cuanto antes se obtenga la
+				 productividad.
+
+				 Puede que haya organismos que digan que la dan al entrar, pero
+				 dependerá de la situación que tenga en ese momento cada
+				 organismo. Si se le van varios igual tienen más bolsa para la
+				 productividad.
+
+				 Si alguien les garantiza que le van a dar productividad lo
+				 tomaría con prudencia y cuidado.
+
+
+
+* TELETRABAJO: El que regular Función Pública. No hay nada distinto a la
+			   normativa de trabajo de Funcíón Pública, que ahora mismo es
+			   1 jornada de trabajo o las 2 tardes de productividad.
+
+			   De todos modos, con el teletrabajo prioriza un poco la necesidad
+			   y la conveniencia de la persona. Hay trabajos que se necesitan
+			   que sea presencial y se pide asistir y otros que no lo necesitan
+			   y se puede hacer desde casa y no se pone inconveniente.
+
+			   Según Ángel, dice que seguramente el RD del teletrabajo no saldrá
+			   porque está ahora muy en stand by. Hacienda lo paró hace 3 meses.
+
+			   La subsecretaría de cada Organismo, en todo los borradores de RD
+			   dan la potestad para decidir adaptarlo y gestionarlo según sus
+			   necesidades. No todos los Organismos tienen que seguir al 100% lo
+			   que dicta el RD. Ni siquieran las Divisiones tienen capacidad de
+			   decisión, sino que todo viene definido por cada Ministerio
+			   mediante Orden Ministerial.
+
+			   Hay que diferenciar entre el teletrabajo por el motivo de evitar
+			   contagios con la pandemia del covid y el teletrabajo que llevará
+			   a cabo el RD, y que también influirá seguramente las necesidades
+			   del servicio.
+
+			   La gente de fuera de Madrid teletrabaja los lunes o los viernes.
+			   En este organismo son bastante auto-organizativos, se organizan
+			   entre ellos, y en función de lo que les viene mejor, se organizan
+			   y distribuyen a conveniencia eligiendo de teletrabajo los lunes o
+			   los viernes.
+
+			   Si bien el teletrabajo es un derecho adquirido que se empieza a
+			   disfrutar al entrar, en la medida en que se puede, en función de
+			   las circunstancias y problemas personales, se intenta facilitar
+			   en lo posible según circunstancias las posibilidades de hacerlo.
+
+
+
+* FORMACIÓN: En cada organismo se regla la formación. La llevan los RRHH de cada
+			 organismo y anualmente se hace una solicitud de una serie de cursos
+			 en función de las necesidades estructurales de cada organismo.
+
+			 Cursos externos hay los que están planificados para el año:
+			 	- Cursos del INAP (muchísimos), que tiene una plataforma de
+			 	  formación, que saca 2 veces al año.
+			 
+			 Internamente, los compañeros van aprendiendo de otros compañeros,
+			 sobre todo que estarán trabajando en donde les guste trabajar.
+
+			 Formación con respecto a Análisis de Datos, aparte de usar R, 
+			 también se tiene un entorno analítico con tecnología de Oracle.
+			 Es por ello por lo que también se han hecho cursos de Oracle DBI,
+			 de ODI (Oracle Data Integrator), de R. El año pasado se hicieron
+			 2-3 cursos y este año se tienen planificados al menos 2.
+
+
+
+* PARKING: SI - Bueno y grande.
+
+				Los patinetes no se pueden subir a la zona de trabajo, sino que
+				se deben dejar en el garaje. Hay una zona en el garaje para
+				dejar motos, bicis y cualquier otro elemento. El garaje está
+				vigilado.
+
+				No hay enchufe para cargas de vehículos eléctricos dentro del
+				garaje, pero sí que hay enchufes fuera, en el lateral de la
+				calle, que hay alrededor de 4 estaciones de carga.
+
+
+
+* CAFETERIA: SI - Bastante buena y con mucha gente. Tiene unos precios bastante
+				  baratos. Hay comedor y sitio para calentar la comida.
+
+				  4 neveras, 4 microondas, cafetera.
+
+				  Hay gente que se calienta la comida y se la come en su sitio,
+				  pero también hay un comedor al que la gente que no quiere
+				  comer en su sitio se va a comer.
+
+
+
+* GUARDERIA: SI - Pero hay que solicitarla y hay bastante gente en la lista de
+				  espera. Depende de la demanda reparten o no plazas. Depende
+				  de la Comisión del Consejo.
+
+
+
+* ACCESIBILIDAD: Muy accesible, muy preparado para personas con problemas de
+				 movilidad/accesibilidad.
+
+
+
+* TAREAS: Hay tareas de desarrollo y tareas de sistemas. La persona que entre a
+		  trabajar podrá trabajar de lo que más le guste, lo que prefiera y se
+		  le dé mejor. Hay trabajo de los 2 tipos.
+
+		  Cuando se incorpora gente de nuevas promociones, obviamente están en
+		  primer lugar las necesidades de la División, es decir, en función de
+		  los proyectos que hay, del trabajo, de la distribución de carga, etc,
+		  y luego, obviamente, en función de la experiencia y de la ambición y
+		  de lo que quiera la gente, se intenta dar cabida uno poco a la
+		  especialidad de la gente, lo que quiere aprender o de lo que quiere
+		  trabajar.
+
+		  Son muy horizontales, como desde el inicio eran poco personal, la
+		  especialización era complicada. Conforme a como se ha ido creciendo y
+		  en la medida en que se han ido dando cada vez más servicios, ha habido
+		  que ir especializando gente, pero aun así, el espíritu sigue siendo
+		  horizontal, y la gente que quiere aprender coparticipa en distintos
+		  proyectos que pueden ser de sistemas o de desarrollo, o se puede estar
+		  apoyando proyectos por temporadas. 
+
+		  Se intenta no estancar a personas en un sitio concreto, porque no
+		  forma parte de la filosofía de la División, salvo casos concretos de
+		  compañeros que expresamente han querido quedarse siempre en unas
+		  tareas concretas porque no encaje en otras.
+
+		  No falta trabajo. Se tienen muchas cosas que rematar y muchas ideas y
+		  ganas de hacer cosas nuevas distintas a las de otros sitios. Hay una
+		  ventaja, que es que, desde el punto de vista económico hay bastante
+		  dinero para hacer muchos proyectos y otras cosas. Al ser la ciencia
+		  uno de los ejes del gobierno, y económicamente, al igual que el resto
+		  de unidades del ministerio, se tiene capacidad para invertir y
+		  desarrollar sistemas que apoyen a los procesos alrededor de la ciencia
+		  en España.
+
+		  Hay poca jerarquía. Cualquier C1 va a estar participando de las
+		  decisiones de alto nivel de control y, en ese sentido, han estado
+		  todos al unísono, porque todos forman parte del proyecto. De hecho,
+		  hay C1 como jefes de proyecto de algunos sistemas que se están
+		  desarrollando, porque ellos tienen experiencia, querían y se han
+		  atrevido a hacerlo y lo están haciendo relativamente bien. También C1
+		  analistas dirigiendo a Analistas externos. No son clasistas
+		  prácticamente en ningún sentido.
+
+		  Es una planta 19 de una torre diáfana, donde todos participan al mismo
+		  nivel sin una jerarquía.
+
+		  Hay un departamento de calidad y pruebas en proceso de montar, al
+		  igual que se tiene un Área de arquitectura de aplicaciones que también
+		  se está montando desde cero.
+
+
+
+* TECNOLOGÍAS: Hay varias, que van desde las tecnologías al uso que tienen ya
+			   todos en sus puestos de trabajo, que son del entorno Microsoft,
+			   a la parte de aplicaciones en la que se tienen tecnologías muy
+			   variadas como:
+
+			   		- .NET.
+			   		- J2EE.
+			   		- Oracle BD.
+			   		- Todos los ecosistemas que hay alrededor de estas
+			   		  tecnologías, como son:
+
+			   		  		# Máquinas linux.
+			   		  		# Tomcat.
+			   		  		# JBOSS.
+			   		  		# Apache.
+			   		  		etc
+
+			   Se tiene una infraestructura diseñada y montada desde cero, que
+			   está basada en 4 Data Center (2 propios en los 2 edificios
+			   principales de Cuzco y Torrelaguna y 2 en un i access flexible).
+			   Los 4 están interconectados, y los servicios se distribuyen entre
+			   ellos en función de criticidad o la cercanía respecto al puesto
+			   de trabajo.
+
+			   Se tienen unas herramientas/servicios propios de seguridad
+			   también independizados, también basados en herramientas y
+			   soluciones en la nube, conectadas con las herramientas del
+			   CCN-CERT, que se han ido montando estos 3 últimos años.
+
+			   En el plan de puesta en marcha del SOCKET de la AGE y de todos
+			   los servicios asociados, este Organismo es el único organismo de
+			   nueva creación que está en la última fase, porque ya tienen
+			   montados todos los servicios, por lo que se incorporarán al
+			   socket de la Age pero después de otros organismos que no tenían
+			   estos servicios o no les han dado tiempo a montarlos por
+			   determinadas casuísticas y distintas situaciones.
+
+			   Básicamente todas las cosas con las que trabajan o están en la
+			   nube o están pensadas para integrarse con la nube.
+
+			   La infraestructura que se tiene de servicios, los 2 datacenter
+			   propios, son un IaaS que se denominan servicio como 
+			   infraestructura en la nube, nube propia, pero diseñada para
+			   hibridarse cuando se tengan las aplicaciones preparadas para
+			   hibridarse.
+
+			   Se ha migrado hacia un ¿system-65? (o system 365???).
+
+			   Sigue Jesús García Marcos completando la información de lo que
+			   se tiene en el Organismo, sobre flujo de información referente a
+			   las ayudas, subvenciones relacionadas con la ciencia. Se están
+			   montando sobre esa nube unos data-lake para exclusivamente poder
+			   recoger la información y todo lo que se mueve alrededor de las
+			   investigaciones científico-técnicas en lo que respecta a las
+			   subvenciones y poder hacer un seguimiento hasta el final. Incluso
+			   se va a ir creciendo de tal forma que se puedan enlazar esos
+			   proyectos con las universidades, laboratorios y Organismos. Ese
+			   es el proceso fuerte que se tienen en este Organismo de
+			   información.
+
+
+			 - Hay Sistemas de ticketing donde se presta servicio a las unidades
+			   de negocio:
+
+					# Incidencias (estándar).
+					# Peticiones (estándar).
+					# Solicitudes (estándar).
+					etc.
+
+			   Se usan 2 sistemas de ticketing:
+
+					+ JIRA para desarrollo, pero se está pensando en darle una
+				  	  vuelta a su uso.
+
+					+ Para sistemas, la herramienta de ticketing se llama GLPI,
+					  que es una herramienta Open Software.
+
+
+			  - Contenedores, orquestadores, openshift, etc se ha heredado un
+			    entorno de aplicaciones bastante antiguo. Se está haciendo una
+			    migración desde las infraestructuras actuales se está haciendo
+			    una primera modernización, pero el siguiente salto y con eso se
+			    ha diseñado las infraestructuras nuevas, es irse a:
+
+			  		+ Arquitecturas de contenedores.
+			  		+ Arquitecturas de servicios distribuídos.
+			  		+ Microservicios.
+
+			    Muchas cosas que se quieren hacer en los próximos años.
+
+
+			  - Ciberseguridad abarca varios servicios y varios niveles de
+				seguridad, que se tienen internos, propios, se tiene:
+
+			 		+ Oficina técnica de seguridad.
+			 		+ Servicio en la nube con varias capas.
+
+				Buena parte de las herramientas CCN montadas e interconectadas
+				con sistemas de terceros en la nube, que hacen una
+				monitorización e intervención en caso necesario 24/7.
+
+
+			  - ¿Algo de host? NO, no hay ningún mainframe.
+
+
+			  - Sistemas Linux? Sistemas Windows? Alguien puede trabajar en
+			    Linux? (proporción 70%-80% Linux y 30%-20% windows).
+
+				Todos los sistemas corporativos, de tramitación y demás están en
+				entornos Linux.
+
+				En entornos windows están todos los servicios que hay alrededor
+				del puesto de trabajo, fundamentalmente, además de un pequeño
+				grupo de aplicaciones que dan servicios horizontales a los
+				sistemas de tramitación que se heredan hechos en .NET.
+
+
+			  - Respecto a Redes, las comunicaciones y demás, las líneas van por
+				el contrato unificado de comunicaciones que gestiona la SGAD. En
+				ese sentido, lo que se hace es trabajar con la SGAD con una
+				herramienta que pone disponible para:
+
+					+ Solicitud de nuevas líneas.
+					+ Mantenimiento.
+					+ Problemas e incidencias.
+					etc
+
+				se tienen los servicios propios a nivel de LAN y de WAN para
+				comunicar las sedes o para dar servicios de red a sus edificios.
+
+				Se tiene un servicio de Sistemas, el Área de Sistemas tiene un
+				equipo interno de funcionarios y un equipo externo con una
+				empresa. Hay cosas que hace el funcionario y otras los externos
+				en función de cómo se reparten los trabajos.
+
+				Cuando el trabajo es mucho, se suele contratar un equipo externo
+				dada las pocas posibilidades que dan el pequeño equipo de
+				funcionarios que se tiene. Así se tiene disponibilidad plena
+				para estar pendientes del Sistema de manera dedicada a las redes
+				de la División.
+
+
+			  - ¿Se usa Python? Se usa algo, sobre todo respecto al tema de la
+				explotación de datos y el data lake que se está montando aún y
+				no está en producción, se está implementando aún.
+
+				Data Lake = repositorio de almacenamiento que contienen gran
+							cantidad de datos en bruto y que se mantienen allí
+							hasta que sea necesario. Aa diferencia del data
+							warehouse jerárquico, que almacena datos en ficheros
+							o carpetas, un data lake utiliza una arquitectura
+							plana para almacenar datos.
+
+
+			  - ¿Analyst Data Engineer?	Cualquiera que tenga experiencia y que
+				le guste ese entorno es bienvenido.
+
+				Explicación aparte de la entrevista (contenido de internet):
+
+					+ En los proyectos de Ciencia de Datos es necesaria la
+					  división en roles, basadas en distintas habilidades y
+					  conocimientos profesionales, para garantizar un resultado
+					  exitoso y un cliente satisfecho.
+
+					+ El DATA ENGINEER (DE) es el que arma el entorno de trabajo
+					  y el repositorio de datos para que el DATA SCIENTIST y el
+					  DATA ANALYST trabajen y garantiza que desde el punto de
+					  vista técnico todo funcione bien.
+
+					+ El DATA ANALYST (DA) surge como un rol fundamental para
+					  brindar al equipo un entendimiento completo del negocio
+					  del cliente. Analiza los datos que facilita el cliente,
+					  pero también se comunica con él, define alcances y es
+					  quien entiende si el modelo responde o no a las
+					  necesidades que la organización plantea.
+
+					+ El DATA SCIENTIST (DS) no debe ser un profesional
+					  polifuncional que se ocupe de todo el proceso del Data
+					  Science de principio a fin, sino que se enfocará
+					  exclusivamente en todo lo relacionado con el problema
+					  científico. Es el que construye el modelo de Machine
+					  Learning, tomando el resultado del proceso de selección de
+					  características, diseña el modelo inicial, lo construye,
+					  lo parametriza y lo exporta para su entrenamiento.
+
+
+					  					Matemáticas,
+					  	----------------Estadísticas,----------------
+					  	|				algoritmos					|
+					  	|					|						|
+					  	V 					V						V
+					  	
+					  	DE 					DS 						DA
+
+					  	|--------------------|						|
+					  	|					 |						|
+					  	|					 |----------------------|
+					  	|											|
+					  	|											|
+					  	V 											V
+					Ingeniería									Comunicación
+						del 										de
+					Software										Datos
+
+
+			 	Se maneja R, ODI (Oracle Data Integrator), Oracle DBI.
+
+			 	Como herramienta ETL se ha decidido que se use ODI (Oracle Data
+			 	Integrator).
+
+			 	ETL = un tipo de integración de datos que hace referencia a los
+			 		  3 pasos que se utilizan para mezclar datos de múltiples
+			 		  fuentes. Se utiliza a menudo para construir un almacén de
+			 		  datos. Los 3 pasos son:
+
+			 		  		+ Extraer.
+			 		  		+ Transformar.
+			 		  		+ Cargar.
+
+			 	En el Data Lake se va a montar algo más con tecnología Oracle,
+			 	pero como todas las aplicaciones de negocio residen en BD de
+			 	Oracle, se van a hacer con ODI, que se integra con las distintas
+			 	tecnologías.
+
+
+			  - En Desarrollo se emplean J2EE, .NET y en el Data Lake se usa R
+				y todo lo que hay alrededor. Lo que no quita es que se puedan
+				hacer cosas nuevas, porque se está intentando dar una segunda
+				vuelta de tuerca para las infraestructuras y tecnologías ya
+				heredadas de ministerio anterior.
+
+				Comenta Jesús que, al poco tiempo de llegar la primera promoción
+				de C1, cuando se creó el Ministerio, 2 de los C1 que llegaron
+				fueron los que montaron la sede electrónica de ACCEDA, que es
+				la Sede y Gestión electrónica de procedimientos. Es una
+				plataforma modular que integra tres componentes principales:
+
+					+ Una sede-e.
+
+					+ Un completo gestor para la tramitación electrónica de los
+					  expedientes que se inician en la sede.
+
+					+ Una herramienta para su administración y configuración,
+					  que incluye un gestor de contenidos de la sede y un editor
+					  de formularios propio.
+
+					ACCEDA = ACceso de los Ciudadanos a los Expedientes De la
+						 	 Administración.
+
+				Por tanto, ACCEDA fue el diseño de una voluntad propia de 2 C1.
+
+
+			  - METODOLOGÍAS AGILES, no se usaban antes, y se ha partido desde
+			    cero, montando un entorno de integración contínua automatizado
+			    con un montón de herramientas que antes no se usaban y se le va
+			    a dar una vuelta adicional. La mayor parte es tecnología J2EE.
+
+			    La mayor parte de los sistemas que gestionan/tramitan toda la
+			    inversión en la ciencia están basados en J2EE, que es la
+			    tecnología predominante, pero el Data Lake le va a robar algo
+			    de protagonismo en algún momento.
+
+
+
+* ACCIÓN SOCIAL: SI - Hay un programa de acción social todos los años, que tiene
+				      muchos capítulos:
+
+				      + Una parte sanitaria.
+				      + Ayudas al estudio.
+				      + Ayudas a la vivienda.
+				      + Ayudas al transporte.
+				      etc
+
+				      Cada ayuda tiene una cantidad de ayuda y va en función
+				      del grupo/subgrupo de funcionarios.
+
+				      Respecto a la ayuda social se tiene una ventaja, y es que
+				      al ser menos funcionarios, la ayuda es más amplia.
+
+				      Los Departamentos internos no pueden dar ayudas, pero lo
+				      que si que se tiene es ayudas sociales es en alquiler de
+				      vivienda y para la adquisición de vivienda. Pero estas
+				      ayudas no pertenecen al Departamento, sino que son ayudas
+				      sociales ajenas al departamento. Esto normalmente lo
+				      gestiona las Subdirecciones de personal, con una
+				      aplicación que va directamente a función pública y hay que
+				      registrarse e introducir todos los datos en dicha
+				      aplicación.
+
