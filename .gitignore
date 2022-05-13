@@ -1,0 +1,12 @@
+*~*
+
+# IntelliJ
+**/.idea/
+**/out/
+**/java.iml
+
+**/videos
+**/*.mp4
+**/*.avi
+**/*.mkv
+**/*.mp3
